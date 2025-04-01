@@ -1,0 +1,84 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "15",
+    "taz" : "121",
+    "korzethatarok" : [ {
+      "szavkor" : "001",
+      "kt_nev" : "Béke",
+      "kt_jelleg" : "utca",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "001",
+      "kt_nev" : "Bethlen Gábor",
+      "kt_jelleg" : "utca",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "001",
+      "kt_nev" : "Hősök",
+      "kt_jelleg" : "tere",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "001",
+      "kt_nev" : "Kossuth Lajos",
+      "kt_jelleg" : "utca",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "001",
+      "kt_nev" : "Kültelek",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "001",
+      "kt_nev" : "Major",
+      "kt_jelleg" : "major",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "001",
+      "kt_nev" : "Major",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "001",
+      "kt_nev" : "Mátyás király",
+      "kt_jelleg" : "utca",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "001",
+      "kt_nev" : "Pázmány Péter",
+      "kt_jelleg" : "tér",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "001",
+      "kt_nev" : "Petőfi Sándor",
+      "kt_jelleg" : "utca",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "002",
+      "kt_nev" : "Rácegres",
+      "kt_jelleg" : "utca",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "001",
+      "kt_nev" : "Rákóczi Ferenc",
+      "kt_jelleg" : "utca",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "001",
+      "kt_nev" : "Széchenyi István",
+      "kt_jelleg" : "utca",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "001",
+      "kt_nev" : "Szent István",
+      "kt_jelleg" : "utca",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "001",
+      "kt_nev" : "Tátompuszta",
+      "int_tip" : "2"
+    } ]
+  }
+}

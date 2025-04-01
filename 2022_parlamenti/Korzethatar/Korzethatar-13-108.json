@@ -1,0 +1,127 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "13",
+    "taz" : "108",
+    "korzethatarok" : [ {
+      "szavkor" : "001",
+      "kt_nev" : "Ady Endre",
+      "kt_jelleg" : "utca",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "001",
+      "kt_nev" : "Akácfa",
+      "kt_jelleg" : "utca",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "001",
+      "kt_nev" : "Alkotmány",
+      "kt_jelleg" : "út",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "001",
+      "kt_nev" : "Arany János",
+      "kt_jelleg" : "út",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "002",
+      "kt_nev" : "Árpád",
+      "kt_jelleg" : "utca",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "002",
+      "kt_nev" : "Balassi",
+      "kt_jelleg" : "utca",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "001",
+      "kt_nev" : "Bánya",
+      "kt_jelleg" : "telep",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "001",
+      "kt_nev" : "Béke",
+      "kt_jelleg" : "utca",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "001",
+      "kt_nev" : "Cservölgy",
+      "kt_jelleg" : "puszta",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "002",
+      "kt_nev" : "Dózsa György",
+      "kt_jelleg" : "út",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "001",
+      "kt_nev" : "Hársfa",
+      "kt_jelleg" : "utca",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "001",
+      "kt_nev" : "Hősök",
+      "kt_jelleg" : "tere",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "002",
+      "kt_nev" : "Hunyadi",
+      "kt_jelleg" : "utca",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "002",
+      "kt_nev" : "Jókai",
+      "kt_jelleg" : "utca",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "001",
+      "kt_nev" : "Kossuth",
+      "kt_jelleg" : "utca",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "002",
+      "kt_nev" : "Madách",
+      "kt_jelleg" : "út",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "001",
+      "kt_nev" : "Nelásd",
+      "kt_jelleg" : "puszta",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "001",
+      "kt_nev" : "Petőfi",
+      "kt_jelleg" : "utca",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "001",
+      "kt_nev" : "Rákóczi",
+      "kt_jelleg" : "út",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "001",
+      "kt_nev" : "Rózsa",
+      "kt_jelleg" : "utca",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "001",
+      "kt_nev" : "Szabadság",
+      "kt_jelleg" : "utca",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "002",
+      "kt_nev" : "Szondi",
+      "kt_jelleg" : "út",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "001",
+      "kt_nev" : "Szőlőkalja",
+      "kt_jelleg" : "puszta",
+      "int_tip" : "2"
+    } ]
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "15",
+    "taz" : "113",
+    "korzethatarok" : [ {
+      "szavkor" : "002",
+      "kt_nev" : "Ady",
+      "kt_jelleg" : "utca",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "001",
+      "kt_nev" : "Cser",
+      "kt_jelleg" : "telep",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "002",
+      "kt_nev" : "Erdősor",
+      "kt_jelleg" : "utca",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "002",
+      "kt_nev" : "Iskola",
+      "kt_jelleg" : "köz",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "001",
+      "kt_nev" : "Jókai",
+      "kt_jelleg" : "utca",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "002",
+      "kt_nev" : "Kossuth",
+      "kt_jelleg" : "utca",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "001",
+      "kt_nev" : "Kozma",
+      "kt_jelleg" : "puszta",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "001",
+      "kt_nev" : "Petőfi",
+      "kt_jelleg" : "utca",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "002",
+      "kt_nev" : "Szabadság",
+      "kt_jelleg" : "utca",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "001",
+      "kt_nev" : "Szellő",
+      "kt_jelleg" : "utca",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "001",
+      "kt_nev" : "Szőlőhegy",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "001",
+      "kt_nev" : "Táncsics",
+      "kt_jelleg" : "utca",
+      "int_tip" : "5",
+      "kezd_hsz" : "000001",
+      "zaro_hsz" : "000060"
+    }, {
+      "szavkor" : "002",
+      "kt_nev" : "Táncsics",
+      "kt_jelleg" : "utca",
+      "int_tip" : "5",
+      "kezd_hsz" : "000060/B",
+      "zaro_hsz" : "999998",
+      "zaro_ep" : "9999"
+    } ]
+  }
+}

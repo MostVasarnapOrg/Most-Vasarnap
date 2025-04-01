@@ -1,0 +1,43 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "02",
+    "taz" : "036",
+    "korzethatarok" : [ {
+      "szavkor" : "001",
+      "kt_nev" : "Akácos",
+      "kt_jelleg" : "utca",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "003",
+      "kt_nev" : "Antalszállás",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "001",
+      "kt_nev" : "Elemérpuszta",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "001",
+      "kt_nev" : "Kossuth",
+      "kt_jelleg" : "utca",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "001",
+      "kt_nev" : "Öreg-hegy",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "001",
+      "kt_nev" : "Petőfi Sándor",
+      "kt_jelleg" : "utca",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "002",
+      "kt_nev" : "Terecseny",
+      "int_tip" : "2"
+    } ]
+  }
+}

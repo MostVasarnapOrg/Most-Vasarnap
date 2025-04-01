@@ -1,0 +1,162 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "09",
+    "taz" : "041",
+    "korzethatarok" : [ {
+      "szavkor" : "001",
+      "kt_nev" : "Ady Endre",
+      "kt_jelleg" : "utca",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "001",
+      "kt_nev" : "Arany János",
+      "kt_jelleg" : "utca",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "001",
+      "kt_nev" : "Bánát",
+      "kt_jelleg" : "utca",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "001",
+      "kt_nev" : "Bem József",
+      "kt_jelleg" : "utca",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "001",
+      "kt_nev" : "Bethlen Gábor",
+      "kt_jelleg" : "utca",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "001",
+      "kt_nev" : "Bihari",
+      "kt_jelleg" : "utca",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "001",
+      "kt_nev" : "Bocskai",
+      "kt_jelleg" : "utca",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "001",
+      "kt_nev" : "Damjanich",
+      "kt_jelleg" : "utca",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "001",
+      "kt_nev" : "Debreceni",
+      "kt_jelleg" : "utca",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "001",
+      "kt_nev" : "Dózsa György",
+      "kt_jelleg" : "utca",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "001",
+      "kt_nev" : "Fő",
+      "kt_jelleg" : "utca",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "001",
+      "kt_nev" : "Hétház",
+      "kt_jelleg" : "utca",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "001",
+      "kt_nev" : "Jókai Mór",
+      "kt_jelleg" : "utca",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "001",
+      "kt_nev" : "József Attila",
+      "kt_jelleg" : "utca",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "001",
+      "kt_nev" : "Kert",
+      "kt_jelleg" : "utca",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "001",
+      "kt_nev" : "Kikol",
+      "kt_jelleg" : "tanya",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "001",
+      "kt_nev" : "Korhán",
+      "kt_jelleg" : "tanya",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "001",
+      "kt_nev" : "Kossuth Lajos",
+      "kt_jelleg" : "utca",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "001",
+      "kt_nev" : "Mező",
+      "kt_jelleg" : "utca",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "001",
+      "kt_nev" : "Nagyváradi",
+      "kt_jelleg" : "utca",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "001",
+      "kt_nev" : "Petőfi Sándor",
+      "kt_jelleg" : "utca",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "001",
+      "kt_nev" : "Rákóczi Ferenc",
+      "kt_jelleg" : "utca",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "001",
+      "kt_nev" : "Samarja",
+      "kt_jelleg" : "utca",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "001",
+      "kt_nev" : "Szabadság",
+      "kt_jelleg" : "utca",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "001",
+      "kt_nev" : "Széchenyi",
+      "kt_jelleg" : "utca",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "001",
+      "kt_nev" : "Szélső",
+      "kt_jelleg" : "utca",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "001",
+      "kt_nev" : "Sziget",
+      "kt_jelleg" : "utca",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "001",
+      "kt_nev" : "Táncsics Mihály",
+      "kt_jelleg" : "utca",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "001",
+      "kt_nev" : "Templom",
+      "kt_jelleg" : "utca",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "001",
+      "kt_nev" : "Vasút",
+      "kt_jelleg" : "utca",
+      "int_tip" : "2"
+    } ]
+  }
+}

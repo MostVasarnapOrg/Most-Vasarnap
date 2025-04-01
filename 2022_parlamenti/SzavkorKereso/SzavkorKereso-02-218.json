@@ -1,0 +1,223 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "02",
+    "taz" : "218",
+    "kozteruletek" : [ {
+      "kt_nev" : "Álmos",
+      "kt_jelleg" : "völgy",
+      "kapuk" : [ {
+        "hsz" : "000001",
+        "szavkor" : "001"
+      } ]
+    }, {
+      "kt_nev" : "Kishegy",
+      "kapuk" : [ {
+        "hsz" : "000001",
+        "szavkor" : "001"
+      }, {
+        "hsz" : "000002",
+        "szavkor" : "001"
+      }, {
+        "hsz" : "000003",
+        "szavkor" : "001"
+      }, {
+        "hsz" : "000004",
+        "szavkor" : "001"
+      }, {
+        "hsz" : "000620",
+        "szavkor" : "001"
+      }, {
+        "hsz" : "000922",
+        "szavkor" : "001"
+      } ]
+    }, {
+      "kt_nev" : "Kossuth Lajos",
+      "kt_jelleg" : "utca",
+      "kapuk" : [ {
+        "hsz" : "000001",
+        "szavkor" : "001"
+      }, {
+        "hsz" : "000002",
+        "szavkor" : "001"
+      }, {
+        "hsz" : "000003",
+        "szavkor" : "001"
+      }, {
+        "hsz" : "000004",
+        "szavkor" : "001"
+      }, {
+        "hsz" : "000005",
+        "szavkor" : "001"
+      }, {
+        "hsz" : "000006",
+        "szavkor" : "001"
+      }, {
+        "hsz" : "000007",
+        "szavkor" : "001"
+      }, {
+        "hsz" : "000008",
+        "szavkor" : "001"
+      }, {
+        "hsz" : "000009",
+        "szavkor" : "001"
+      }, {
+        "hsz" : "000010",
+        "szavkor" : "001"
+      }, {
+        "hsz" : "000011",
+        "szavkor" : "001"
+      }, {
+        "hsz" : "000012",
+        "szavkor" : "001"
+      }, {
+        "hsz" : "000013",
+        "szavkor" : "001"
+      }, {
+        "hsz" : "000014",
+        "szavkor" : "001"
+      }, {
+        "hsz" : "000015",
+        "szavkor" : "001"
+      }, {
+        "hsz" : "000016",
+        "szavkor" : "001"
+      }, {
+        "hsz" : "000017",
+        "szavkor" : "001"
+      }, {
+        "hsz" : "000018",
+        "szavkor" : "001"
+      }, {
+        "hsz" : "000019",
+        "szavkor" : "001"
+      }, {
+        "hsz" : "000020",
+        "szavkor" : "001"
+      }, {
+        "hsz" : "000020/A",
+        "szavkor" : "001"
+      }, {
+        "hsz" : "000022",
+        "szavkor" : "001"
+      }, {
+        "hsz" : "000023",
+        "szavkor" : "001"
+      }, {
+        "hsz" : "000024",
+        "szavkor" : "001"
+      }, {
+        "hsz" : "000025",
+        "szavkor" : "001"
+      } ]
+    }, {
+      "kt_nev" : "Malom",
+      "kapuk" : [ {
+        "hsz" : "000000",
+        "szavkor" : "001"
+      }, {
+        "hsz" : "000001",
+        "szavkor" : "001"
+      } ]
+    }, {
+      "kt_nev" : "Nagyhegy",
+      "kt_jelleg" : "dűlő",
+      "kapuk" : [ {
+        "hsz" : "000730",
+        "szavkor" : "001"
+      } ]
+    }, {
+      "kt_nev" : "Nagyhegy",
+      "kapuk" : [ {
+        "hsz" : "000001",
+        "szavkor" : "001"
+      }, {
+        "hsz" : "000710",
+        "szavkor" : "001"
+      }, {
+        "hsz" : "000773/1",
+        "szavkor" : "001"
+      }, {
+        "hsz" : "754",
+        "szavkor" : "001"
+      }, {
+        "hsz" : "796",
+        "szavkor" : "001"
+      } ]
+    }, {
+      "kt_nev" : "Petőfi Sándor",
+      "kt_jelleg" : "utca",
+      "kapuk" : [ {
+        "hsz" : "000001",
+        "szavkor" : "001"
+      }, {
+        "hsz" : "000002",
+        "szavkor" : "001"
+      }, {
+        "hsz" : "000003",
+        "szavkor" : "001"
+      }, {
+        "hsz" : "000003/A",
+        "szavkor" : "001"
+      }, {
+        "hsz" : "000004",
+        "szavkor" : "001"
+      }, {
+        "hsz" : "000005",
+        "szavkor" : "001"
+      }, {
+        "hsz" : "000006",
+        "szavkor" : "001"
+      }, {
+        "hsz" : "000007",
+        "szavkor" : "001"
+      }, {
+        "hsz" : "000008",
+        "szavkor" : "001"
+      }, {
+        "hsz" : "000009",
+        "szavkor" : "001"
+      }, {
+        "hsz" : "000010",
+        "szavkor" : "001"
+      }, {
+        "hsz" : "000011",
+        "szavkor" : "001"
+      }, {
+        "hsz" : "000012",
+        "szavkor" : "001"
+      }, {
+        "hsz" : "000013",
+        "szavkor" : "001"
+      }, {
+        "hsz" : "000014",
+        "szavkor" : "001"
+      }, {
+        "hsz" : "000015",
+        "szavkor" : "001"
+      } ]
+    }, {
+      "kt_nev" : "Várhegy",
+      "kapuk" : [ {
+        "hsz" : "000214/1",
+        "szavkor" : "001"
+      }, {
+        "hsz" : "000236/1",
+        "szavkor" : "001"
+      }, {
+        "hsz" : "000270",
+        "szavkor" : "001"
+      }, {
+        "hsz" : "000288/1",
+        "szavkor" : "001"
+      }, {
+        "hsz" : "296",
+        "szavkor" : "001"
+      } ]
+    } ]
+  }
+}

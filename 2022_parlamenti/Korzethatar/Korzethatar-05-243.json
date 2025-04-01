@@ -1,0 +1,37 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "05",
+    "taz" : "243",
+    "korzethatarok" : [ {
+      "szavkor" : "001",
+      "kt_nev" : "Deák Ferenc",
+      "kt_jelleg" : "út",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "001",
+      "kt_nev" : "Dózsa György",
+      "kt_jelleg" : "út",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "001",
+      "kt_nev" : "Hunyadi",
+      "kt_jelleg" : "út",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "001",
+      "kt_nev" : "Rákóczi",
+      "kt_jelleg" : "út",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "001",
+      "kt_nev" : "Vörösmarty",
+      "kt_jelleg" : "út",
+      "int_tip" : "2"
+    } ]
+  }
+}

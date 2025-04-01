@@ -1,0 +1,1712 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "01",
+    "taz" : "001",
+    "korzethatarok" : [ {
+      "szavkor" : "016",
+      "kt_nev" : "Ág",
+      "kt_jelleg" : "utca",
+      "int_tip" : "3"
+    }, {
+      "szavkor" : "014",
+      "kt_nev" : "Ág",
+      "kt_jelleg" : "utca",
+      "int_tip" : "4"
+    }, {
+      "szavkor" : "019",
+      "kt_nev" : "Aladár",
+      "kt_jelleg" : "utca",
+      "int_tip" : "4",
+      "kezd_hsz" : "000001",
+      "zaro_hsz" : "000009/B"
+    }, {
+      "szavkor" : "014",
+      "kt_nev" : "Aladár",
+      "kt_jelleg" : "utca",
+      "int_tip" : "4",
+      "kezd_hsz" : "000011",
+      "zaro_hsz" : "999999",
+      "zaro_ep" : "9999"
+    }, {
+      "szavkor" : "019",
+      "kt_nev" : "Aladár",
+      "kt_jelleg" : "utca",
+      "int_tip" : "3"
+    }, {
+      "szavkor" : "012",
+      "kt_nev" : "Alagút",
+      "kt_jelleg" : "utca",
+      "int_tip" : "5",
+      "kezd_hsz" : "000001",
+      "zaro_hsz" : "000001"
+    }, {
+      "szavkor" : "013",
+      "kt_nev" : "Alagút",
+      "kt_jelleg" : "utca",
+      "int_tip" : "4",
+      "kezd_hsz" : "000005",
+      "zaro_hsz" : "999999",
+      "zaro_ep" : "9999"
+    }, {
+      "szavkor" : "015",
+      "kt_nev" : "Alagút",
+      "kt_jelleg" : "utca",
+      "int_tip" : "3"
+    }, {
+      "szavkor" : "013",
+      "kt_nev" : "Alkotás",
+      "kt_jelleg" : "utca",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "020",
+      "kt_nev" : "Alsóhegy",
+      "kt_jelleg" : "utca",
+      "int_tip" : "4",
+      "kezd_hsz" : "000001",
+      "zaro_hsz" : "000007"
+    }, {
+      "szavkor" : "019",
+      "kt_nev" : "Alsóhegy",
+      "kt_jelleg" : "utca",
+      "int_tip" : "4",
+      "kezd_hsz" : "000009",
+      "zaro_hsz" : "999999",
+      "zaro_ep" : "9999"
+    }, {
+      "szavkor" : "020",
+      "kt_nev" : "Alsóhegy",
+      "kt_jelleg" : "utca",
+      "int_tip" : "3"
+    }, {
+      "szavkor" : "001",
+      "kt_nev" : "Anna",
+      "kt_jelleg" : "utca",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "018",
+      "kt_nev" : "Apród",
+      "kt_jelleg" : "utca",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "004",
+      "kt_nev" : "Aranyhal",
+      "kt_jelleg" : "utca",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "018",
+      "kt_nev" : "Attila",
+      "kt_jelleg" : "út",
+      "int_tip" : "3",
+      "kezd_hsz" : "000000 0002",
+      "zaro_hsz" : "000002/B"
+    }, {
+      "szavkor" : "018",
+      "kt_nev" : "Attila",
+      "kt_jelleg" : "út",
+      "int_tip" : "4",
+      "kezd_hsz" : "000001",
+      "zaro_hsz" : "000031/A"
+    }, {
+      "szavkor" : "012",
+      "kt_nev" : "Attila",
+      "kt_jelleg" : "út",
+      "int_tip" : "3",
+      "kezd_hsz" : "000004",
+      "zaro_hsz" : "000004",
+      "zaro_ep" : "A"
+    }, {
+      "szavkor" : "013",
+      "kt_nev" : "Attila",
+      "kt_jelleg" : "út",
+      "int_tip" : "3",
+      "kezd_hsz" : "000006",
+      "zaro_hsz" : "000010"
+    }, {
+      "szavkor" : "012",
+      "kt_nev" : "Attila",
+      "kt_jelleg" : "út",
+      "int_tip" : "3",
+      "kezd_hsz" : "000012",
+      "zaro_hsz" : "999998",
+      "zaro_ep" : "9999"
+    }, {
+      "szavkor" : "017",
+      "kt_nev" : "Attila",
+      "kt_jelleg" : "út",
+      "int_tip" : "4",
+      "kezd_hsz" : "000033",
+      "zaro_hsz" : "000041"
+    }, {
+      "szavkor" : "015",
+      "kt_nev" : "Attila",
+      "kt_jelleg" : "út",
+      "int_tip" : "4",
+      "kezd_hsz" : "000043",
+      "zaro_hsz" : "000053"
+    }, {
+      "szavkor" : "012",
+      "kt_nev" : "Attila",
+      "kt_jelleg" : "út",
+      "int_tip" : "4",
+      "kezd_hsz" : "000057",
+      "zaro_hsz" : "000083"
+    }, {
+      "szavkor" : "011",
+      "kt_nev" : "Attila",
+      "kt_jelleg" : "út",
+      "int_tip" : "4",
+      "kezd_hsz" : "000085",
+      "zaro_hsz" : "000121"
+    }, {
+      "szavkor" : "010",
+      "kt_nev" : "Attila",
+      "kt_jelleg" : "út",
+      "int_tip" : "4",
+      "kezd_hsz" : "000123",
+      "zaro_hsz" : "999999",
+      "zaro_ep" : "9999"
+    }, {
+      "szavkor" : "019",
+      "kt_nev" : "Avar",
+      "kt_jelleg" : "utca",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "002",
+      "kt_nev" : "Babits Mihály",
+      "kt_jelleg" : "sétány",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "001",
+      "kt_nev" : "Balta",
+      "kt_jelleg" : "köz",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "004",
+      "kt_nev" : "Batthyány",
+      "kt_jelleg" : "tér",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "004",
+      "kt_nev" : "Batthyány",
+      "kt_jelleg" : "utca",
+      "int_tip" : "4",
+      "kezd_hsz" : "000001",
+      "zaro_hsz" : "000003"
+    }, {
+      "szavkor" : "004",
+      "kt_nev" : "Batthyány",
+      "kt_jelleg" : "utca",
+      "int_tip" : "5",
+      "kezd_hsz" : "000002",
+      "zaro_hsz" : "000002"
+    }, {
+      "szavkor" : "007",
+      "kt_nev" : "Batthyány",
+      "kt_jelleg" : "utca",
+      "int_tip" : "3",
+      "kezd_hsz" : "000004",
+      "zaro_hsz" : "000008"
+    }, {
+      "szavkor" : "007",
+      "kt_nev" : "Batthyány",
+      "kt_jelleg" : "utca",
+      "int_tip" : "4",
+      "kezd_hsz" : "000005",
+      "zaro_hsz" : "000025"
+    }, {
+      "szavkor" : "008",
+      "kt_nev" : "Batthyány",
+      "kt_jelleg" : "utca",
+      "int_tip" : "3",
+      "kezd_hsz" : "000010",
+      "zaro_hsz" : "000038"
+    }, {
+      "szavkor" : "008",
+      "kt_nev" : "Batthyány",
+      "kt_jelleg" : "utca",
+      "int_tip" : "4",
+      "kezd_hsz" : "000027",
+      "zaro_hsz" : "000049"
+    }, {
+      "szavkor" : "006",
+      "kt_nev" : "Batthyány",
+      "kt_jelleg" : "utca",
+      "int_tip" : "3",
+      "kezd_hsz" : "000046",
+      "zaro_hsz" : "000048"
+    }, {
+      "szavkor" : "009",
+      "kt_nev" : "Batthyány",
+      "kt_jelleg" : "utca",
+      "int_tip" : "3",
+      "kezd_hsz" : "000050",
+      "zaro_hsz" : "000056"
+    }, {
+      "szavkor" : "009",
+      "kt_nev" : "Batthyány",
+      "kt_jelleg" : "utca",
+      "int_tip" : "4",
+      "kezd_hsz" : "000051",
+      "zaro_hsz" : "999999",
+      "zaro_ep" : "9999"
+    }, {
+      "szavkor" : "008",
+      "kt_nev" : "Batthyány",
+      "kt_jelleg" : "utca",
+      "int_tip" : "5",
+      "kezd_hsz" : "36",
+      "zaro_hsz" : "36"
+    }, {
+      "szavkor" : "002",
+      "kt_nev" : "Bécsi kapu",
+      "kt_jelleg" : "tér",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "003",
+      "kt_nev" : "Bem",
+      "kt_jelleg" : "rakpart",
+      "int_tip" : "5",
+      "kezd_hsz" : "000003",
+      "zaro_hsz" : "000016"
+    }, {
+      "szavkor" : "004",
+      "kt_nev" : "Bem",
+      "kt_jelleg" : "rakpart",
+      "int_tip" : "5",
+      "kezd_hsz" : "000023",
+      "zaro_hsz" : "999998",
+      "zaro_ep" : "9999"
+    }, {
+      "szavkor" : "020",
+      "kt_nev" : "Bérc",
+      "kt_jelleg" : "utca",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "020",
+      "kt_nev" : "Berényi",
+      "kt_jelleg" : "utca",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "003",
+      "kt_nev" : "Clark Ádám",
+      "kt_jelleg" : "tér",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "003",
+      "kt_nev" : "Corvin",
+      "kt_jelleg" : "tér",
+      "int_tip" : "5",
+      "kezd_hsz" : "000002",
+      "zaro_hsz" : "000006"
+    }, {
+      "szavkor" : "005",
+      "kt_nev" : "Corvin",
+      "kt_jelleg" : "tér",
+      "int_tip" : "5",
+      "kezd_hsz" : "000011",
+      "zaro_hsz" : "999999",
+      "zaro_ep" : "9999"
+    }, {
+      "szavkor" : "004",
+      "kt_nev" : "Csalogány",
+      "kt_jelleg" : "utca",
+      "int_tip" : "5",
+      "kezd_hsz" : "000004",
+      "zaro_hsz" : "000004/D"
+    }, {
+      "szavkor" : "007",
+      "kt_nev" : "Csalogány",
+      "kt_jelleg" : "utca",
+      "int_tip" : "5",
+      "kezd_hsz" : "000006",
+      "zaro_hsz" : "000024"
+    }, {
+      "szavkor" : "008",
+      "kt_nev" : "Csalogány",
+      "kt_jelleg" : "utca",
+      "int_tip" : "5",
+      "kezd_hsz" : "000026",
+      "zaro_hsz" : "999998",
+      "zaro_ep" : "9999"
+    }, {
+      "szavkor" : "019",
+      "kt_nev" : "Csap",
+      "kt_jelleg" : "utca",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "005",
+      "kt_nev" : "Csónak",
+      "kt_jelleg" : "utca",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "018",
+      "kt_nev" : "Czakó",
+      "kt_jelleg" : "utca",
+      "int_tip" : "4",
+      "kezd_hsz" : "000005",
+      "zaro_hsz" : "000007"
+    }, {
+      "szavkor" : "017",
+      "kt_nev" : "Czakó",
+      "kt_jelleg" : "utca",
+      "int_tip" : "4",
+      "kezd_hsz" : "000009",
+      "zaro_hsz" : "999999",
+      "zaro_ep" : "9999"
+    }, {
+      "szavkor" : "018",
+      "kt_nev" : "Czakó",
+      "kt_jelleg" : "utca",
+      "int_tip" : "3"
+    }, {
+      "szavkor" : "017",
+      "kt_nev" : "Derék",
+      "kt_jelleg" : "utca",
+      "int_tip" : "3",
+      "kezd_hsz" : "000004",
+      "zaro_hsz" : "000010"
+    }, {
+      "szavkor" : "019",
+      "kt_nev" : "Derék",
+      "kt_jelleg" : "utca",
+      "int_tip" : "3",
+      "kezd_hsz" : "000014",
+      "zaro_hsz" : "999998",
+      "zaro_ep" : "9999"
+    }, {
+      "szavkor" : "017",
+      "kt_nev" : "Derék",
+      "kt_jelleg" : "utca",
+      "int_tip" : "4"
+    }, {
+      "szavkor" : "017",
+      "kt_nev" : "Dezső",
+      "kt_jelleg" : "utca",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "002",
+      "kt_nev" : "Dísz",
+      "kt_jelleg" : "tér",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "005",
+      "kt_nev" : "Donáti",
+      "kt_jelleg" : "utca",
+      "int_tip" : "5",
+      "kezd_hsz" : "000001",
+      "zaro_hsz" : "000039"
+    }, {
+      "szavkor" : "006",
+      "kt_nev" : "Donáti",
+      "kt_jelleg" : "utca",
+      "int_tip" : "5",
+      "kezd_hsz" : "000040-0042",
+      "zaro_hsz" : "000046"
+    }, {
+      "szavkor" : "005",
+      "kt_nev" : "Donáti",
+      "kt_jelleg" : "utca",
+      "int_tip" : "5",
+      "kezd_hsz" : "000049",
+      "zaro_hsz" : "000053"
+    }, {
+      "szavkor" : "007",
+      "kt_nev" : "Donáti",
+      "kt_jelleg" : "utca",
+      "int_tip" : "5",
+      "kezd_hsz" : "000055",
+      "zaro_hsz" : "999999",
+      "zaro_ep" : "9999"
+    }, {
+      "szavkor" : "018",
+      "kt_nev" : "Döbrentei",
+      "kt_jelleg" : "tér",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "018",
+      "kt_nev" : "Döbrentei",
+      "kt_jelleg" : "utca",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "007",
+      "kt_nev" : "Fazekas",
+      "kt_jelleg" : "utca",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "018",
+      "kt_nev" : "Fém",
+      "kt_jelleg" : "utca",
+      "int_tip" : "3",
+      "kezd_hsz" : "000002",
+      "zaro_hsz" : "000002/A"
+    }, {
+      "szavkor" : "017",
+      "kt_nev" : "Fém",
+      "kt_jelleg" : "utca",
+      "int_tip" : "3",
+      "kezd_hsz" : "000004",
+      "zaro_hsz" : "999998",
+      "zaro_ep" : "9999"
+    }, {
+      "szavkor" : "017",
+      "kt_nev" : "Fém",
+      "kt_jelleg" : "utca",
+      "int_tip" : "4"
+    }, {
+      "szavkor" : "016",
+      "kt_nev" : "Fenyő",
+      "kt_jelleg" : "utca",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "013",
+      "kt_nev" : "Feszty Árpád",
+      "kt_jelleg" : "utca",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "006",
+      "kt_nev" : "Fiáth János",
+      "kt_jelleg" : "utca",
+      "int_tip" : "3",
+      "kezd_hsz" : "000008",
+      "zaro_hsz" : "000010"
+    }, {
+      "szavkor" : "009",
+      "kt_nev" : "Fiáth János",
+      "kt_jelleg" : "utca",
+      "int_tip" : "3",
+      "kezd_hsz" : "000014",
+      "zaro_hsz" : "999998",
+      "zaro_ep" : "9999"
+    }, {
+      "szavkor" : "006",
+      "kt_nev" : "Fiáth János",
+      "kt_jelleg" : "utca",
+      "int_tip" : "4"
+    }, {
+      "szavkor" : "002",
+      "kt_nev" : "Fortuna",
+      "kt_jelleg" : "utca",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "003",
+      "kt_nev" : "Fő",
+      "kt_jelleg" : "utca",
+      "int_tip" : "5",
+      "kezd_hsz" : "000001",
+      "zaro_hsz" : "000026",
+      "zaro_ep" : "B"
+    }, {
+      "szavkor" : "004",
+      "kt_nev" : "Fő",
+      "kt_jelleg" : "utca",
+      "int_tip" : "5",
+      "kezd_hsz" : "000028",
+      "zaro_hsz" : "999998",
+      "zaro_ep" : "9999"
+    }, {
+      "szavkor" : "005",
+      "kt_nev" : "Franklin",
+      "kt_jelleg" : "utca",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "019",
+      "kt_nev" : "Galeotti",
+      "kt_jelleg" : "utca",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "015",
+      "kt_nev" : "Gellérthegy",
+      "kt_jelleg" : "utca",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "004",
+      "kt_nev" : "Gyorskocsi",
+      "kt_jelleg" : "utca",
+      "int_tip" : "4"
+    }, {
+      "szavkor" : "007",
+      "kt_nev" : "Gyorskocsi",
+      "kt_jelleg" : "utca",
+      "int_tip" : "3"
+    }, {
+      "szavkor" : "014",
+      "kt_nev" : "Győző",
+      "kt_jelleg" : "utca",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "020",
+      "kt_nev" : "Gyula",
+      "kt_jelleg" : "utca",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "018",
+      "kt_nev" : "Hadnagy",
+      "kt_jelleg" : "utca",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "002",
+      "kt_nev" : "Hajadon",
+      "kt_jelleg" : "utca",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "003",
+      "kt_nev" : "Halász",
+      "kt_jelleg" : "utca",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "019",
+      "kt_nev" : "Harkály",
+      "kt_jelleg" : "utca",
+      "int_tip" : "4"
+    }, {
+      "szavkor" : "020",
+      "kt_nev" : "Harkály",
+      "kt_jelleg" : "utca",
+      "int_tip" : "3"
+    }, {
+      "szavkor" : "008",
+      "kt_nev" : "Hattyú",
+      "kt_jelleg" : "utca",
+      "int_tip" : "3",
+      "kezd_hsz" : "000000",
+      "zaro_hsz" : "000014"
+    }, {
+      "szavkor" : "009",
+      "kt_nev" : "Hattyú",
+      "kt_jelleg" : "utca",
+      "int_tip" : "3",
+      "kezd_hsz" : "000016",
+      "zaro_hsz" : "999998",
+      "zaro_ep" : "9999"
+    }, {
+      "szavkor" : "008",
+      "kt_nev" : "Hattyú",
+      "kt_jelleg" : "utca",
+      "int_tip" : "4"
+    }, {
+      "szavkor" : "020",
+      "kt_nev" : "Hegyalja",
+      "kt_jelleg" : "út",
+      "int_tip" : "3",
+      "kezd_hsz" : "000002",
+      "zaro_hsz" : "000026"
+    }, {
+      "szavkor" : "019",
+      "kt_nev" : "Hegyalja",
+      "kt_jelleg" : "út",
+      "int_tip" : "3",
+      "kezd_hsz" : "000028",
+      "zaro_hsz" : "999998",
+      "zaro_ep" : "9999"
+    }, {
+      "szavkor" : "019",
+      "kt_nev" : "Hegyalja",
+      "kt_jelleg" : "út",
+      "int_tip" : "4"
+    }, {
+      "szavkor" : "002",
+      "kt_nev" : "Hess András",
+      "kt_jelleg" : "tér",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "006",
+      "kt_nev" : "Hunfalvy",
+      "kt_jelleg" : "utca",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "003",
+      "kt_nev" : "Hunyadi János",
+      "kt_jelleg" : "út",
+      "int_tip" : "5",
+      "kezd_hsz" : "000001",
+      "zaro_hsz" : "000011"
+    }, {
+      "szavkor" : "005",
+      "kt_nev" : "Hunyadi János",
+      "kt_jelleg" : "út",
+      "int_tip" : "5",
+      "kezd_hsz" : "000012",
+      "zaro_hsz" : "999999",
+      "zaro_ep" : "9999"
+    }, {
+      "szavkor" : "005",
+      "kt_nev" : "Iskola",
+      "kt_jelleg" : "utca",
+      "int_tip" : "3",
+      "kezd_hsz" : "000002",
+      "zaro_hsz" : "000026"
+    }, {
+      "szavkor" : "004",
+      "kt_nev" : "Iskola",
+      "kt_jelleg" : "utca",
+      "int_tip" : "4",
+      "kezd_hsz" : "000011",
+      "zaro_hsz" : "000029"
+    }, {
+      "szavkor" : "007",
+      "kt_nev" : "Iskola",
+      "kt_jelleg" : "utca",
+      "int_tip" : "3",
+      "kezd_hsz" : "000030",
+      "zaro_hsz" : "999998",
+      "zaro_ep" : "9999"
+    }, {
+      "szavkor" : "007",
+      "kt_nev" : "Iskola",
+      "kt_jelleg" : "utca",
+      "int_tip" : "4",
+      "kezd_hsz" : "000031",
+      "zaro_hsz" : "999999",
+      "zaro_ep" : "9999"
+    }, {
+      "szavkor" : "003",
+      "kt_nev" : "Jégverem",
+      "kt_jelleg" : "utca",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "008",
+      "kt_nev" : "Kagyló",
+      "kt_jelleg" : "utca",
+      "int_tip" : "5",
+      "kezd_hsz" : "000001/B",
+      "zaro_hsz" : "000001/B"
+    }, {
+      "szavkor" : "006",
+      "kt_nev" : "Kagyló",
+      "kt_jelleg" : "utca",
+      "int_tip" : "4",
+      "kezd_hsz" : "000003",
+      "zaro_hsz" : "999999",
+      "zaro_ep" : "9999"
+    }, {
+      "szavkor" : "006",
+      "kt_nev" : "Kagyló",
+      "kt_jelleg" : "utca",
+      "int_tip" : "3"
+    }, {
+      "szavkor" : "001",
+      "kt_nev" : "Kapisztrán",
+      "kt_jelleg" : "tér",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "003",
+      "kt_nev" : "Kapucinus",
+      "kt_jelleg" : "utca",
+      "int_tip" : "3",
+      "kezd_hsz" : "000004-0006",
+      "zaro_hsz" : "000010"
+    }, {
+      "szavkor" : "005",
+      "kt_nev" : "Kapucinus",
+      "kt_jelleg" : "utca",
+      "int_tip" : "3",
+      "kezd_hsz" : "000016",
+      "zaro_hsz" : "999998",
+      "zaro_ep" : "9999"
+    }, {
+      "szavkor" : "003",
+      "kt_nev" : "Kapucinus",
+      "kt_jelleg" : "utca",
+      "int_tip" : "4"
+    }, {
+      "szavkor" : "002",
+      "kt_nev" : "Kard",
+      "kt_jelleg" : "utca",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "018",
+      "kt_nev" : "Kereszt",
+      "kt_jelleg" : "utca",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "020",
+      "kt_nev" : "Kocsány",
+      "kt_jelleg" : "utca",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "014",
+      "kt_nev" : "Kosciuszkó Tádé",
+      "kt_jelleg" : "utca",
+      "int_tip" : "3",
+      "kezd_hsz" : "000004",
+      "zaro_hsz" : "000010-0012"
+    }, {
+      "szavkor" : "013",
+      "kt_nev" : "Kosciuszkó Tádé",
+      "kt_jelleg" : "utca",
+      "int_tip" : "3",
+      "kezd_hsz" : "000014",
+      "zaro_hsz" : "999998",
+      "zaro_ep" : "9999"
+    }, {
+      "szavkor" : "013",
+      "kt_nev" : "Kosciuszkó Tádé",
+      "kt_jelleg" : "utca",
+      "int_tip" : "4"
+    }, {
+      "szavkor" : "010",
+      "kt_nev" : "Körmöci",
+      "kt_jelleg" : "utca",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "013",
+      "kt_nev" : "Krisztina",
+      "kt_jelleg" : "körút",
+      "int_tip" : "4",
+      "kezd_hsz" : "000047",
+      "zaro_hsz" : "000061/A"
+    }, {
+      "szavkor" : "015",
+      "kt_nev" : "Krisztina",
+      "kt_jelleg" : "körút",
+      "int_tip" : "4",
+      "kezd_hsz" : "000065-0067",
+      "zaro_hsz" : "999999",
+      "zaro_ep" : "9999"
+    }, {
+      "szavkor" : "013",
+      "kt_nev" : "Krisztina",
+      "kt_jelleg" : "körút",
+      "int_tip" : "3"
+    }, {
+      "szavkor" : "013",
+      "kt_nev" : "Krisztina",
+      "kt_jelleg" : "tér",
+      "int_tip" : "5",
+      "kezd_hsz" : "000001",
+      "zaro_hsz" : "000004"
+    }, {
+      "szavkor" : "015",
+      "kt_nev" : "Krisztina",
+      "kt_jelleg" : "tér",
+      "int_tip" : "5",
+      "kezd_hsz" : "000007",
+      "zaro_hsz" : "999998",
+      "zaro_ep" : "9999"
+    }, {
+      "szavkor" : "013",
+      "kt_nev" : "Kuny Domokos",
+      "kt_jelleg" : "utca",
+      "int_tip" : "3",
+      "kezd_hsz" : "000004",
+      "zaro_hsz" : "000004/D"
+    }, {
+      "szavkor" : "014",
+      "kt_nev" : "Kuny Domokos",
+      "kt_jelleg" : "utca",
+      "int_tip" : "3",
+      "kezd_hsz" : "000006",
+      "zaro_hsz" : "999998",
+      "zaro_ep" : "9999"
+    }, {
+      "szavkor" : "013",
+      "kt_nev" : "Kuny Domokos",
+      "kt_jelleg" : "utca",
+      "int_tip" : "4"
+    }, {
+      "szavkor" : "018",
+      "kt_nev" : "Lánchíd",
+      "kt_jelleg" : "utca",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "016",
+      "kt_nev" : "Lisznyai",
+      "kt_jelleg" : "utca",
+      "int_tip" : "4",
+      "kezd_hsz" : "000003",
+      "zaro_hsz" : "000015"
+    }, {
+      "szavkor" : "016",
+      "kt_nev" : "Lisznyai",
+      "kt_jelleg" : "utca",
+      "int_tip" : "3",
+      "kezd_hsz" : "000014",
+      "zaro_hsz" : "000024"
+    }, {
+      "szavkor" : "017",
+      "kt_nev" : "Lisznyai",
+      "kt_jelleg" : "utca",
+      "int_tip" : "5",
+      "kezd_hsz" : "000017",
+      "zaro_hsz" : "000017"
+    }, {
+      "szavkor" : "018",
+      "kt_nev" : "Lisznyai",
+      "kt_jelleg" : "utca",
+      "int_tip" : "4",
+      "kezd_hsz" : "000025/B",
+      "zaro_hsz" : "999999",
+      "zaro_ep" : "9999"
+    }, {
+      "szavkor" : "017",
+      "kt_nev" : "Lisznyai",
+      "kt_jelleg" : "utca",
+      "int_tip" : "5",
+      "kezd_hsz" : "000034-0036",
+      "zaro_hsz" : "000034-0036"
+    }, {
+      "szavkor" : "018",
+      "kt_nev" : "Lisznyai",
+      "kt_jelleg" : "utca",
+      "int_tip" : "3",
+      "kezd_hsz" : "000040-0042",
+      "zaro_hsz" : "999998",
+      "zaro_ep" : "9999"
+    }, {
+      "szavkor" : "012",
+      "kt_nev" : "Logodi",
+      "kt_jelleg" : "utca",
+      "int_tip" : "4",
+      "kezd_hsz" : "000001",
+      "zaro_hsz" : "000021"
+    }, {
+      "szavkor" : "012",
+      "kt_nev" : "Logodi",
+      "kt_jelleg" : "utca",
+      "int_tip" : "3",
+      "kezd_hsz" : "000006",
+      "zaro_hsz" : "000024",
+      "zaro_ep" : "B"
+    }, {
+      "szavkor" : "011",
+      "kt_nev" : "Logodi",
+      "kt_jelleg" : "utca",
+      "int_tip" : "4",
+      "kezd_hsz" : "000023",
+      "zaro_hsz" : "000059"
+    }, {
+      "szavkor" : "011",
+      "kt_nev" : "Logodi",
+      "kt_jelleg" : "utca",
+      "int_tip" : "3",
+      "kezd_hsz" : "000028",
+      "zaro_hsz" : "000062"
+    }, {
+      "szavkor" : "010",
+      "kt_nev" : "Logodi",
+      "kt_jelleg" : "utca",
+      "int_tip" : "4",
+      "kezd_hsz" : "000061",
+      "zaro_hsz" : "999999",
+      "zaro_ep" : "9999"
+    }, {
+      "szavkor" : "010",
+      "kt_nev" : "Logodi",
+      "kt_jelleg" : "utca",
+      "int_tip" : "3",
+      "kezd_hsz" : "000064",
+      "zaro_hsz" : "999998",
+      "zaro_ep" : "9999"
+    }, {
+      "szavkor" : "012",
+      "kt_nev" : "Lovas",
+      "kt_jelleg" : "út",
+      "int_tip" : "5",
+      "kezd_hsz" : "000001",
+      "zaro_hsz" : "000003"
+    }, {
+      "szavkor" : "011",
+      "kt_nev" : "Lovas",
+      "kt_jelleg" : "út",
+      "int_tip" : "5",
+      "kezd_hsz" : "000004",
+      "zaro_hsz" : "000024"
+    }, {
+      "szavkor" : "010",
+      "kt_nev" : "Lovas",
+      "kt_jelleg" : "út",
+      "int_tip" : "5",
+      "kezd_hsz" : "000025",
+      "zaro_hsz" : "000035-0036"
+    }, {
+      "szavkor" : "009",
+      "kt_nev" : "Lovas",
+      "kt_jelleg" : "út",
+      "int_tip" : "5",
+      "kezd_hsz" : "000037",
+      "zaro_hsz" : "999999",
+      "zaro_ep" : "9999"
+    }, {
+      "szavkor" : "003",
+      "kt_nev" : "Magas",
+      "kt_jelleg" : "utca",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "007",
+      "kt_nev" : "Málna",
+      "kt_jelleg" : "utca",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "007",
+      "kt_nev" : "Mária",
+      "kt_jelleg" : "tér",
+      "int_tip" : "5",
+      "kezd_hsz" : "000001",
+      "zaro_hsz" : "000003"
+    }, {
+      "szavkor" : "008",
+      "kt_nev" : "Mária",
+      "kt_jelleg" : "tér",
+      "int_tip" : "5",
+      "kezd_hsz" : "000004",
+      "zaro_hsz" : "000004"
+    }, {
+      "szavkor" : "006",
+      "kt_nev" : "Mária",
+      "kt_jelleg" : "tér",
+      "int_tip" : "5",
+      "kezd_hsz" : "000005",
+      "zaro_hsz" : "999999",
+      "zaro_ep" : "9999"
+    }, {
+      "szavkor" : "004",
+      "kt_nev" : "Markovits Iván",
+      "kt_jelleg" : "utca",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "013",
+      "kt_nev" : "Márvány",
+      "kt_jelleg" : "utca",
+      "int_tip" : "4",
+      "kezd_hsz" : "000001",
+      "zaro_hsz" : "000001/B"
+    }, {
+      "szavkor" : "014",
+      "kt_nev" : "Márvány",
+      "kt_jelleg" : "utca",
+      "int_tip" : "4",
+      "kezd_hsz" : "000003",
+      "zaro_hsz" : "000007"
+    }, {
+      "szavkor" : "013",
+      "kt_nev" : "Márvány",
+      "kt_jelleg" : "utca",
+      "int_tip" : "4",
+      "kezd_hsz" : "000011",
+      "zaro_hsz" : "999999",
+      "zaro_ep" : "9999"
+    }, {
+      "szavkor" : "014",
+      "kt_nev" : "Márvány",
+      "kt_jelleg" : "utca",
+      "int_tip" : "3"
+    }, {
+      "szavkor" : "009",
+      "kt_nev" : "Mátray",
+      "kt_jelleg" : "utca",
+      "int_tip" : "5",
+      "kezd_hsz" : "000004",
+      "zaro_hsz" : "000004"
+    }, {
+      "szavkor" : "010",
+      "kt_nev" : "Mátray",
+      "kt_jelleg" : "utca",
+      "int_tip" : "3",
+      "kezd_hsz" : "000006",
+      "zaro_hsz" : "999998",
+      "zaro_ep" : "9999"
+    }, {
+      "szavkor" : "010",
+      "kt_nev" : "Mátray",
+      "kt_jelleg" : "utca",
+      "int_tip" : "4"
+    }, {
+      "szavkor" : "013",
+      "kt_nev" : "Mészáros",
+      "kt_jelleg" : "utca",
+      "int_tip" : "4",
+      "kezd_hsz" : "000001",
+      "zaro_hsz" : "000007"
+    }, {
+      "szavkor" : "016",
+      "kt_nev" : "Mészáros",
+      "kt_jelleg" : "utca",
+      "int_tip" : "3",
+      "kezd_hsz" : "000002",
+      "zaro_hsz" : "000010"
+    }, {
+      "szavkor" : "014",
+      "kt_nev" : "Mészáros",
+      "kt_jelleg" : "utca",
+      "int_tip" : "3",
+      "kezd_hsz" : "000012",
+      "zaro_hsz" : "000032"
+    }, {
+      "szavkor" : "014",
+      "kt_nev" : "Mészáros",
+      "kt_jelleg" : "utca",
+      "int_tip" : "4",
+      "kezd_hsz" : "000013",
+      "zaro_hsz" : "000015"
+    }, {
+      "szavkor" : "016",
+      "kt_nev" : "Mészáros",
+      "kt_jelleg" : "utca",
+      "int_tip" : "3",
+      "kezd_hsz" : "000034",
+      "zaro_hsz" : "000046"
+    }, {
+      "szavkor" : "017",
+      "kt_nev" : "Mészáros",
+      "kt_jelleg" : "utca",
+      "int_tip" : "5",
+      "kezd_hsz" : "000052",
+      "zaro_hsz" : "000052"
+    }, {
+      "szavkor" : "014",
+      "kt_nev" : "Mészáros",
+      "kt_jelleg" : "utca",
+      "int_tip" : "3",
+      "kezd_hsz" : "000060",
+      "zaro_hsz" : "000060/C"
+    }, {
+      "szavkor" : "019",
+      "kt_nev" : "Mészáros",
+      "kt_jelleg" : "utca",
+      "int_tip" : "3",
+      "kezd_hsz" : "000062",
+      "zaro_hsz" : "999998",
+      "zaro_ep" : "9999"
+    }, {
+      "szavkor" : "019",
+      "kt_nev" : "Mészáros",
+      "kt_jelleg" : "utca",
+      "int_tip" : "4",
+      "kezd_hsz" : "000083-0085",
+      "zaro_hsz" : "999999",
+      "zaro_ep" : "9999"
+    }, {
+      "szavkor" : "020",
+      "kt_nev" : "Mihály",
+      "kt_jelleg" : "utca",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "012",
+      "kt_nev" : "Mikó",
+      "kt_jelleg" : "utca",
+      "int_tip" : "5",
+      "kezd_hsz" : "000004",
+      "zaro_hsz" : "000004"
+    }, {
+      "szavkor" : "013",
+      "kt_nev" : "Mikó",
+      "kt_jelleg" : "utca",
+      "int_tip" : "3",
+      "kezd_hsz" : "000014",
+      "zaro_hsz" : "999998",
+      "zaro_ep" : "9999"
+    }, {
+      "szavkor" : "012",
+      "kt_nev" : "Mikó",
+      "kt_jelleg" : "utca",
+      "int_tip" : "4"
+    }, {
+      "szavkor" : "002",
+      "kt_nev" : "Móra Ferenc",
+      "kt_jelleg" : "utca",
+      "int_tip" : "3"
+    }, {
+      "szavkor" : "001",
+      "kt_nev" : "Móra Ferenc",
+      "kt_jelleg" : "utca",
+      "int_tip" : "4"
+    }, {
+      "szavkor" : "002",
+      "kt_nev" : "Nándor",
+      "kt_jelleg" : "utca",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "017",
+      "kt_nev" : "Naphegy",
+      "kt_jelleg" : "tér",
+      "int_tip" : "5",
+      "kezd_hsz" : "000001",
+      "zaro_hsz" : "000003"
+    }, {
+      "szavkor" : "016",
+      "kt_nev" : "Naphegy",
+      "kt_jelleg" : "tér",
+      "int_tip" : "5",
+      "kezd_hsz" : "000004",
+      "zaro_hsz" : "000007"
+    }, {
+      "szavkor" : "017",
+      "kt_nev" : "Naphegy",
+      "kt_jelleg" : "tér",
+      "int_tip" : "5",
+      "kezd_hsz" : "000009",
+      "zaro_hsz" : "999999",
+      "zaro_ep" : "9999"
+    }, {
+      "szavkor" : "016",
+      "kt_nev" : "Naphegy",
+      "kt_jelleg" : "utca",
+      "int_tip" : "4",
+      "kezd_hsz" : "000001",
+      "zaro_hsz" : "000029"
+    }, {
+      "szavkor" : "017",
+      "kt_nev" : "Naphegy",
+      "kt_jelleg" : "utca",
+      "int_tip" : "4",
+      "kezd_hsz" : "000033",
+      "zaro_hsz" : "000051"
+    }, {
+      "szavkor" : "018",
+      "kt_nev" : "Naphegy",
+      "kt_jelleg" : "utca",
+      "int_tip" : "4",
+      "kezd_hsz" : "000057",
+      "zaro_hsz" : "999999",
+      "zaro_ep" : "9999"
+    }, {
+      "szavkor" : "016",
+      "kt_nev" : "Naphegy",
+      "kt_jelleg" : "utca",
+      "int_tip" : "3"
+    }, {
+      "szavkor" : "001",
+      "kt_nev" : "Nőegylet",
+      "kt_jelleg" : "utca",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "014",
+      "kt_nev" : "Nyárs",
+      "kt_jelleg" : "utca",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "020",
+      "kt_nev" : "Orom",
+      "kt_jelleg" : "utca",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "002",
+      "kt_nev" : "Országház",
+      "kt_jelleg" : "utca",
+      "int_tip" : "4"
+    }, {
+      "szavkor" : "001",
+      "kt_nev" : "Országház",
+      "kt_jelleg" : "utca",
+      "int_tip" : "3"
+    }, {
+      "szavkor" : "016",
+      "kt_nev" : "Orvos",
+      "kt_jelleg" : "utca",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "006",
+      "kt_nev" : "Ostrom",
+      "kt_jelleg" : "utca",
+      "int_tip" : "4",
+      "kezd_hsz" : "000001",
+      "zaro_hsz" : "000019"
+    }, {
+      "szavkor" : "009",
+      "kt_nev" : "Ostrom",
+      "kt_jelleg" : "utca",
+      "int_tip" : "4",
+      "kezd_hsz" : "000027",
+      "zaro_hsz" : "999999",
+      "zaro_ep" : "9999"
+    }, {
+      "szavkor" : "009",
+      "kt_nev" : "Ostrom",
+      "kt_jelleg" : "utca",
+      "int_tip" : "3"
+    }, {
+      "szavkor" : "003",
+      "kt_nev" : "Pala",
+      "kt_jelleg" : "utca",
+      "int_tip" : "5",
+      "kezd_hsz" : "000005",
+      "zaro_hsz" : "000005"
+    }, {
+      "szavkor" : "005",
+      "kt_nev" : "Pala",
+      "kt_jelleg" : "utca",
+      "int_tip" : "4",
+      "kezd_hsz" : "000007",
+      "zaro_hsz" : "999999",
+      "zaro_ep" : "9999"
+    }, {
+      "szavkor" : "003",
+      "kt_nev" : "Pala",
+      "kt_jelleg" : "utca",
+      "int_tip" : "3"
+    }, {
+      "szavkor" : "014",
+      "kt_nev" : "Pálya",
+      "kt_jelleg" : "utca",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "012",
+      "kt_nev" : "Pauler",
+      "kt_jelleg" : "utca",
+      "int_tip" : "5",
+      "kezd_hsz" : "000001",
+      "zaro_hsz" : "000001"
+    }, {
+      "szavkor" : "013",
+      "kt_nev" : "Pauler",
+      "kt_jelleg" : "utca",
+      "int_tip" : "4",
+      "kezd_hsz" : "000005",
+      "zaro_hsz" : "999999",
+      "zaro_ep" : "9999"
+    }, {
+      "szavkor" : "013",
+      "kt_nev" : "Pauler",
+      "kt_jelleg" : "utca",
+      "int_tip" : "3"
+    }, {
+      "szavkor" : "019",
+      "kt_nev" : "Piroska",
+      "kt_jelleg" : "utca",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "004",
+      "kt_nev" : "Ponty",
+      "kt_jelleg" : "utca",
+      "int_tip" : "5",
+      "kezd_hsz" : "000002",
+      "zaro_hsz" : "000002"
+    }, {
+      "szavkor" : "005",
+      "kt_nev" : "Ponty",
+      "kt_jelleg" : "utca",
+      "int_tip" : "3",
+      "kezd_hsz" : "000004",
+      "zaro_hsz" : "999998",
+      "zaro_ep" : "9999"
+    }, {
+      "szavkor" : "005",
+      "kt_nev" : "Ponty",
+      "kt_jelleg" : "utca",
+      "int_tip" : "4"
+    }, {
+      "szavkor" : "013",
+      "kt_nev" : "Roham",
+      "kt_jelleg" : "utca",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "014",
+      "kt_nev" : "Róka",
+      "kt_jelleg" : "utca",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "020",
+      "kt_nev" : "Sánc",
+      "kt_jelleg" : "utca",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "020",
+      "kt_nev" : "Somlói",
+      "kt_jelleg" : "út",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "005",
+      "kt_nev" : "Szabó Ilonka",
+      "kt_jelleg" : "utca",
+      "int_tip" : "5",
+      "kezd_hsz" : "000002-0004",
+      "zaro_hsz" : "000002-0004"
+    }, {
+      "szavkor" : "006",
+      "kt_nev" : "Szabó Ilonka",
+      "kt_jelleg" : "utca",
+      "int_tip" : "3",
+      "kezd_hsz" : "000006",
+      "zaro_hsz" : "999998",
+      "zaro_ep" : "9999"
+    }, {
+      "szavkor" : "005",
+      "kt_nev" : "Szabó Ilonka",
+      "kt_jelleg" : "utca",
+      "int_tip" : "4",
+      "kezd_hsz" : "000007",
+      "zaro_hsz" : "000023"
+    }, {
+      "szavkor" : "006",
+      "kt_nev" : "Szabó Ilonka",
+      "kt_jelleg" : "utca",
+      "int_tip" : "4",
+      "kezd_hsz" : "000031",
+      "zaro_hsz" : "999999",
+      "zaro_ep" : "9999"
+    }, {
+      "szavkor" : "005",
+      "kt_nev" : "Szalag",
+      "kt_jelleg" : "utca",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "020",
+      "kt_nev" : "Számadó",
+      "kt_jelleg" : "utca",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "018",
+      "kt_nev" : "Szarvas",
+      "kt_jelleg" : "tér",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "004",
+      "kt_nev" : "Székely",
+      "kt_jelleg" : "utca",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "009",
+      "kt_nev" : "Széna",
+      "kt_jelleg" : "tér",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "020",
+      "kt_nev" : "Szent Sebestyén",
+      "kt_jelleg" : "köz",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "002",
+      "kt_nev" : "Szentháromság",
+      "kt_jelleg" : "tér",
+      "int_tip" : "4",
+      "kezd_hsz" : "000001",
+      "zaro_hsz" : "000005"
+    }, {
+      "szavkor" : "001",
+      "kt_nev" : "Szentháromság",
+      "kt_jelleg" : "tér",
+      "int_tip" : "4",
+      "kezd_hsz" : "000009-0011",
+      "zaro_hsz" : "999999",
+      "zaro_ep" : "9999"
+    }, {
+      "szavkor" : "002",
+      "kt_nev" : "Szentháromság",
+      "kt_jelleg" : "tér",
+      "int_tip" : "3"
+    }, {
+      "szavkor" : "001",
+      "kt_nev" : "Szentháromság",
+      "kt_jelleg" : "utca",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "004",
+      "kt_nev" : "Szilágyi Dezső",
+      "kt_jelleg" : "tér",
+      "int_tip" : "5",
+      "kezd_hsz" : "000001",
+      "zaro_hsz" : "000005"
+    }, {
+      "szavkor" : "003",
+      "kt_nev" : "Szilágyi Dezső",
+      "kt_jelleg" : "tér",
+      "int_tip" : "5",
+      "kezd_hsz" : "000006",
+      "zaro_hsz" : "999999",
+      "zaro_ep" : "9999"
+    }, {
+      "szavkor" : "002",
+      "kt_nev" : "Színház",
+      "kt_jelleg" : "utca",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "020",
+      "kt_nev" : "Szirom",
+      "kt_jelleg" : "utca",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "020",
+      "kt_nev" : "Szirtes",
+      "kt_jelleg" : "út",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "005",
+      "kt_nev" : "Szőnyeg",
+      "kt_jelleg" : "utca",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "012",
+      "kt_nev" : "Tábor",
+      "kt_jelleg" : "utca",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "002",
+      "kt_nev" : "Táncsics Mihály",
+      "kt_jelleg" : "utca",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "002",
+      "kt_nev" : "Tárnok",
+      "kt_jelleg" : "utca",
+      "int_tip" : "3",
+      "kezd_hsz" : "000004",
+      "zaro_hsz" : "000006"
+    }, {
+      "szavkor" : "001",
+      "kt_nev" : "Tárnok",
+      "kt_jelleg" : "utca",
+      "int_tip" : "3",
+      "kezd_hsz" : "000010",
+      "zaro_hsz" : "999998",
+      "zaro_ep" : "9999"
+    }, {
+      "szavkor" : "002",
+      "kt_nev" : "Tárnok",
+      "kt_jelleg" : "utca",
+      "int_tip" : "4"
+    }, {
+      "szavkor" : "016",
+      "kt_nev" : "Tigris",
+      "kt_jelleg" : "utca",
+      "int_tip" : "3",
+      "kezd_hsz" : "000002",
+      "zaro_hsz" : "000030/B"
+    }, {
+      "szavkor" : "016",
+      "kt_nev" : "Tigris",
+      "kt_jelleg" : "utca",
+      "int_tip" : "4",
+      "kezd_hsz" : "000003",
+      "zaro_hsz" : "000005"
+    }, {
+      "szavkor" : "014",
+      "kt_nev" : "Tigris",
+      "kt_jelleg" : "utca",
+      "int_tip" : "4",
+      "kezd_hsz" : "000009",
+      "zaro_hsz" : "000023/B"
+    }, {
+      "szavkor" : "016",
+      "kt_nev" : "Tigris",
+      "kt_jelleg" : "utca",
+      "int_tip" : "4",
+      "kezd_hsz" : "000027",
+      "zaro_hsz" : "000033"
+    }, {
+      "szavkor" : "017",
+      "kt_nev" : "Tigris",
+      "kt_jelleg" : "utca",
+      "int_tip" : "3",
+      "kezd_hsz" : "000034",
+      "zaro_hsz" : "999998",
+      "zaro_ep" : "9999"
+    }, {
+      "szavkor" : "017",
+      "kt_nev" : "Tigris",
+      "kt_jelleg" : "utca",
+      "int_tip" : "4",
+      "kezd_hsz" : "000041",
+      "zaro_hsz" : "000049"
+    }, {
+      "szavkor" : "019",
+      "kt_nev" : "Tigris",
+      "kt_jelleg" : "utca",
+      "int_tip" : "4",
+      "kezd_hsz" : "000051",
+      "zaro_hsz" : "999999",
+      "zaro_ep" : "9999"
+    }, {
+      "szavkor" : "005",
+      "kt_nev" : "Toldy",
+      "kt_jelleg" : "lépcső",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "005",
+      "kt_nev" : "Toldy Ferenc",
+      "kt_jelleg" : "utca",
+      "int_tip" : "4",
+      "kezd_hsz" : "000001",
+      "zaro_hsz" : "000017"
+    }, {
+      "szavkor" : "005",
+      "kt_nev" : "Toldy Ferenc",
+      "kt_jelleg" : "utca",
+      "int_tip" : "3",
+      "kezd_hsz" : "000002",
+      "zaro_hsz" : "000018"
+    }, {
+      "szavkor" : "006",
+      "kt_nev" : "Toldy Ferenc",
+      "kt_jelleg" : "utca",
+      "int_tip" : "5",
+      "kezd_hsz" : "000019",
+      "zaro_hsz" : "000019"
+    }, {
+      "szavkor" : "008",
+      "kt_nev" : "Toldy Ferenc",
+      "kt_jelleg" : "utca",
+      "int_tip" : "4",
+      "kezd_hsz" : "000029",
+      "zaro_hsz" : "999999",
+      "zaro_ep" : "9999"
+    }, {
+      "szavkor" : "006",
+      "kt_nev" : "Toldy Ferenc",
+      "kt_jelleg" : "utca",
+      "int_tip" : "3",
+      "kezd_hsz" : "000032-0036",
+      "zaro_hsz" : "999998",
+      "zaro_ep" : "9999"
+    }, {
+      "szavkor" : "002",
+      "kt_nev" : "Tóth Árpád",
+      "kt_jelleg" : "sétány",
+      "int_tip" : "5",
+      "kezd_hsz" : "000003",
+      "zaro_hsz" : "000004"
+    }, {
+      "szavkor" : "001",
+      "kt_nev" : "Tóth Árpád",
+      "kt_jelleg" : "sétány",
+      "int_tip" : "5",
+      "kezd_hsz" : "000012",
+      "zaro_hsz" : "999998",
+      "zaro_ep" : "9999"
+    }, {
+      "szavkor" : "020",
+      "kt_nev" : "Tündérlaki",
+      "kt_jelleg" : "mélyút",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "002",
+      "kt_nev" : "Úri",
+      "kt_jelleg" : "utca",
+      "int_tip" : "4",
+      "kezd_hsz" : "000001",
+      "zaro_hsz" : "000003"
+    }, {
+      "szavkor" : "001",
+      "kt_nev" : "Úri",
+      "kt_jelleg" : "utca",
+      "int_tip" : "4",
+      "kezd_hsz" : "000009",
+      "zaro_hsz" : "000047"
+    }, {
+      "szavkor" : "002",
+      "kt_nev" : "Úri",
+      "kt_jelleg" : "utca",
+      "int_tip" : "4",
+      "kezd_hsz" : "000107",
+      "zaro_hsz" : "999999",
+      "zaro_ep" : "9999"
+    }, {
+      "szavkor" : "001",
+      "kt_nev" : "Úri",
+      "kt_jelleg" : "utca",
+      "int_tip" : "3"
+    }, {
+      "szavkor" : "004",
+      "kt_nev" : "Vám",
+      "kt_jelleg" : "utca",
+      "int_tip" : "5",
+      "kezd_hsz" : "000002",
+      "zaro_hsz" : "000002"
+    }, {
+      "szavkor" : "005",
+      "kt_nev" : "Vám",
+      "kt_jelleg" : "utca",
+      "int_tip" : "3",
+      "kezd_hsz" : "000006",
+      "zaro_hsz" : "999998",
+      "zaro_ep" : "9999"
+    }, {
+      "szavkor" : "004",
+      "kt_nev" : "Vám",
+      "kt_jelleg" : "utca",
+      "int_tip" : "4"
+    }, {
+      "szavkor" : "015",
+      "kt_nev" : "Váralja",
+      "kt_jelleg" : "utca",
+      "int_tip" : "4",
+      "kezd_hsz" : "000003",
+      "zaro_hsz" : "000009/B"
+    }, {
+      "szavkor" : "017",
+      "kt_nev" : "Váralja",
+      "kt_jelleg" : "utca",
+      "int_tip" : "4",
+      "kezd_hsz" : "000015",
+      "zaro_hsz" : "000015",
+      "zaro_ep" : "0002"
+    }, {
+      "szavkor" : "018",
+      "kt_nev" : "Váralja",
+      "kt_jelleg" : "utca",
+      "int_tip" : "4",
+      "kezd_hsz" : "000023",
+      "zaro_hsz" : "999999",
+      "zaro_ep" : "9999"
+    }, {
+      "szavkor" : "015",
+      "kt_nev" : "Váralja",
+      "kt_jelleg" : "utca",
+      "int_tip" : "3"
+    }, {
+      "szavkor" : "009",
+      "kt_nev" : "Várfok",
+      "kt_jelleg" : "utca",
+      "int_tip" : "3",
+      "kezd_hsz" : "000002",
+      "zaro_hsz" : "000004"
+    }, {
+      "szavkor" : "010",
+      "kt_nev" : "Várfok",
+      "kt_jelleg" : "utca",
+      "int_tip" : "3",
+      "kezd_hsz" : "000008",
+      "zaro_hsz" : "999998",
+      "zaro_ep" : "9999"
+    }, {
+      "szavkor" : "009",
+      "kt_nev" : "Várfok",
+      "kt_jelleg" : "utca",
+      "int_tip" : "4"
+    }, {
+      "szavkor" : "018",
+      "kt_nev" : "Várkert",
+      "kt_jelleg" : "rakpart",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "009",
+      "kt_nev" : "Vérmező",
+      "kt_jelleg" : "út",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "018",
+      "kt_nev" : "Ybl Miklós",
+      "kt_jelleg" : "tér",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "012",
+      "kt_nev" : "Zerge",
+      "kt_jelleg" : "lépcső",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "019",
+      "kt_nev" : "Zsolt",
+      "kt_jelleg" : "utca",
+      "int_tip" : "4",
+      "kezd_hsz" : "000001",
+      "zaro_hsz" : "000005"
+    }, {
+      "szavkor" : "017",
+      "kt_nev" : "Zsolt",
+      "kt_jelleg" : "utca",
+      "int_tip" : "4",
+      "kezd_hsz" : "000007",
+      "zaro_hsz" : "999999",
+      "zaro_ep" : "9999"
+    }, {
+      "szavkor" : "014",
+      "kt_nev" : "Zsolt",
+      "kt_jelleg" : "utca",
+      "int_tip" : "3"
+    } ]
+  }
+}

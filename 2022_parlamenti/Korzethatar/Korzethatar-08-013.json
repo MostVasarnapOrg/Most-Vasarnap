@@ -1,0 +1,182 @@
+{
+  "header" : {
+    "generated" : "2022-04-02T23:30:00",
+    "vl_id" : 333,
+    "nvv_id" : 352
+  },
+  "data" : {
+    "maz" : "08",
+    "taz" : "013",
+    "korzethatarok" : [ {
+      "szavkor" : "001",
+      "kt_nev" : "Arany János",
+      "kt_jelleg" : "utca",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "001",
+      "kt_nev" : "Árpád",
+      "kt_jelleg" : "tér",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "001",
+      "kt_nev" : "Árpád",
+      "kt_jelleg" : "utca",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "002",
+      "kt_nev" : "Bartók Béla",
+      "kt_jelleg" : "utca",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "001",
+      "kt_nev" : "Béke",
+      "kt_jelleg" : "utca",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "002",
+      "kt_nev" : "Ciráki",
+      "kt_jelleg" : "utca",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "002",
+      "kt_nev" : "Diana",
+      "kt_jelleg" : "utca",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "003",
+      "kt_nev" : "Fő",
+      "kt_jelleg" : "utca",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "001",
+      "kt_nev" : "Füzes",
+      "kt_jelleg" : "utca",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "002",
+      "kt_nev" : "Győri",
+      "kt_jelleg" : "utca",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "001",
+      "kt_nev" : "Hársfa",
+      "kt_jelleg" : "utca",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "002",
+      "kt_nev" : "Hunyadi",
+      "kt_jelleg" : "utca",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "001",
+      "kt_nev" : "Ifjúság",
+      "kt_jelleg" : "utca",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "001",
+      "kt_nev" : "Jókai",
+      "kt_jelleg" : "utca",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "002",
+      "kt_nev" : "Kossuth",
+      "kt_jelleg" : "utca",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "002",
+      "kt_nev" : "Közép",
+      "kt_jelleg" : "utca",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "003",
+      "kt_nev" : "Malom",
+      "kt_jelleg" : "utca",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "002",
+      "kt_nev" : "Pacsirta",
+      "kt_jelleg" : "utca",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "002",
+      "kt_nev" : "Petőfi",
+      "kt_jelleg" : "utca",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "002",
+      "kt_nev" : "Rábasor",
+      "kt_jelleg" : "utca",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "001",
+      "kt_nev" : "Rákóczi",
+      "kt_jelleg" : "utca",
+      "int_tip" : "4",
+      "kezd_hsz" : "000001",
+      "zaro_hsz" : "000169"
+    }, {
+      "szavkor" : "001",
+      "kt_nev" : "Rákóczi",
+      "kt_jelleg" : "utca",
+      "int_tip" : "3",
+      "kezd_hsz" : "000002",
+      "zaro_hsz" : "000126/B"
+    }, {
+      "szavkor" : "002",
+      "kt_nev" : "Rákóczi",
+      "kt_jelleg" : "utca",
+      "int_tip" : "3",
+      "kezd_hsz" : "000126/I",
+      "zaro_hsz" : "999998",
+      "zaro_ep" : "9999"
+    }, {
+      "szavkor" : "002",
+      "kt_nev" : "Rákóczi",
+      "kt_jelleg" : "utca",
+      "int_tip" : "4",
+      "kezd_hsz" : "000173",
+      "zaro_hsz" : "999999",
+      "zaro_ep" : "9999"
+    }, {
+      "szavkor" : "001",
+      "kt_nev" : "Szabadság",
+      "kt_jelleg" : "utca",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "002",
+      "kt_nev" : "Szakosított szarvasmarha",
+      "kt_jelleg" : "telep",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "001",
+      "kt_nev" : "Széchenyi",
+      "kt_jelleg" : "utca",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "003",
+      "kt_nev" : "Ujtelep",
+      "kt_jelleg" : "utca",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "002",
+      "kt_nev" : "Vásártér",
+      "kt_jelleg" : "utca",
+      "int_tip" : "5",
+      "kezd_hsz" : "000001",
+      "zaro_hsz" : "000017/I"
+    }, {
+      "szavkor" : "003",
+      "kt_nev" : "Vásártér",
+      "kt_jelleg" : "utca",
+      "int_tip" : "5",
+      "kezd_hsz" : "000019",
+      "zaro_hsz" : "999998",
+      "zaro_ep" : "9999"
+    }, {
+      "szavkor" : "002",
+      "kt_nev" : "Vörösmarty",
+      "kt_jelleg" : "utca",
+      "int_tip" : "2"
+    } ]
+  }
+}
