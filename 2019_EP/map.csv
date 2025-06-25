@@ -326,104 +326,104 @@ SZAVAZOKOR,MEGYEKOD,MEGYE,OEVK,TELEPULES_SORSZAM,TELEPULES,SZAVKORCIM,AKADALYMEN
 01-006-028,01,BUDAPEST,05,006,Budapest VI. kerület,Szív utca 19-21.,Nem,Nem,01-01|01-05,01-05|01-06,47894|577,1|0,01-05,01-05
 01-006-029,01,BUDAPEST,05,006,Budapest VI. kerület,Felsõ erdõsor 20.,Igen,Nem,01-01|01-05,01-05,131194,1,01-05,01-05
 01-006-030,01,BUDAPEST,05,006,Budapest VI. kerület,Benczúr utca 35/C,Igen,Nem,01-01|01-05,01-05,299480,1,01-05,01-05
-01-007-001,01,BUDAPEST,05,007,Budapest VII. kerület,Dohány utca 22-24. (Idõsek klubja),Igen,Nem,01-01|01-06,01-01,96612,1,01-01,01-01
-01-007-002,01,BUDAPEST,05,007,Budapest VII. kerület,Dohány utca 22-24. (Idõsek klubja),Igen,Nem,01-01|01-06,01-01,120631,1,01-01,01-01
-01-007-003,01,BUDAPEST,05,007,Budapest VII. kerület,Dob utca 23. (Bölcsõde),Nem,Nem,01-01|01-06,01-01,132933,1,01-01,01-01
-01-007-004,01,BUDAPEST,05,007,Budapest VII. kerület,Kertész utca 30. (Iskola),Igen,Igen,01-01|01-06,01-01,34478,1,01-01,01-01
-01-007-005,01,BUDAPEST,05,007,Budapest VII. kerület,Erzsébet krt. 6. (Polgármesteri Hivatal),Igen,Nem,01-01|01-06,01-01,80542,1,01-01,01-01
-01-007-006,01,BUDAPEST,05,007,Budapest VII. kerület,Wesselényi utca 17. (ERÖMðVHÁZ),Nem,Nem,01-01|01-06,01-01,136880,1,01-01,01-01
-01-007-007,01,BUDAPEST,05,007,Budapest VII. kerület,Wesselényi utca 17. (ERÖMðVHÁZ),Nem,Nem,01-01|01-06,01-01,130645,1,01-01,01-01
-01-007-008,01,BUDAPEST,05,007,Budapest VII. kerület,Barcsay utca 5. (Madách Gimnázium),Igen,Nem,01-01|01-06,01-01,58922,1,01-01,01-01
-01-007-009,01,BUDAPEST,05,007,Budapest VII. kerület,Dob utca 85. (Iskola),Nem,Nem,01-01|01-06,01-01|01-06,44051|34853,1|0,01-01,01-01
-01-007-010,01,BUDAPEST,05,007,Budapest VII. kerület,Dob utca 85. (Iskola),Nem,Nem,01-01|01-06,01-06,106355,1,01-06,01-06
-01-007-011,01,BUDAPEST,05,007,Budapest VII. kerület,Király utca 97. (Nyugdíjasklub),Nem,Nem,01-01|01-06,01-06,53267,1,01-06,01-06
-01-007-012,01,BUDAPEST,05,007,Budapest VII. kerület,Wesselényi utca 38. (Szakközépiskola),Nem,Nem,01-01|01-06,01-06,38084,1,01-06,01-06
-01-007-013,01,BUDAPEST,05,007,Budapest VII. kerület,Rózsa utca 32. (Csicsergõ Óvoda),Nem,Nem,01-01|01-06,01-06,64427,1,01-06,01-06
-01-007-014,01,BUDAPEST,05,007,Budapest VII. kerület,Rózsa utca 32. (Csicsergõ Óvoda),Nem,Nem,01-01|01-06,01-06,96307,1,01-06,01-06
-01-007-015,01,BUDAPEST,05,007,Budapest VII. kerület,Király utca 97. (Nyugdíjasklub),Igen,Nem,01-01|01-06,01-06,117981,1,01-06,01-06
-01-007-016,01,BUDAPEST,05,007,Budapest VII. kerület,Wesselényi utca 38. (Szakközépiskola),Nem,Nem,01-01|01-06,01-01|01-06,40888|54692,0|1,01-06,01-06
-01-007-017,01,BUDAPEST,05,007,Budapest VII. kerület,Kertész utca 20. (Gyermekjóléti Központ),Nem,Nem,01-01|01-06,01-01|01-06,13977|51666,0|1,01-06,01-06
-01-007-018,01,BUDAPEST,05,007,Budapest VII. kerület,Barcsay utca 5. (Madách Gimnázium),Igen,Nem,01-01|01-06,01-06,74315,1,01-06,01-06
-01-007-019,01,BUDAPEST,05,007,Budapest VII. kerület,Rózsa utca 3. (Sportklub),Nem,Nem,01-01|01-06,01-06,70326,1,01-06,01-06
-01-007-020,01,BUDAPEST,05,007,Budapest VII. kerület,Erzsébet krt. 6. (Polgármesteri Hivatal),Igen,Nem,01-01|01-06,01-01|01-06,1226|105492,0|1,01-06,01-06
-01-007-021,01,BUDAPEST,05,007,Budapest VII. kerület,Alsó erdõsor 14-16. (Általános Iskola),Nem,Nem,01-01|01-06,01-06,72840,1,01-06,01-06
-01-007-022,01,BUDAPEST,05,007,Budapest VII. kerület,Rózsák tere 6-7. (Brunszvik Óvoda),Nem,Nem,01-01|01-06,01-06,135536,1,01-06,01-06
-01-007-023,01,BUDAPEST,05,007,Budapest VII. kerület,Alsó erdõsor 14-16 (Általános Iskola),Nem,Nem,01-01|01-06,01-06,60546,1,01-06,01-06
-01-007-024,01,BUDAPEST,05,007,Budapest VII. kerület,Nefelejcs utca 62. (Nefelejcs Óvoda),Nem,Nem,01-01|01-06,01-06,68355,1,01-06,01-06
-01-007-025,01,BUDAPEST,05,007,Budapest VII. kerület,Peterdy utca 16. (Nyugdíjasház),Igen,Nem,01-01|01-06,01-06,49586,1,01-06,01-06
-01-007-026,01,BUDAPEST,05,007,Budapest VII. kerület,Nefelejcs utca 62. (Nefelejcs Óvoda),Nem,Nem,01-01|01-06,01-06,91871,1,01-06,01-06
-01-007-027,01,BUDAPEST,05,007,Budapest VII. kerület,Városligeti fasor 39-41.  (Magonc Óvoda),Nem,Nem,01-01|01-06,01-06,99219,1,01-06,01-06
-01-007-028,01,BUDAPEST,05,007,Budapest VII. kerület,Bethlen Gábor tér 2. (Iskola),Igen,Nem,01-01|01-06,01-06,192748,1,01-06,01-06
-01-007-029,01,BUDAPEST,05,007,Budapest VII. kerület,Bethlen Gábor tér 2. (Iskola),Igen,Nem,01-01|01-06,01-06,60667,1,01-06,01-06
-01-007-030,01,BUDAPEST,05,007,Budapest VII. kerület,Hernád utca 42-46. (Baross Általános Iskola),Igen,Nem,01-01|01-06,01-06,67679,1,01-06,01-06
-01-007-031,01,BUDAPEST,05,007,Budapest VII. kerület,Hernád utca 42-46. (Baross Általános Iskola),Igen,Nem,01-01|01-06,01-06,49225,1,01-06,01-06
-01-007-032,01,BUDAPEST,05,007,Budapest VII. kerület,Hernád utca 42-46. (Baross Általános Iskola),Igen,Nem,01-01|01-06,01-06,51920,1,01-06,01-06
-01-007-033,01,BUDAPEST,05,007,Budapest VII. kerület,Hernád utca 42-46. (Baross Általános Iskola),Igen,Nem,01-01|01-06,01-06,41540,1,01-06,01-06
-01-007-034,01,BUDAPEST,05,007,Budapest VII. kerület,Murányi utca 27. (Kópévár Óvoda),Nem,Nem,01-01|01-06,01-06,43972,1,01-06,01-06
-01-007-035,01,BUDAPEST,05,007,Budapest VII. kerület,Murányi utca 27. (Kópévár Óvoda),Nem,Nem,01-01|01-06,01-06,61418,1,01-06,01-06
-01-007-036,01,BUDAPEST,05,007,Budapest VII. kerület,Garay utca 5. (Polgármesteri Hivatal),Igen,Nem,01-01|01-06,01-06,78045,1,01-06,01-06
-01-007-037,01,BUDAPEST,05,007,Budapest VII. kerület,Garay utca 5. (Polgármesteri Hivatal),Igen,Nem,01-01|01-06,01-06,65344,1,01-06,01-06
-01-007-038,01,BUDAPEST,05,007,Budapest VII. kerület,Százház utca 10-18. (Közterületfelügyelet),Nem,Nem,01-01|01-06,01-06,68899,1,01-06,01-06
-01-008-001,01,BUDAPEST,01,008,Budapest VIII. kerület,Horánszky u. 13. (H13 Diák és Vállfejl. Közp.),Igen,Nem,01-02,01-02,258001,1,01-02,01-02
-01-008-002,01,BUDAPEST,01,008,Budapest VIII. kerület,Horánszky u. 13. (H13 Diák és Vállfejl. Közp.),Igen,Nem,01-02,01-02,74179,1,01-02,01-02
-01-008-003,01,BUDAPEST,01,008,Budapest VIII. kerület,Horánszky u. 13. (H13 Diák és Vállfejl. Közp.),Igen,Nem,01-02,01-02,110408,1,01-02,01-02
-01-008-004,01,BUDAPEST,01,008,Budapest VIII. kerület,Horánszky u. 13. (H13 Diák és Vállfejl. Közp.),Igen,Nem,01-02,01-02,56807,1,01-02,01-02
-01-008-005,01,BUDAPEST,01,008,Budapest VIII. kerület,Üllõi út 30. (Egyszülõs Központ),Igen,Nem,01-02,01-02,107880,1,01-02,01-02
-01-008-006,01,BUDAPEST,01,008,Budapest VIII. kerület,Üllõi út 30. (Egyszülõs Központ),Igen,Nem,01-02,01-02,48883,1,01-02,01-02
-01-008-007,01,BUDAPEST,06,008,Budapest VIII. kerület,Práter u. 11. (Szt. Benedek Gim. SzkI. és Koll.),Igen,Nem,01-02,01-02,81824,1,01-02,01-02
-01-008-008,01,BUDAPEST,06,008,Budapest VIII. kerület,Rigó u. 16. (Fazekas M. Ált. Isk Sportlétesítmény),Igen,Igen,01-02,01-02,31171,1,01-02,01-02
-01-008-009,01,BUDAPEST,01,008,Budapest VIII. kerület,Somogyi B. u. 9-11. (Molnár Ferenc Ált. Isk.),Igen,Nem,01-02,01-02,69387,1,01-02,01-02
-01-008-010,01,BUDAPEST,01,008,Budapest VIII. kerület,Horánszky u. 13. (H13 Diák és Vállfejl. Közp.),Igen,Nem,01-02,01-02,60622,1,01-02,01-02
-01-008-011,01,BUDAPEST,01,008,Budapest VIII. kerület,Somogyi B. u. 9-11 (Molnár Ferenc Ált. Isk.),Igen,Nem,01-02,01-02,144123,1,01-02,01-02
-01-008-012,01,BUDAPEST,06,008,Budapest VIII. kerület,Tolnai L. u. 11-15. (JEGYMI Ált. Isk.),Igen,Nem,01-02,01-02,55705,1,01-02,01-02
-01-008-013,01,BUDAPEST,06,008,Budapest VIII. kerület,Mátyás tér 15. (Kesztyûgyár),Igen,Nem,01-02,01-02,78062,1,01-02,01-02
-01-008-014,01,BUDAPEST,06,008,Budapest VIII. kerület,Német u. 14.  (Németh László Ált. Isk.),Igen,Nem,01-02,01-02,110464,1,01-02,01-02
-01-008-015,01,BUDAPEST,06,008,Budapest VIII. kerület,Práter u. 11. (Szt. Benedek Gim. SzkI. és Koll.),Igen,Nem,01-02,01-02,81181,1,01-02,01-02
-01-008-016,01,BUDAPEST,06,008,Budapest VIII. kerület,Práter u. 11. (Szt. Benedek Gim. SzkI. és Koll.),Igen,Nem,01-02,01-02,138785,1,01-02,01-02
-01-008-017,01,BUDAPEST,06,008,Budapest VIII. kerület,Práter u. 11. (Szt. Benedek Gim. SzkI. és Koll.),Igen,Nem,01-02,01-02,83231,1,01-02,01-02
-01-008-018,01,BUDAPEST,06,008,Budapest VIII. kerület,Práter u. 11. (Szt. Benedek Gim. SzkI. és Koll.),Igen,Nem,01-02,01-02,60668,1,01-02,01-02
-01-008-019,01,BUDAPEST,06,008,Budapest VIII. kerület,Szûz u. 2. (Százszorszép Tagóvoda),Igen,Nem,01-02,01-02,80080,1,01-02,01-02
-01-008-020,01,BUDAPEST,06,008,Budapest VIII. kerület,Szûz u. 2. (Százszorszép Tagóvoda),Igen,Nem,01-02,01-02,79428,1,01-02,01-02
-01-008-021,01,BUDAPEST,06,008,Budapest VIII. kerület,Mátyás tér 15. (Kesztyûgyár),Igen,Nem,01-02,01-02,78958,1,01-02,01-02
-01-008-022,01,BUDAPEST,06,008,Budapest VIII. kerület,Tolnai L. u. 11-15. (JEGYMI Ált. Isk.),Igen,Nem,01-02,01-02,45352,1,01-02,01-02
-01-008-023,01,BUDAPEST,06,008,Budapest VIII. kerület,Tolnai L. u. 11-15. (JEGYMI Ált. Isk.),Igen,Nem,01-02,01-02,37076,1,01-02,01-02
-01-008-024,01,BUDAPEST,06,008,Budapest VIII. kerület,Tolnai L. u. 11-15. (JEGYMI Ált. Isk.),Igen,Nem,01-02,01-02|01-06,82594|113,1|0,01-02,01-02
-01-008-025,01,BUDAPEST,06,008,Budapest VIII. kerület,Tolnai L. u. 11-15. (JEGYMI Ált. Isk.),Igen,Nem,01-02,01-02|01-06,73103|7,1|0,01-02,01-02
-01-008-026,01,BUDAPEST,06,008,Budapest VIII. kerület,Bezerédj u. 16/A. (Leövey Klára Közg. Szki.),Igen,Nem,01-02,01-02|01-06,78293|60,1|0,01-02,01-02
-01-008-027,01,BUDAPEST,06,008,Budapest VIII. kerület,Mátyás tér 15. (Kesztyûgyár),Igen,Nem,01-02,01-02,53844,1,01-02,01-02
-01-008-028,01,BUDAPEST,06,008,Budapest VIII. kerület,Mátyás tér 15. (Kesztyûgyár),Igen,Nem,01-02,01-02,33425,1,01-02,01-02
-01-008-029,01,BUDAPEST,06,008,Budapest VIII. kerület,Mátyás tér 4. (Reménysugár Idõsek Klubja),Igen,Nem,01-02,01-02,44523,1,01-02,01-02
-01-008-030,01,BUDAPEST,06,008,Budapest VIII. kerület,Dankó u. 31. (Napsugár Tagóvoda),Igen,Nem,01-02,01-02,86232,1,01-02,01-02
-01-008-031,01,BUDAPEST,06,008,Budapest VIII. kerület,Mátyás tér 4. (Reménysugár Idõsek Klubja),Igen,Nem,01-02,01-02,55567,1,01-02,01-02
-01-008-032,01,BUDAPEST,06,008,Budapest VIII. kerület,Csobánc u. 1. (Bókay J. Szakközépisk.),Igen,Nem,01-02,01-02,69110,1,01-02,01-02
-01-008-033,01,BUDAPEST,06,008,Budapest VIII. kerület,Losonci tér 1. (Losonci Téri Ált. Isk.),Igen,Nem,01-02,01-02,39390,1,01-02,01-02
-01-008-034,01,BUDAPEST,06,008,Budapest VIII. kerület,Losonci tér 1. (Losonci Téri Ált. Isk.),Igen,Nem,01-02,01-02,15778,1,01-02,01-02
-01-008-035,01,BUDAPEST,06,008,Budapest VIII. kerület,Tömõ u. 38/A. (Csodasziget Tagóvoda),Igen,Nem,01-02,01-02,346199,1,01-02,01-02
-01-008-036,01,BUDAPEST,06,008,Budapest VIII. kerület,Tömõ u. 38/A. (Csodasziget Tagóvoda),Igen,Nem,01-02,01-02,33925,1,01-02,01-02
-01-008-037,01,BUDAPEST,06,008,Budapest VIII. kerület,Losonci tér 1. (Losonci Téri Ált. Isk.),Igen,Nem,01-02,01-02,48819,1,01-02,01-02
-01-008-038,01,BUDAPEST,06,008,Budapest VIII. kerület,Losonci tér 1. (Losonci Téri Ált. Isk.),Igen,Nem,01-02,01-02,47146,1,01-02,01-02
-01-008-039,01,BUDAPEST,06,008,Budapest VIII. kerület,Losonci tér 1. (Losonci Téri Ált. Isk.),Igen,Nem,01-02,01-02,47240,1,01-02,01-02
-01-008-040,01,BUDAPEST,06,008,Budapest VIII. kerület,Losonci tér 1. (Losonci Téri Ált. Isk.),Igen,Nem,01-02,01-02,15697,1,01-02,01-02
-01-008-041,01,BUDAPEST,06,008,Budapest VIII. kerület,Losonci tér 1. (Losonci Téri Ált. Isk.),Igen,Nem,01-02,01-02,59967,1,01-02,01-02
-01-008-042,01,BUDAPEST,06,008,Budapest VIII. kerület,Dugonics u. 17-21. (Kövessi E. Szki.),Igen,Nem,01-02,01-02,62046,1,01-02,01-02
-01-008-043,01,BUDAPEST,06,008,Budapest VIII. kerület,Csobánc u. 1. (Bókay J. Szakközépisk.),Igen,Nem,01-02,01-02,55270,1,01-02,01-02
-01-008-044,01,BUDAPEST,06,008,Budapest VIII. kerület,Dankó u. 31. (Napsugár Tagóvoda),Igen,Nem,01-02,01-02,32200,1,01-02,01-02
-01-008-045,01,BUDAPEST,06,008,Budapest VIII. kerület,II. János Pál pápa tér 17. (Ciklámen Klub),Igen,Nem,01-02,01-02,95117,1,01-02,01-02
-01-008-046,01,BUDAPEST,06,008,Budapest VIII. kerület,II. János Pál pápa tér 17. (Ciklámen Klub),Igen,Nem,01-02,01-02|01-06,125091|25,1|0,01-02,01-02
-01-008-047,01,BUDAPEST,06,008,Budapest VIII. kerület,Bezerédj u. 16/A. (Leövey Klára Közg. Szki.),Igen,Nem,01-02,01-02|01-06,1289336|443188,1|0,01-02,01-02
-01-008-048,01,BUDAPEST,06,008,Budapest VIII. kerület,Csobánc u. 1. (Bókay J. Szakközépisk.),Igen,Nem,01-02,01-02,117837,1,01-02,01-02
-01-008-049,01,BUDAPEST,06,008,Budapest VIII. kerület,Csobánc u. 1. (Bókay J. Szakközépisk.),Igen,Nem,01-02,01-02,98512,1,01-02,01-02
-01-008-050,01,BUDAPEST,06,008,Budapest VIII. kerület,Dugonics u. 17-21. (Kövessi E. Szki.),Igen,Nem,01-02,01-02,65986,1,01-02,01-02
-01-008-051,01,BUDAPEST,06,008,Budapest VIII. kerület,Vajda P. u. 25-31. (Vajda Péter Ált. Isk.),Igen,Nem,01-02,01-02,61443,1,01-02,01-02
-01-008-052,01,BUDAPEST,06,008,Budapest VIII. kerület,Vajda P. u. 25-31. (Vajda Péter Ált. Isk.),Igen,Nem,01-02,01-02,522024,1,01-02,01-02
-01-008-053,01,BUDAPEST,06,008,Budapest VIII. kerület,Elnök u. 3. (Mándy I. Szki. és Speciális Szkisk.),Igen,Nem,01-02,01-02,604193,1,01-02,01-02
-01-008-054,01,BUDAPEST,06,008,Budapest VIII. kerület,Vajda P. u. 25-31. (Vajda Péter Ált. Isk.),Igen,Nem,01-02,01-02,295422,1,01-02,01-02
-01-008-055,01,BUDAPEST,06,008,Budapest VIII. kerület,Vajda P. u. 37. (Katica Bölcsõde),Igen,Nem,01-02,01-02,888244,1,01-02,01-02
-01-008-056,01,BUDAPEST,06,008,Budapest VIII. kerület,Százados út 14. (Pitypang Tagóvoda),Igen,Nem,01-02,01-02|01-07,455538|524002,0|1,01-07,01-02
-01-008-057,01,BUDAPEST,06,008,Budapest VIII. kerület,Százados út 14. (Pitypang Tagóvoda),Igen,Nem,01-02,01-07,214263,1,01-07,01-02
-01-008-058,01,BUDAPEST,06,008,Budapest VIII. kerület,Százados út 14. (Pitypang Tagóvoda),Igen,Nem,01-02,01-07,106922,1,01-07,01-02
-01-008-059,01,BUDAPEST,06,008,Budapest VIII. kerület,Százados út 14. (Pitypang Tagóvoda),Igen,Nem,01-02,01-07,190683,1,01-07,01-02
-01-008-060,01,BUDAPEST,06,008,Budapest VIII. kerület,Kálvária tér 12. (Szabó E VIII/2 könyvtár),Igen,Nem,01-02,01-02,53653,1,01-02,01-02
+01-007-001,01,BUDAPEST,05,007,Budapest VII. kerület,Dohány utca 22-24. (Idõsek klubja),Igen,Nem,01-01|01-02|01-06,01-01,96612,1,01-01,01-01
+01-007-002,01,BUDAPEST,05,007,Budapest VII. kerület,Dohány utca 22-24. (Idõsek klubja),Igen,Nem,01-01|01-02|01-06,01-01,120631,1,01-01,01-01
+01-007-003,01,BUDAPEST,05,007,Budapest VII. kerület,Dob utca 23. (Bölcsõde),Nem,Nem,01-01|01-02|01-06,01-01,132933,1,01-01,01-01
+01-007-004,01,BUDAPEST,05,007,Budapest VII. kerület,Kertész utca 30. (Iskola),Igen,Igen,01-01|01-02|01-06,01-01,34478,1,01-01,01-01
+01-007-005,01,BUDAPEST,05,007,Budapest VII. kerület,Erzsébet krt. 6. (Polgármesteri Hivatal),Igen,Nem,01-01|01-02|01-06,01-01,80542,1,01-01,01-01
+01-007-006,01,BUDAPEST,05,007,Budapest VII. kerület,Wesselényi utca 17. (ERÖMðVHÁZ),Nem,Nem,01-01|01-02|01-06,01-01,136880,1,01-01,01-01
+01-007-007,01,BUDAPEST,05,007,Budapest VII. kerület,Wesselényi utca 17. (ERÖMðVHÁZ),Nem,Nem,01-01|01-02|01-06,01-01,130645,1,01-01,01-01
+01-007-008,01,BUDAPEST,05,007,Budapest VII. kerület,Barcsay utca 5. (Madách Gimnázium),Igen,Nem,01-01|01-02|01-06,01-01,58922,1,01-01,01-01
+01-007-009,01,BUDAPEST,05,007,Budapest VII. kerület,Dob utca 85. (Iskola),Nem,Nem,01-01|01-02|01-06,01-01|01-06,44051|34853,1|0,01-01,01-01
+01-007-010,01,BUDAPEST,05,007,Budapest VII. kerület,Dob utca 85. (Iskola),Nem,Nem,01-01|01-02|01-06,01-06,106355,1,01-06,01-06
+01-007-011,01,BUDAPEST,05,007,Budapest VII. kerület,Király utca 97. (Nyugdíjasklub),Nem,Nem,01-01|01-02|01-06,01-06,53267,1,01-06,01-06
+01-007-012,01,BUDAPEST,05,007,Budapest VII. kerület,Wesselényi utca 38. (Szakközépiskola),Nem,Nem,01-01|01-02|01-06,01-06,38084,1,01-06,01-06
+01-007-013,01,BUDAPEST,05,007,Budapest VII. kerület,Rózsa utca 32. (Csicsergõ Óvoda),Nem,Nem,01-01|01-02|01-06,01-06,64427,1,01-06,01-06
+01-007-014,01,BUDAPEST,05,007,Budapest VII. kerület,Rózsa utca 32. (Csicsergõ Óvoda),Nem,Nem,01-01|01-02|01-06,01-06,96307,1,01-06,01-06
+01-007-015,01,BUDAPEST,05,007,Budapest VII. kerület,Király utca 97. (Nyugdíjasklub),Igen,Nem,01-01|01-02|01-06,01-06,117981,1,01-06,01-06
+01-007-016,01,BUDAPEST,05,007,Budapest VII. kerület,Wesselényi utca 38. (Szakközépiskola),Nem,Nem,01-01|01-02|01-06,01-01|01-06,40888|54692,0|1,01-06,01-06
+01-007-017,01,BUDAPEST,05,007,Budapest VII. kerület,Kertész utca 20. (Gyermekjóléti Központ),Nem,Nem,01-01|01-02|01-06,01-01|01-06,13977|51666,0|1,01-06,01-06
+01-007-018,01,BUDAPEST,05,007,Budapest VII. kerület,Barcsay utca 5. (Madách Gimnázium),Igen,Nem,01-01|01-02|01-06,01-06,74315,1,01-06,01-06
+01-007-019,01,BUDAPEST,05,007,Budapest VII. kerület,Rózsa utca 3. (Sportklub),Nem,Nem,01-01|01-02|01-06,01-06,70326,1,01-06,01-06
+01-007-020,01,BUDAPEST,05,007,Budapest VII. kerület,Erzsébet krt. 6. (Polgármesteri Hivatal),Igen,Nem,01-01|01-02|01-06,01-01|01-06,1226|105492,0|1,01-06,01-06
+01-007-021,01,BUDAPEST,05,007,Budapest VII. kerület,Alsó erdõsor 14-16. (Általános Iskola),Nem,Nem,01-01|01-02|01-06,01-06,72840,1,01-06,01-06
+01-007-022,01,BUDAPEST,05,007,Budapest VII. kerület,Rózsák tere 6-7. (Brunszvik Óvoda),Nem,Nem,01-01|01-02|01-06,01-06,135536,1,01-06,01-06
+01-007-023,01,BUDAPEST,05,007,Budapest VII. kerület,Alsó erdõsor 14-16 (Általános Iskola),Nem,Nem,01-01|01-02|01-06,01-06,60546,1,01-06,01-06
+01-007-024,01,BUDAPEST,05,007,Budapest VII. kerület,Nefelejcs utca 62. (Nefelejcs Óvoda),Nem,Nem,01-01|01-02|01-06,01-06,68355,1,01-06,01-06
+01-007-025,01,BUDAPEST,05,007,Budapest VII. kerület,Peterdy utca 16. (Nyugdíjasház),Igen,Nem,01-01|01-02|01-06,01-06,49586,1,01-06,01-06
+01-007-026,01,BUDAPEST,05,007,Budapest VII. kerület,Nefelejcs utca 62. (Nefelejcs Óvoda),Nem,Nem,01-01|01-02|01-06,01-06,91871,1,01-06,01-06
+01-007-027,01,BUDAPEST,05,007,Budapest VII. kerület,Városligeti fasor 39-41.  (Magonc Óvoda),Nem,Nem,01-01|01-02|01-06,01-06,99219,1,01-06,01-06
+01-007-028,01,BUDAPEST,05,007,Budapest VII. kerület,Bethlen Gábor tér 2. (Iskola),Igen,Nem,01-01|01-02|01-06,01-06,192748,1,01-06,01-06
+01-007-029,01,BUDAPEST,05,007,Budapest VII. kerület,Bethlen Gábor tér 2. (Iskola),Igen,Nem,01-01|01-02|01-06,01-06,60667,1,01-06,01-06
+01-007-030,01,BUDAPEST,05,007,Budapest VII. kerület,Hernád utca 42-46. (Baross Általános Iskola),Igen,Nem,01-01|01-02|01-06,01-06,67679,1,01-06,01-06
+01-007-031,01,BUDAPEST,05,007,Budapest VII. kerület,Hernád utca 42-46. (Baross Általános Iskola),Igen,Nem,01-01|01-02|01-06,01-06,49225,1,01-06,01-06
+01-007-032,01,BUDAPEST,05,007,Budapest VII. kerület,Hernád utca 42-46. (Baross Általános Iskola),Igen,Nem,01-01|01-02|01-06,01-06,51920,1,01-06,01-06
+01-007-033,01,BUDAPEST,05,007,Budapest VII. kerület,Hernád utca 42-46. (Baross Általános Iskola),Igen,Nem,01-01|01-02|01-06,01-06,41540,1,01-06,01-06
+01-007-034,01,BUDAPEST,05,007,Budapest VII. kerület,Murányi utca 27. (Kópévár Óvoda),Nem,Nem,01-01|01-02|01-06,01-06,43972,1,01-06,01-06
+01-007-035,01,BUDAPEST,05,007,Budapest VII. kerület,Murányi utca 27. (Kópévár Óvoda),Nem,Nem,01-01|01-02|01-06,01-06,61418,1,01-06,01-06
+01-007-036,01,BUDAPEST,05,007,Budapest VII. kerület,Garay utca 5. (Polgármesteri Hivatal),Igen,Nem,01-01|01-02|01-06,01-06,78045,1,01-06,01-06
+01-007-037,01,BUDAPEST,05,007,Budapest VII. kerület,Garay utca 5. (Polgármesteri Hivatal),Igen,Nem,01-01|01-02|01-06,01-06,65344,1,01-06,01-06
+01-007-038,01,BUDAPEST,05,007,Budapest VII. kerület,Százház utca 10-18. (Közterületfelügyelet),Nem,Nem,01-01|01-02|01-06,01-06,68899,1,01-06,01-06
+01-008-001,01,BUDAPEST,01,008,Budapest VIII. kerület,Horánszky u. 13. (H13 Diák és Vállfejl. Közp.),Igen,Nem,01-02|01-07,01-02,258001,1,01-02,01-02
+01-008-002,01,BUDAPEST,01,008,Budapest VIII. kerület,Horánszky u. 13. (H13 Diák és Vállfejl. Közp.),Igen,Nem,01-02|01-07,01-02,74179,1,01-02,01-02
+01-008-003,01,BUDAPEST,01,008,Budapest VIII. kerület,Horánszky u. 13. (H13 Diák és Vállfejl. Közp.),Igen,Nem,01-02|01-07,01-02,110408,1,01-02,01-02
+01-008-004,01,BUDAPEST,01,008,Budapest VIII. kerület,Horánszky u. 13. (H13 Diák és Vállfejl. Közp.),Igen,Nem,01-02|01-07,01-02,56807,1,01-02,01-02
+01-008-005,01,BUDAPEST,01,008,Budapest VIII. kerület,Üllõi út 30. (Egyszülõs Központ),Igen,Nem,01-02|01-07,01-02,107880,1,01-02,01-02
+01-008-006,01,BUDAPEST,01,008,Budapest VIII. kerület,Üllõi út 30. (Egyszülõs Központ),Igen,Nem,01-02|01-07,01-02,48883,1,01-02,01-02
+01-008-007,01,BUDAPEST,06,008,Budapest VIII. kerület,Práter u. 11. (Szt. Benedek Gim. SzkI. és Koll.),Igen,Nem,01-02|01-07,01-02,81824,1,01-02,01-02
+01-008-008,01,BUDAPEST,06,008,Budapest VIII. kerület,Rigó u. 16. (Fazekas M. Ált. Isk Sportlétesítmény),Igen,Igen,01-02|01-07,01-02,31171,1,01-02,01-02
+01-008-009,01,BUDAPEST,01,008,Budapest VIII. kerület,Somogyi B. u. 9-11. (Molnár Ferenc Ált. Isk.),Igen,Nem,01-02|01-07,01-02,69387,1,01-02,01-02
+01-008-010,01,BUDAPEST,01,008,Budapest VIII. kerület,Horánszky u. 13. (H13 Diák és Vállfejl. Közp.),Igen,Nem,01-02|01-07,01-02,60622,1,01-02,01-02
+01-008-011,01,BUDAPEST,01,008,Budapest VIII. kerület,Somogyi B. u. 9-11 (Molnár Ferenc Ált. Isk.),Igen,Nem,01-02|01-07,01-02,144123,1,01-02,01-02
+01-008-012,01,BUDAPEST,06,008,Budapest VIII. kerület,Tolnai L. u. 11-15. (JEGYMI Ált. Isk.),Igen,Nem,01-02|01-07,01-02,55705,1,01-02,01-02
+01-008-013,01,BUDAPEST,06,008,Budapest VIII. kerület,Mátyás tér 15. (Kesztyûgyár),Igen,Nem,01-02|01-07,01-02,78062,1,01-02,01-02
+01-008-014,01,BUDAPEST,06,008,Budapest VIII. kerület,Német u. 14.  (Németh László Ált. Isk.),Igen,Nem,01-02|01-07,01-02,110464,1,01-02,01-02
+01-008-015,01,BUDAPEST,06,008,Budapest VIII. kerület,Práter u. 11. (Szt. Benedek Gim. SzkI. és Koll.),Igen,Nem,01-02|01-07,01-02,81181,1,01-02,01-02
+01-008-016,01,BUDAPEST,06,008,Budapest VIII. kerület,Práter u. 11. (Szt. Benedek Gim. SzkI. és Koll.),Igen,Nem,01-02|01-07,01-02,138785,1,01-02,01-02
+01-008-017,01,BUDAPEST,06,008,Budapest VIII. kerület,Práter u. 11. (Szt. Benedek Gim. SzkI. és Koll.),Igen,Nem,01-02|01-07,01-02,83231,1,01-02,01-02
+01-008-018,01,BUDAPEST,06,008,Budapest VIII. kerület,Práter u. 11. (Szt. Benedek Gim. SzkI. és Koll.),Igen,Nem,01-02|01-07,01-02,60668,1,01-02,01-02
+01-008-019,01,BUDAPEST,06,008,Budapest VIII. kerület,Szûz u. 2. (Százszorszép Tagóvoda),Igen,Nem,01-02|01-07,01-02,80080,1,01-02,01-02
+01-008-020,01,BUDAPEST,06,008,Budapest VIII. kerület,Szûz u. 2. (Százszorszép Tagóvoda),Igen,Nem,01-02|01-07,01-02,79428,1,01-02,01-02
+01-008-021,01,BUDAPEST,06,008,Budapest VIII. kerület,Mátyás tér 15. (Kesztyûgyár),Igen,Nem,01-02|01-07,01-02,78958,1,01-02,01-02
+01-008-022,01,BUDAPEST,06,008,Budapest VIII. kerület,Tolnai L. u. 11-15. (JEGYMI Ált. Isk.),Igen,Nem,01-02|01-07,01-02,45352,1,01-02,01-02
+01-008-023,01,BUDAPEST,06,008,Budapest VIII. kerület,Tolnai L. u. 11-15. (JEGYMI Ált. Isk.),Igen,Nem,01-02|01-07,01-02,37076,1,01-02,01-02
+01-008-024,01,BUDAPEST,06,008,Budapest VIII. kerület,Tolnai L. u. 11-15. (JEGYMI Ált. Isk.),Igen,Nem,01-02|01-07,01-02|01-06,82594|113,1|0,01-02,01-02
+01-008-025,01,BUDAPEST,06,008,Budapest VIII. kerület,Tolnai L. u. 11-15. (JEGYMI Ált. Isk.),Igen,Nem,01-02|01-07,01-02|01-06,73103|7,1|0,01-02,01-02
+01-008-026,01,BUDAPEST,06,008,Budapest VIII. kerület,Bezerédj u. 16/A. (Leövey Klára Közg. Szki.),Igen,Nem,01-02|01-07,01-02|01-06,78293|60,1|0,01-02,01-02
+01-008-027,01,BUDAPEST,06,008,Budapest VIII. kerület,Mátyás tér 15. (Kesztyûgyár),Igen,Nem,01-02|01-07,01-02,53844,1,01-02,01-02
+01-008-028,01,BUDAPEST,06,008,Budapest VIII. kerület,Mátyás tér 15. (Kesztyûgyár),Igen,Nem,01-02|01-07,01-02,33425,1,01-02,01-02
+01-008-029,01,BUDAPEST,06,008,Budapest VIII. kerület,Mátyás tér 4. (Reménysugár Idõsek Klubja),Igen,Nem,01-02|01-07,01-02,44523,1,01-02,01-02
+01-008-030,01,BUDAPEST,06,008,Budapest VIII. kerület,Dankó u. 31. (Napsugár Tagóvoda),Igen,Nem,01-02|01-07,01-02,86232,1,01-02,01-02
+01-008-031,01,BUDAPEST,06,008,Budapest VIII. kerület,Mátyás tér 4. (Reménysugár Idõsek Klubja),Igen,Nem,01-02|01-07,01-02,55567,1,01-02,01-02
+01-008-032,01,BUDAPEST,06,008,Budapest VIII. kerület,Csobánc u. 1. (Bókay J. Szakközépisk.),Igen,Nem,01-02|01-07,01-02,69110,1,01-02,01-02
+01-008-033,01,BUDAPEST,06,008,Budapest VIII. kerület,Losonci tér 1. (Losonci Téri Ált. Isk.),Igen,Nem,01-02|01-07,01-02,39390,1,01-02,01-02
+01-008-034,01,BUDAPEST,06,008,Budapest VIII. kerület,Losonci tér 1. (Losonci Téri Ált. Isk.),Igen,Nem,01-02|01-07,01-02,15778,1,01-02,01-02
+01-008-035,01,BUDAPEST,06,008,Budapest VIII. kerület,Tömõ u. 38/A. (Csodasziget Tagóvoda),Igen,Nem,01-02|01-07,01-02,346199,1,01-02,01-02
+01-008-036,01,BUDAPEST,06,008,Budapest VIII. kerület,Tömõ u. 38/A. (Csodasziget Tagóvoda),Igen,Nem,01-02|01-07,01-02,33925,1,01-02,01-02
+01-008-037,01,BUDAPEST,06,008,Budapest VIII. kerület,Losonci tér 1. (Losonci Téri Ált. Isk.),Igen,Nem,01-02|01-07,01-02,48819,1,01-02,01-02
+01-008-038,01,BUDAPEST,06,008,Budapest VIII. kerület,Losonci tér 1. (Losonci Téri Ált. Isk.),Igen,Nem,01-02|01-07,01-02,47146,1,01-02,01-02
+01-008-039,01,BUDAPEST,06,008,Budapest VIII. kerület,Losonci tér 1. (Losonci Téri Ált. Isk.),Igen,Nem,01-02|01-07,01-02,47240,1,01-02,01-02
+01-008-040,01,BUDAPEST,06,008,Budapest VIII. kerület,Losonci tér 1. (Losonci Téri Ált. Isk.),Igen,Nem,01-02|01-07,01-02,15697,1,01-02,01-02
+01-008-041,01,BUDAPEST,06,008,Budapest VIII. kerület,Losonci tér 1. (Losonci Téri Ált. Isk.),Igen,Nem,01-02|01-07,01-02,59967,1,01-02,01-02
+01-008-042,01,BUDAPEST,06,008,Budapest VIII. kerület,Dugonics u. 17-21. (Kövessi E. Szki.),Igen,Nem,01-02|01-07,01-02,62046,1,01-02,01-02
+01-008-043,01,BUDAPEST,06,008,Budapest VIII. kerület,Csobánc u. 1. (Bókay J. Szakközépisk.),Igen,Nem,01-02|01-07,01-02,55270,1,01-02,01-02
+01-008-044,01,BUDAPEST,06,008,Budapest VIII. kerület,Dankó u. 31. (Napsugár Tagóvoda),Igen,Nem,01-02|01-07,01-02,32200,1,01-02,01-02
+01-008-045,01,BUDAPEST,06,008,Budapest VIII. kerület,II. János Pál pápa tér 17. (Ciklámen Klub),Igen,Nem,01-02|01-07,01-02,95117,1,01-02,01-02
+01-008-046,01,BUDAPEST,06,008,Budapest VIII. kerület,II. János Pál pápa tér 17. (Ciklámen Klub),Igen,Nem,01-02|01-07,01-02|01-06,125091|25,1|0,01-02,01-02
+01-008-047,01,BUDAPEST,06,008,Budapest VIII. kerület,Bezerédj u. 16/A. (Leövey Klára Közg. Szki.),Igen,Nem,01-02|01-07,01-02|01-06,1289336|443188,1|0,01-02,01-02
+01-008-048,01,BUDAPEST,06,008,Budapest VIII. kerület,Csobánc u. 1. (Bókay J. Szakközépisk.),Igen,Nem,01-02|01-07,01-02,117837,1,01-02,01-02
+01-008-049,01,BUDAPEST,06,008,Budapest VIII. kerület,Csobánc u. 1. (Bókay J. Szakközépisk.),Igen,Nem,01-02|01-07,01-02,98512,1,01-02,01-02
+01-008-050,01,BUDAPEST,06,008,Budapest VIII. kerület,Dugonics u. 17-21. (Kövessi E. Szki.),Igen,Nem,01-02|01-07,01-02,65986,1,01-02,01-02
+01-008-051,01,BUDAPEST,06,008,Budapest VIII. kerület,Vajda P. u. 25-31. (Vajda Péter Ált. Isk.),Igen,Nem,01-02|01-07,01-02,61443,1,01-02,01-02
+01-008-052,01,BUDAPEST,06,008,Budapest VIII. kerület,Vajda P. u. 25-31. (Vajda Péter Ált. Isk.),Igen,Nem,01-02|01-07,01-02,522024,1,01-02,01-02
+01-008-053,01,BUDAPEST,06,008,Budapest VIII. kerület,Elnök u. 3. (Mándy I. Szki. és Speciális Szkisk.),Igen,Nem,01-02|01-07,01-02,604193,1,01-02,01-02
+01-008-054,01,BUDAPEST,06,008,Budapest VIII. kerület,Vajda P. u. 25-31. (Vajda Péter Ált. Isk.),Igen,Nem,01-02|01-07,01-02,295422,1,01-02,01-02
+01-008-055,01,BUDAPEST,06,008,Budapest VIII. kerület,Vajda P. u. 37. (Katica Bölcsõde),Igen,Nem,01-02|01-07,01-02,888244,1,01-02,01-02
+01-008-056,01,BUDAPEST,06,008,Budapest VIII. kerület,Százados út 14. (Pitypang Tagóvoda),Igen,Nem,01-02|01-07,01-02|01-07,455538|524002,0|1,01-07,01-07
+01-008-057,01,BUDAPEST,06,008,Budapest VIII. kerület,Százados út 14. (Pitypang Tagóvoda),Igen,Nem,01-02|01-07,01-07,214263,1,01-07,01-07
+01-008-058,01,BUDAPEST,06,008,Budapest VIII. kerület,Százados út 14. (Pitypang Tagóvoda),Igen,Nem,01-02|01-07,01-07,106922,1,01-07,01-07
+01-008-059,01,BUDAPEST,06,008,Budapest VIII. kerület,Százados út 14. (Pitypang Tagóvoda),Igen,Nem,01-02|01-07,01-07,190683,1,01-07,01-07
+01-008-060,01,BUDAPEST,06,008,Budapest VIII. kerület,Kálvária tér 12. (Szabó E VIII/2 könyvtár),Igen,Nem,01-02|01-07,01-02,53653,1,01-02,01-02
 01-009-001,01,BUDAPEST,01,009,Budapest IX. kerület,Csarnok tér 3-4. (FEV IX Zrt.),Nem,Nem,01-02|01-09|01-08,01-02,146408,1,01-02,01-02
 01-009-002,01,BUDAPEST,01,009,Budapest IX. kerület,Lónyay u. 4-8. (Ált. Isk. és Gimn.),Nem,Nem,01-02|01-09|01-08,01-02,90793,1,01-02,01-02
 01-009-003,01,BUDAPEST,01,009,Budapest IX. kerület,Ráday u. 26. (Vagyonkez. Iroda),Igen,Nem,01-02|01-09|01-08,01-02,55101,1,01-02,01-02

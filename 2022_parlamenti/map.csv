@@ -276,7 +276,7 @@ SZAVAZOKOR,MEGYEKOD,MEGYE,OEVK,SZEKHELY,SZH_KER,TELEPULES_SORSZAM,TELEPULES,OEVK
 01-004-068,01,BUDAPEST,01-12,Budapest,15,004,Budapest IV. kerület,01-12,01-12,01-13|01-12,01-12,177309,1,01-12,01-12,N,1120,1087,0,30,1087,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/01-004-068?tab=data,177309
 01-004-069,01,BUDAPEST,01-12,Budapest,15,004,Budapest IV. kerület,01-12,01-12,01-13|01-12,01-12,103012,1,01-12,01-12,N,1097,1081,0,20,1081,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/01-004-069?tab=data,103012
 01-004-070,01,BUDAPEST,01-12,Budapest,15,004,Budapest IV. kerület,01-12,01-12,01-13|01-12,01-12,331205,1,01-12,01-12,N,1125,1078,0,40,1078,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/01-004-070?tab=data,331205
-01-004-080,01,BUDAPEST,,Budapest,04,004,Budapest IV. kerület,,,01-13|01-12,,,,,,,,,,,,,
+01-004-080,01,BUDAPEST,,Budapest,04,004,Budapest IV. kerület,,,01-13|01-12,01-12|01-13,17468641|12941089,1|0,01-12,01-12,I,0,0,2953,0,2953,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/01-004-080?tab=data,30409786
 01-005-001,01,BUDAPEST,01-01,Budapest,05,005,Budapest V. kerület,01-01,01-02,01-02|01-01,01-02,70731,1,01-02,01-02,N,887,849,0,40,849,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/01-005-001?tab=data,70731
 01-005-002,01,BUDAPEST,01-01,Budapest,05,005,Budapest V. kerület,01-01,01-02,01-02|01-01,01-02,76302,1,01-02,01-02,N,742,688,0,48,688,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/01-005-002?tab=data,76302
 01-005-003,01,BUDAPEST,01-01,Budapest,05,005,Budapest V. kerület,01-01,01-02,01-02|01-01,01-02,84827,1,01-02,01-02,N,691,659,0,33,659,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/01-005-003?tab=data,84827
@@ -329,44 +329,44 @@ SZAVAZOKOR,MEGYEKOD,MEGYE,OEVK,SZEKHELY,SZH_KER,TELEPULES_SORSZAM,TELEPULES,OEVK
 01-006-028,01,BUDAPEST,01-05,Budapest,07,006,Budapest VI. kerület,01-05,01-05,01-01|01-05,01-05|01-06,48412|954,1|0,01-05,01-05,N,800,749,0,50,749,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/01-006-028?tab=data,49365
 01-006-029,01,BUDAPEST,01-05,Budapest,07,006,Budapest VI. kerület,01-05,01-05,01-01|01-05,01-05,132101,1,01-05,01-05,N,925,836,0,82,836,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/01-006-029?tab=data,132101
 01-006-030,01,BUDAPEST,01-05,Budapest,07,006,Budapest VI. kerület,01-05,01-05,01-01|01-05,01-05,300988,1,01-05,01-05,N,802,744,0,55,744,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/01-006-030?tab=data,300988
-01-007-001,01,BUDAPEST,01-05,Budapest,07,007,Budapest VII. kerület,01-05,01-01,01-01|01-06,01-01,97153,1,01-01,01-01,N,1004,919,0,74,919,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/01-007-001?tab=data,97153
-01-007-002,01,BUDAPEST,01-05,Budapest,07,007,Budapest VII. kerület,01-05,01-01,01-01|01-06,01-01,119571,1,01-01,01-01,N,1123,1034,0,79,1034,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/01-007-002?tab=data,119571
-01-007-003,01,BUDAPEST,01-05,Budapest,07,007,Budapest VII. kerület,01-05,01-01,01-01|01-06,01-01,132418,1,01-01,01-01,N,1041,966,0,64,966,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/01-007-003?tab=data,132418
-01-007-004,01,BUDAPEST,,Budapest,07,007,Budapest VII. kerület,,,01-01|01-06,01-01|01-02|01-06,908624|3744|2301083,0|0|1,01-06,01-06,I,0,0,2661,0,2661,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/01-007-004?tab=data,3216155
-01-007-005,01,BUDAPEST,01-05,Budapest,07,007,Budapest VII. kerület,01-05,01-01,01-01|01-06,01-01,113152,1,01-01,01-01,N,1139,1052,0,85,1052,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/01-007-005?tab=data,113152
-01-007-006,01,BUDAPEST,01-05,Budapest,07,007,Budapest VII. kerület,01-05,01-01,01-01|01-06,01-01,134980,1,01-01,01-01,N,1042,990,0,56,990,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/01-007-006?tab=data,134980
-01-007-007,01,BUDAPEST,01-05,Budapest,07,007,Budapest VII. kerület,01-05,01-01,01-01|01-06,01-01,131831,1,01-01,01-01,N,1153,1070,0,77,1070,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/01-007-007?tab=data,131831
-01-007-008,01,BUDAPEST,01-05,Budapest,07,007,Budapest VII. kerület,01-05,01-01,01-01|01-06,01-01,60115,1,01-01,01-01,N,597,539,0,51,539,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/01-007-008?tab=data,60115
-01-007-009,01,BUDAPEST,01-05,Budapest,07,007,Budapest VII. kerület,01-05,01-01,01-01|01-06,01-01|01-06,44196|34603,1|0,01-01,01-01,N,940,889,0,47,889,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/01-007-009?tab=data,78799
-01-007-010,01,BUDAPEST,01-05,Budapest,07,007,Budapest VII. kerület,01-05,01-06,01-01|01-06,01-06,106662,1,01-06,01-06,N,988,889,0,81,889,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/01-007-010?tab=data,106662
-01-007-011,01,BUDAPEST,01-05,Budapest,07,007,Budapest VII. kerület,01-05,01-06,01-01|01-06,01-06,51856,1,01-06,01-06,N,948,888,0,73,888,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/01-007-011?tab=data,51856
-01-007-012,01,BUDAPEST,01-05,Budapest,07,007,Budapest VII. kerület,01-05,01-06,01-01|01-06,01-06,37106,1,01-06,01-06,N,716,672,0,41,672,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/01-007-012?tab=data,37106
-01-007-013,01,BUDAPEST,01-05,Budapest,07,007,Budapest VII. kerület,01-05,01-06,01-01|01-06,01-06,63854,1,01-06,01-06,N,960,895,0,59,895,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/01-007-013?tab=data,63854
-01-007-014,01,BUDAPEST,01-05,Budapest,07,007,Budapest VII. kerület,01-05,01-06,01-01|01-06,01-06,97422,1,01-06,01-06,N,887,841,0,51,841,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/01-007-014?tab=data,97422
-01-007-015,01,BUDAPEST,01-05,Budapest,07,007,Budapest VII. kerület,01-05,01-06,01-01|01-06,01-06,114927,1,01-06,01-06,N,1098,1030,0,78,1030,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/01-007-015?tab=data,114927
-01-007-016,01,BUDAPEST,01-05,Budapest,07,007,Budapest VII. kerület,01-05,01-06,01-01|01-06,,,,,,,,,,,,,
-01-007-017,01,BUDAPEST,01-05,Budapest,07,007,Budapest VII. kerület,01-05,01-06,01-01|01-06,01-01|01-06,13387|50395,0|1,01-06,01-06,N,821,750,0,63,750,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/01-007-017?tab=data,63788
-01-007-018,01,BUDAPEST,01-05,Budapest,07,007,Budapest VII. kerület,01-05,01-06,01-01|01-06,01-06,74213,1,01-06,01-06,N,1034,952,0,76,952,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/01-007-018?tab=data,74213
-01-007-019,01,BUDAPEST,01-05,Budapest,07,007,Budapest VII. kerület,01-05,01-06,01-01|01-06,01-06,71657,1,01-06,01-06,N,824,758,0,57,758,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/01-007-019?tab=data,71657
-01-007-020,01,BUDAPEST,01-05,Budapest,07,007,Budapest VII. kerület,01-05,01-06,01-01|01-06,01-06,104042,1,01-06,01-06,N,792,729,0,54,729,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/01-007-020?tab=data,104042
-01-007-021,01,BUDAPEST,01-05,Budapest,07,007,Budapest VII. kerület,01-05,01-06,01-01|01-06,01-06,74411,1,01-06,01-06,N,1014,950,0,54,950,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/01-007-021?tab=data,74411
-01-007-022,01,BUDAPEST,01-05,Budapest,07,007,Budapest VII. kerület,01-05,01-06,01-01|01-06,01-02|01-06,112|139591,0|1,01-06,01-06,N,928,884,0,50,884,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/01-007-022?tab=data,139710
-01-007-023,01,BUDAPEST,01-05,Budapest,07,007,Budapest VII. kerület,01-05,01-06,01-01|01-06,01-06,61563,1,01-06,01-06,N,823,773,0,42,773,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/01-007-023?tab=data,61563
-01-007-024,01,BUDAPEST,01-05,Budapest,07,007,Budapest VII. kerület,01-05,01-06,01-01|01-06,01-06,68446,1,01-06,01-06,N,930,870,0,49,870,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/01-007-024?tab=data,68446
-01-007-025,01,BUDAPEST,01-05,Budapest,07,007,Budapest VII. kerület,01-05,01-06,01-01|01-06,01-06,49368,1,01-06,01-06,N,888,847,0,46,847,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/01-007-025?tab=data,49368
-01-007-026,01,BUDAPEST,01-05,Budapest,07,007,Budapest VII. kerület,01-05,01-06,01-01|01-06,01-06,92179,1,01-06,01-06,N,849,775,0,61,775,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/01-007-026?tab=data,92179
-01-007-027,01,BUDAPEST,01-05,Budapest,07,007,Budapest VII. kerület,01-05,01-06,01-01|01-06,01-06,99261,1,01-06,01-06,N,849,793,0,57,793,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/01-007-027?tab=data,99261
-01-007-028,01,BUDAPEST,01-05,Budapest,07,007,Budapest VII. kerület,01-05,01-06,01-01|01-06,01-06,189801,1,01-06,01-06,N,1114,1043,0,64,1043,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/01-007-028?tab=data,189801
-01-007-029,01,BUDAPEST,01-05,Budapest,07,007,Budapest VII. kerület,01-05,01-06,01-01|01-06,01-06,60056,1,01-06,01-06,N,1100,1016,0,62,1016,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/01-007-029?tab=data,60056
-01-007-030,01,BUDAPEST,01-05,Budapest,07,007,Budapest VII. kerület,01-05,01-06,01-01|01-06,01-06,69562,1,01-06,01-06,N,1162,1081,0,68,1081,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/01-007-030?tab=data,69562
-01-007-031,01,BUDAPEST,01-05,Budapest,07,007,Budapest VII. kerület,01-05,01-06,01-01|01-06,01-06,48254,1,01-06,01-06,N,855,802,0,56,802,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/01-007-031?tab=data,48254
-01-007-032,01,BUDAPEST,01-05,Budapest,07,007,Budapest VII. kerület,01-05,01-06,01-01|01-06,01-06,50877,1,01-06,01-06,N,1135,1057,0,62,1057,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/01-007-032?tab=data,50877
-01-007-033,01,BUDAPEST,01-05,Budapest,07,007,Budapest VII. kerület,01-05,01-06,01-01|01-06,01-06,39666,1,01-06,01-06,N,980,902,0,70,902,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/01-007-033?tab=data,39666
-01-007-034,01,BUDAPEST,01-05,Budapest,07,007,Budapest VII. kerület,01-05,01-06,01-01|01-06,01-06,44780,1,01-06,01-06,N,730,681,0,43,681,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/01-007-034?tab=data,44780
-01-007-035,01,BUDAPEST,01-05,Budapest,07,007,Budapest VII. kerület,01-05,01-06,01-01|01-06,01-06,60909,1,01-06,01-06,N,1040,967,0,46,967,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/01-007-035?tab=data,60909
-01-007-036,01,BUDAPEST,01-05,Budapest,07,007,Budapest VII. kerület,01-05,01-06,01-01|01-06,01-06,78939,1,01-06,01-06,N,895,832,0,61,832,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/01-007-036?tab=data,78939
-01-007-037,01,BUDAPEST,01-05,Budapest,07,007,Budapest VII. kerület,01-05,01-06,01-01|01-06,01-06,65696,1,01-06,01-06,N,996,946,0,48,946,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/01-007-037?tab=data,65696
-01-007-038,01,BUDAPEST,01-05,Budapest,07,007,Budapest VII. kerület,01-05,01-06,01-01|01-06,01-06,69893,1,01-06,01-06,N,840,780,0,56,780,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/01-007-038?tab=data,69893
+01-007-001,01,BUDAPEST,01-05,Budapest,07,007,Budapest VII. kerület,01-05,01-01,01-01|01-02|01-06,01-01,97153,1,01-01,01-01,N,1004,919,0,74,919,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/01-007-001?tab=data,97153
+01-007-002,01,BUDAPEST,01-05,Budapest,07,007,Budapest VII. kerület,01-05,01-01,01-01|01-02|01-06,01-01,119571,1,01-01,01-01,N,1123,1034,0,79,1034,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/01-007-002?tab=data,119571
+01-007-003,01,BUDAPEST,01-05,Budapest,07,007,Budapest VII. kerület,01-05,01-01,01-01|01-02|01-06,01-01,132418,1,01-01,01-01,N,1041,966,0,64,966,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/01-007-003?tab=data,132418
+01-007-004,01,BUDAPEST,,Budapest,07,007,Budapest VII. kerület,,,01-01|01-02|01-06,01-01|01-02|01-06,908624|3744|2301083,0|0|1,01-06,01-06,I,0,0,2661,0,2661,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/01-007-004?tab=data,3216155
+01-007-005,01,BUDAPEST,01-05,Budapest,07,007,Budapest VII. kerület,01-05,01-01,01-01|01-02|01-06,01-01,113152,1,01-01,01-01,N,1139,1052,0,85,1052,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/01-007-005?tab=data,113152
+01-007-006,01,BUDAPEST,01-05,Budapest,07,007,Budapest VII. kerület,01-05,01-01,01-01|01-02|01-06,01-01,134980,1,01-01,01-01,N,1042,990,0,56,990,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/01-007-006?tab=data,134980
+01-007-007,01,BUDAPEST,01-05,Budapest,07,007,Budapest VII. kerület,01-05,01-01,01-01|01-02|01-06,01-01,131831,1,01-01,01-01,N,1153,1070,0,77,1070,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/01-007-007?tab=data,131831
+01-007-008,01,BUDAPEST,01-05,Budapest,07,007,Budapest VII. kerület,01-05,01-01,01-01|01-02|01-06,01-01,60115,1,01-01,01-01,N,597,539,0,51,539,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/01-007-008?tab=data,60115
+01-007-009,01,BUDAPEST,01-05,Budapest,07,007,Budapest VII. kerület,01-05,01-01,01-01|01-02|01-06,01-01|01-06,44196|34603,1|0,01-01,01-01,N,940,889,0,47,889,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/01-007-009?tab=data,78799
+01-007-010,01,BUDAPEST,01-05,Budapest,07,007,Budapest VII. kerület,01-05,01-06,01-01|01-02|01-06,01-06,106662,1,01-06,01-06,N,988,889,0,81,889,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/01-007-010?tab=data,106662
+01-007-011,01,BUDAPEST,01-05,Budapest,07,007,Budapest VII. kerület,01-05,01-06,01-01|01-02|01-06,01-06,51856,1,01-06,01-06,N,948,888,0,73,888,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/01-007-011?tab=data,51856
+01-007-012,01,BUDAPEST,01-05,Budapest,07,007,Budapest VII. kerület,01-05,01-06,01-01|01-02|01-06,01-06,37106,1,01-06,01-06,N,716,672,0,41,672,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/01-007-012?tab=data,37106
+01-007-013,01,BUDAPEST,01-05,Budapest,07,007,Budapest VII. kerület,01-05,01-06,01-01|01-02|01-06,01-06,63854,1,01-06,01-06,N,960,895,0,59,895,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/01-007-013?tab=data,63854
+01-007-014,01,BUDAPEST,01-05,Budapest,07,007,Budapest VII. kerület,01-05,01-06,01-01|01-02|01-06,01-06,97422,1,01-06,01-06,N,887,841,0,51,841,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/01-007-014?tab=data,97422
+01-007-015,01,BUDAPEST,01-05,Budapest,07,007,Budapest VII. kerület,01-05,01-06,01-01|01-02|01-06,01-06,114927,1,01-06,01-06,N,1098,1030,0,78,1030,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/01-007-015?tab=data,114927
+01-007-016,01,BUDAPEST,01-05,Budapest,07,007,Budapest VII. kerület,01-05,01-06,01-01|01-02|01-06,,,,,,,,,,,,,
+01-007-017,01,BUDAPEST,01-05,Budapest,07,007,Budapest VII. kerület,01-05,01-06,01-01|01-02|01-06,01-01|01-06,13387|50395,0|1,01-06,01-06,N,821,750,0,63,750,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/01-007-017?tab=data,63788
+01-007-018,01,BUDAPEST,01-05,Budapest,07,007,Budapest VII. kerület,01-05,01-06,01-01|01-02|01-06,01-06,74213,1,01-06,01-06,N,1034,952,0,76,952,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/01-007-018?tab=data,74213
+01-007-019,01,BUDAPEST,01-05,Budapest,07,007,Budapest VII. kerület,01-05,01-06,01-01|01-02|01-06,01-06,71657,1,01-06,01-06,N,824,758,0,57,758,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/01-007-019?tab=data,71657
+01-007-020,01,BUDAPEST,01-05,Budapest,07,007,Budapest VII. kerület,01-05,01-06,01-01|01-02|01-06,01-06,104042,1,01-06,01-06,N,792,729,0,54,729,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/01-007-020?tab=data,104042
+01-007-021,01,BUDAPEST,01-05,Budapest,07,007,Budapest VII. kerület,01-05,01-06,01-01|01-02|01-06,01-06,74411,1,01-06,01-06,N,1014,950,0,54,950,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/01-007-021?tab=data,74411
+01-007-022,01,BUDAPEST,01-05,Budapest,07,007,Budapest VII. kerület,01-05,01-06,01-01|01-02|01-06,01-02|01-06,112|139591,0|1,01-06,01-06,N,928,884,0,50,884,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/01-007-022?tab=data,139710
+01-007-023,01,BUDAPEST,01-05,Budapest,07,007,Budapest VII. kerület,01-05,01-06,01-01|01-02|01-06,01-06,61563,1,01-06,01-06,N,823,773,0,42,773,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/01-007-023?tab=data,61563
+01-007-024,01,BUDAPEST,01-05,Budapest,07,007,Budapest VII. kerület,01-05,01-06,01-01|01-02|01-06,01-06,68446,1,01-06,01-06,N,930,870,0,49,870,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/01-007-024?tab=data,68446
+01-007-025,01,BUDAPEST,01-05,Budapest,07,007,Budapest VII. kerület,01-05,01-06,01-01|01-02|01-06,01-06,49368,1,01-06,01-06,N,888,847,0,46,847,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/01-007-025?tab=data,49368
+01-007-026,01,BUDAPEST,01-05,Budapest,07,007,Budapest VII. kerület,01-05,01-06,01-01|01-02|01-06,01-06,92179,1,01-06,01-06,N,849,775,0,61,775,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/01-007-026?tab=data,92179
+01-007-027,01,BUDAPEST,01-05,Budapest,07,007,Budapest VII. kerület,01-05,01-06,01-01|01-02|01-06,01-06,99261,1,01-06,01-06,N,849,793,0,57,793,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/01-007-027?tab=data,99261
+01-007-028,01,BUDAPEST,01-05,Budapest,07,007,Budapest VII. kerület,01-05,01-06,01-01|01-02|01-06,01-06,189801,1,01-06,01-06,N,1114,1043,0,64,1043,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/01-007-028?tab=data,189801
+01-007-029,01,BUDAPEST,01-05,Budapest,07,007,Budapest VII. kerület,01-05,01-06,01-01|01-02|01-06,01-06,60056,1,01-06,01-06,N,1100,1016,0,62,1016,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/01-007-029?tab=data,60056
+01-007-030,01,BUDAPEST,01-05,Budapest,07,007,Budapest VII. kerület,01-05,01-06,01-01|01-02|01-06,01-06,69562,1,01-06,01-06,N,1162,1081,0,68,1081,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/01-007-030?tab=data,69562
+01-007-031,01,BUDAPEST,01-05,Budapest,07,007,Budapest VII. kerület,01-05,01-06,01-01|01-02|01-06,01-06,48254,1,01-06,01-06,N,855,802,0,56,802,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/01-007-031?tab=data,48254
+01-007-032,01,BUDAPEST,01-05,Budapest,07,007,Budapest VII. kerület,01-05,01-06,01-01|01-02|01-06,01-06,50877,1,01-06,01-06,N,1135,1057,0,62,1057,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/01-007-032?tab=data,50877
+01-007-033,01,BUDAPEST,01-05,Budapest,07,007,Budapest VII. kerület,01-05,01-06,01-01|01-02|01-06,01-06,39666,1,01-06,01-06,N,980,902,0,70,902,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/01-007-033?tab=data,39666
+01-007-034,01,BUDAPEST,01-05,Budapest,07,007,Budapest VII. kerület,01-05,01-06,01-01|01-02|01-06,01-06,44780,1,01-06,01-06,N,730,681,0,43,681,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/01-007-034?tab=data,44780
+01-007-035,01,BUDAPEST,01-05,Budapest,07,007,Budapest VII. kerület,01-05,01-06,01-01|01-02|01-06,01-06,60909,1,01-06,01-06,N,1040,967,0,46,967,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/01-007-035?tab=data,60909
+01-007-036,01,BUDAPEST,01-05,Budapest,07,007,Budapest VII. kerület,01-05,01-06,01-01|01-02|01-06,01-06,78939,1,01-06,01-06,N,895,832,0,61,832,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/01-007-036?tab=data,78939
+01-007-037,01,BUDAPEST,01-05,Budapest,07,007,Budapest VII. kerület,01-05,01-06,01-01|01-02|01-06,01-06,65696,1,01-06,01-06,N,996,946,0,48,946,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/01-007-037?tab=data,65696
+01-007-038,01,BUDAPEST,01-05,Budapest,07,007,Budapest VII. kerület,01-05,01-06,01-01|01-02|01-06,01-06,69893,1,01-06,01-06,N,840,780,0,56,780,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/01-007-038?tab=data,69893
 01-008-001,01,BUDAPEST,01-01,Budapest,05,008,Budapest VIII. kerület,01-01,01-02,01-02|01-07,01-02,259665,1,01-02,01-02,N,727,653,0,60,653,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/01-008-001?tab=data,259665
 01-008-002,01,BUDAPEST,01-01,Budapest,05,008,Budapest VIII. kerület,01-01,01-02,01-02|01-07,01-02,74538,1,01-02,01-02,N,727,668,0,49,668,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/01-008-002?tab=data,74538
 01-008-003,01,BUDAPEST,01-01,Budapest,05,008,Budapest VIII. kerület,01-01,01-02,01-02|01-07,01-02,109217,1,01-02,01-02,N,656,592,0,62,592,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/01-008-003?tab=data,109217
@@ -3848,260 +3848,260 @@ SZAVAZOKOR,MEGYEKOD,MEGYE,OEVK,SZEKHELY,SZH_KER,TELEPULES_SORSZAM,TELEPULES,OEVK
 06-042-004,06,CSONGRÁD-CSANÁD,06-03,Szentes,,042,Ópusztaszer,06-03,06-03,06-03,06-03,7253312,1,06-03,06-03,N,149,146,0,4,146,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-042-004?tab=data,7253312
 06-043-001,06,CSONGRÁD-CSANÁD,06-02,Szeged,,043,Öttömös,06-02,06-02,06-02,06-02,618236,1,06-02,06-02,I,409,391,6,9,397,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-043-001?tab=data,618236
 06-043-002,06,CSONGRÁD-CSANÁD,06-02,Szeged,,043,Öttömös,06-02,06-02,06-02,06-02,461,1,06-02,06-02,N,146,143,0,5,143,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-043-002?tab=data,461
-06-044-001,06,CSONGRÁD-CSANÁD,06-04,Hódmezõvásárhely,,044,Pitvaros,06-04,06-04,06-04,06-04,2366489,1,06-04,06-04,I,570,557,10,10,567,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-044-001?tab=data,2366489
-06-044-002,06,CSONGRÁD-CSANÁD,06-04,Hódmezõvásárhely,,044,Pitvaros,06-04,06-04,06-04,06-04,1108948,1,06-04,06-04,N,518,504,0,9,504,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-044-002?tab=data,1108948
-06-045-001,06,CSONGRÁD-CSANÁD,06-02,Szeged,,045,Pusztamérges,06-02,06-02,06-02,06-02,37348062,1,06-02,06-02,I,898,863,7,27,870,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-045-001?tab=data,37355753
-06-046-001,06,CSONGRÁD-CSANÁD,06-03,Szentes,,046,Pusztaszer,06-03,06-03,06-03,06-03,1079430,1,06-03,06-03,I,738,731,10,10,741,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-046-001?tab=data,1079430
-06-046-002,06,CSONGRÁD-CSANÁD,06-03,Szentes,,046,Pusztaszer,06-03,06-03,06-03,06-03,263905,1,06-03,06-03,N,424,418,0,3,418,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-046-002?tab=data,263905
-06-047-001,06,CSONGRÁD-CSANÁD,06-02,Szeged,,047,Röszke,06-02,06-02,06-02,06-02,2807665,1,06-02,06-02,N,1092,1080,0,9,1080,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-047-001?tab=data,2807665
-06-047-002,06,CSONGRÁD-CSANÁD,06-02,Szeged,,047,Röszke,06-02,06-02,06-02,06-02,2234285,1,06-02,06-02,I,1312,1280,22,23,1302,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-047-002?tab=data,2234285
-06-047-003,06,CSONGRÁD-CSANÁD,06-02,Szeged,,047,Röszke,06-02,06-02,06-02,06-02,43142838,1,06-02,06-02,N,566,546,0,11,546,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-047-003?tab=data,43154559
-06-048-001,06,CSONGRÁD-CSANÁD,06-02,Szeged,,048,Ruzsa,06-02,06-02,06-02,06-02,929682,1,06-02,06-02,N,1056,1033,0,18,1033,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-048-001?tab=data,929682
-06-048-002,06,CSONGRÁD-CSANÁD,06-02,Szeged,,048,Ruzsa,06-02,06-02,06-02,06-02,848625,1,06-02,06-02,I,956,939,14,19,953,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-048-002?tab=data,848625
-06-049-001,06,CSONGRÁD-CSANÁD,06-03,Szentes,,049,Sándorfalva,06-03,06-03,06-03,06-03,640165,1,06-03,06-03,N,859,844,0,19,844,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-049-001?tab=data,640165
-06-049-002,06,CSONGRÁD-CSANÁD,06-03,Szentes,,049,Sándorfalva,06-03,06-03,06-03,06-03,908531,1,06-03,06-03,N,861,834,0,20,834,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-049-002?tab=data,908531
-06-049-003,06,CSONGRÁD-CSANÁD,06-03,Szentes,,049,Sándorfalva,06-03,06-03,06-03,06-03,593935,1,06-03,06-03,N,677,658,0,11,658,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-049-003?tab=data,593935
-06-049-004,06,CSONGRÁD-CSANÁD,06-03,Szentes,,049,Sándorfalva,06-03,06-03,06-03,06-03,569470,1,06-03,06-03,I,727,716,65,13,781,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-049-004?tab=data,569470
-06-049-005,06,CSONGRÁD-CSANÁD,06-03,Szentes,,049,Sándorfalva,06-03,06-03,06-03,06-03,2237353,1,06-03,06-03,N,829,805,0,17,805,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-049-005?tab=data,2237353
-06-049-006,06,CSONGRÁD-CSANÁD,06-03,Szentes,,049,Sándorfalva,06-03,06-03,06-03,06-03,1446007,1,06-03,06-03,N,863,848,0,13,848,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-049-006?tab=data,1446007
-06-049-007,06,CSONGRÁD-CSANÁD,06-03,Szentes,,049,Sándorfalva,06-03,06-03,06-03,06-03,1142854,1,06-03,06-03,N,804,782,0,16,782,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-049-007?tab=data,1142854
-06-049-008,06,CSONGRÁD-CSANÁD,06-03,Szentes,,049,Sándorfalva,06-03,06-03,06-03,06-03,800455,1,06-03,06-03,N,727,709,0,12,709,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-049-008?tab=data,800455
-06-049-009,06,CSONGRÁD-CSANÁD,06-03,Szentes,,049,Sándorfalva,06-03,06-03,06-03,06-03,3066807,1,06-03,06-03,N,483,482,0,5,482,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-049-009?tab=data,3066807
-06-050-001,06,CSONGRÁD-CSANÁD,06-03,Szentes,,050,Szatymaz,06-03,06-03,06-03,06-03,135804,1,06-03,06-03,I,1015,993,27,16,1020,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-050-001?tab=data,135804
-06-050-002,06,CSONGRÁD-CSANÁD,06-03,Szentes,,050,Szatymaz,06-03,06-03,06-03,06-03,1234646,1,06-03,06-03,N,1020,996,0,21,996,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-050-002?tab=data,1234646
-06-050-003,06,CSONGRÁD-CSANÁD,06-03,Szentes,,050,Szatymaz,06-03,06-03,06-03,06-03,614069,1,06-03,06-03,N,1046,1020,0,23,1020,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-050-003?tab=data,614069
-06-050-004,06,CSONGRÁD-CSANÁD,06-03,Szentes,,050,Szatymaz,06-03,06-03,06-03,06-03,5210410,1,06-03,06-03,N,1118,1094,0,26,1094,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-050-004?tab=data,5210410
-06-051-001,06,CSONGRÁD-CSANÁD,06-02,Szeged,,051,Szeged,06-02,06-02,06-02|06-01,06-02,2897006,1,06-02,06-02,N,1229,1204,0,22,1204,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-001?tab=data,2897006
-06-051-002,06,CSONGRÁD-CSANÁD,06-02,Szeged,,051,Szeged,06-02,06-02,06-02|06-01,06-01|06-02,413992|2748104,0|1,06-02,06-02,N,1148,1134,0,14,1134,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-002?tab=data,3162096
-06-051-003,06,CSONGRÁD-CSANÁD,06-02,Szeged,,051,Szeged,06-02,06-02,06-02|06-01,06-02,6177897,1,06-02,06-02,N,1276,1231,0,42,1231,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-003?tab=data,6177897
-06-051-004,06,CSONGRÁD-CSANÁD,06-01,Szeged,,051,Szeged,06-01,06-01,06-02|06-01,06-01,61178,1,06-01,06-01,N,1215,1192,0,32,1192,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-004?tab=data,61178
-06-051-005,06,CSONGRÁD-CSANÁD,06-02,Szeged,,051,Szeged,06-02,06-02,06-02|06-01,06-02,804465,1,06-02,06-02,N,1024,965,0,48,965,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-005?tab=data,804465
-06-051-006,06,CSONGRÁD-CSANÁD,06-02,Szeged,,051,Szeged,06-02,06-02,06-02|06-01,06-02,1127881,1,06-02,06-02,N,1335,1266,0,51,1266,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-006?tab=data,1127881
-06-051-007,06,CSONGRÁD-CSANÁD,06-01,Szeged,,051,Szeged,06-01,06-01,06-02|06-01,06-01,1301280,1,06-01,06-01,N,1421,1380,0,34,1380,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-007?tab=data,1301280
-06-051-008,06,CSONGRÁD-CSANÁD,06-01,Szeged,,051,Szeged,06-01,06-01,06-02|06-01,06-01,203800,1,06-01,06-01,N,1084,1036,0,35,1036,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-008?tab=data,203800
-06-051-009,06,CSONGRÁD-CSANÁD,06-01,Szeged,,051,Szeged,06-01,06-01,06-02|06-01,06-01,206049,1,06-01,06-01,N,1260,1208,0,40,1208,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-009?tab=data,206049
-06-051-010,06,CSONGRÁD-CSANÁD,06-01,Szeged,,051,Szeged,06-01,06-01,06-02|06-01,06-01,423564,1,06-01,06-01,N,1042,983,0,51,983,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-010?tab=data,423564
-06-051-011,06,CSONGRÁD-CSANÁD,06-02,Szeged,,051,Szeged,06-02,06-02,06-02|06-01,06-02,336975,1,06-02,06-02,N,1140,1071,0,62,1071,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-011?tab=data,336975
-06-051-012,06,CSONGRÁD-CSANÁD,06-01,Szeged,,051,Szeged,06-01,06-01,06-02|06-01,06-01,1841602,1,06-01,06-01,N,1418,1370,0,38,1370,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-012?tab=data,1841602
-06-051-013,06,CSONGRÁD-CSANÁD,06-01,Szeged,,051,Szeged,06-01,06-01,06-02|06-01,06-01,615682,1,06-01,06-01,N,1146,1091,0,42,1091,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-013?tab=data,615682
-06-051-014,06,CSONGRÁD-CSANÁD,06-01,Szeged,,051,Szeged,06-01,06-01,06-02|06-01,06-01,642583,1,06-01,06-01,N,1429,1373,0,62,1373,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-014?tab=data,642583
-06-051-015,06,CSONGRÁD-CSANÁD,06-01,Szeged,,051,Szeged,06-01,06-01,06-02|06-01,06-01,185347,1,06-01,06-01,N,1117,1086,0,19,1086,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-015?tab=data,185347
-06-051-016,06,CSONGRÁD-CSANÁD,06-01,Szeged,,051,Szeged,06-01,06-01,06-02|06-01,06-01,235969,1,06-01,06-01,N,1263,1212,0,52,1212,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-016?tab=data,235969
-06-051-017,06,CSONGRÁD-CSANÁD,06-01,Szeged,,051,Szeged,06-01,06-01,06-02|06-01,06-01,311158,1,06-01,06-01,N,1339,1265,0,58,1265,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-017?tab=data,311158
-06-051-018,06,CSONGRÁD-CSANÁD,06-02,Szeged,,051,Szeged,06-02,06-01,06-02|06-01,06-01,594243,1,06-01,06-01,N,1243,1160,0,63,1160,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-018?tab=data,594243
-06-051-019,06,CSONGRÁD-CSANÁD,06-02,Szeged,,051,Szeged,06-02,06-01,06-02|06-01,06-01|06-02,2173763|12040,1|0,06-01,06-01,N,1426,1374,0,56,1374,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-019?tab=data,2185802
-06-051-020,06,CSONGRÁD-CSANÁD,06-01,Szeged,,051,Szeged,06-01,06-02,06-02|06-01,06-01|06-02,1164|1692928,0|1,06-02,06-02,N,1053,1030,0,25,1030,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-020?tab=data,1694092
-06-051-101,06,CSONGRÁD-CSANÁD,06-02,Szeged,,051,Szeged,06-02,06-02,06-02|06-01,06-02,19240368,1,06-02,06-02,N,1255,1214,0,31,1214,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-101?tab=data,19240368
-06-051-102,06,CSONGRÁD-CSANÁD,06-02,Szeged,,051,Szeged,06-02,06-01,06-02|06-01,06-01|06-02,2675595|156723,1|0,06-01,06-01,N,1424,1391,0,29,1391,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-102?tab=data,2832320
-06-051-103,06,CSONGRÁD-CSANÁD,06-02,Szeged,,051,Szeged,06-02,06-02,06-02|06-01,06-02,996962,1,06-02,06-02,N,1109,1091,0,25,1091,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-103?tab=data,996962
-06-051-104,06,CSONGRÁD-CSANÁD,06-01,Szeged,,051,Szeged,06-01,06-01,06-02|06-01,06-01|06-02,580603|1658,1|0,06-01,06-01,N,1215,1168,0,36,1168,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-104?tab=data,582261
-06-051-105,06,CSONGRÁD-CSANÁD,06-02,Szeged,,051,Szeged,06-02,06-02,06-02|06-01,06-02,887170,1,06-02,06-02,N,1081,1047,0,26,1047,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-105?tab=data,887170
-06-051-106,06,CSONGRÁD-CSANÁD,06-02,Szeged,,051,Szeged,06-02,06-02,06-02|06-01,06-02,1592581,1,06-02,06-02,N,1235,1186,0,45,1186,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-106?tab=data,1592581
-06-051-107,06,CSONGRÁD-CSANÁD,06-01,Szeged,,051,Szeged,06-01,06-01,06-02|06-01,06-01,1891306,1,06-01,06-01,N,1326,1297,0,24,1297,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-107?tab=data,1891306
-06-051-108,06,CSONGRÁD-CSANÁD,06-01,Szeged,,051,Szeged,06-01,06-01,06-02|06-01,06-01,212449,1,06-01,06-01,N,1222,1182,0,29,1182,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-108?tab=data,212449
-06-051-109,06,CSONGRÁD-CSANÁD,06-01,Szeged,,051,Szeged,06-01,06-01,06-02|06-01,06-01,322601,1,06-01,06-01,N,1257,1203,0,43,1203,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-109?tab=data,322601
-06-051-110,06,CSONGRÁD-CSANÁD,06-01,Szeged,,051,Szeged,06-01,06-01,06-02|06-01,06-01,509490,1,06-01,06-01,N,1217,1149,0,58,1149,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-110?tab=data,509490
-06-051-111,06,CSONGRÁD-CSANÁD,06-02,Szeged,,051,Szeged,06-02,06-02,06-02|06-01,06-02,678520,1,06-02,06-02,N,1065,983,0,75,983,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-111?tab=data,678520
-06-051-112,06,CSONGRÁD-CSANÁD,06-01,Szeged,,051,Szeged,06-01,06-01,06-02|06-01,06-01,947796,1,06-01,06-01,N,1440,1391,0,47,1391,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-112?tab=data,947796
-06-051-113,06,CSONGRÁD-CSANÁD,06-01,Szeged,,051,Szeged,06-01,06-01,06-02|06-01,06-01,208839,1,06-01,06-01,N,1239,1189,0,36,1189,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-113?tab=data,208839
-06-051-114,06,CSONGRÁD-CSANÁD,06-01,Szeged,,051,Szeged,06-01,06-01,06-02|06-01,06-01,214240,1,06-01,06-01,N,1237,1185,0,37,1185,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-114?tab=data,214240
-06-051-115,06,CSONGRÁD-CSANÁD,06-01,Szeged,,051,Szeged,06-01,06-01,06-02|06-01,06-01,78286,1,06-01,06-01,N,1164,1126,0,30,1126,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-115?tab=data,78286
-06-051-116,06,CSONGRÁD-CSANÁD,06-01,Szeged,,051,Szeged,06-01,06-01,06-02|06-01,06-01,346914,1,06-01,06-01,N,1363,1294,0,66,1294,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-116?tab=data,346914
-06-051-117,06,CSONGRÁD-CSANÁD,06-01,Szeged,,051,Szeged,06-01,06-01,06-02|06-01,06-01,251093,1,06-01,06-01,N,1216,1160,0,40,1160,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-117?tab=data,251093
-06-051-118,06,CSONGRÁD-CSANÁD,06-02,Szeged,,051,Szeged,06-02,06-01,06-02|06-01,06-01,115915,1,06-01,06-01,N,1209,1148,0,68,1148,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-118?tab=data,115915
-06-051-119,06,CSONGRÁD-CSANÁD,06-02,Szeged,,051,Szeged,06-02,06-02,06-02|06-01,06-01|06-02,3077220|1478281,1|0,06-01,06-01,N,1389,1317,0,69,1317,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-119?tab=data,4555501
-06-051-120,06,CSONGRÁD-CSANÁD,06-02,Szeged,,051,Szeged,06-02,06-01,06-02|06-01,06-01,1136503,1,06-01,06-01,N,1496,1406,0,76,1406,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-120?tab=data,1136503
-06-051-201,06,CSONGRÁD-CSANÁD,06-02,Szeged,,051,Szeged,06-02,06-02,06-02|06-01,06-02,1510475,1,06-02,06-02,N,1219,1196,0,13,1196,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-201?tab=data,1510475
-06-051-202,06,CSONGRÁD-CSANÁD,06-02,Szeged,,051,Szeged,06-02,06-02,06-02|06-01,06-01|06-02,53370|6239193,0|1,06-02,06-02,N,1245,1211,0,14,1211,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-202?tab=data,6292614
-06-051-203,06,CSONGRÁD-CSANÁD,06-02,Szeged,,051,Szeged,06-02,06-02,06-02|06-01,06-02,1479934,1,06-02,06-02,N,1118,1089,0,32,1089,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-203?tab=data,1479934
-06-051-204,06,CSONGRÁD-CSANÁD,06-01,Szeged,,051,Szeged,06-01,06-01,06-02|06-01,06-01,587081,1,06-01,06-01,N,1250,1211,0,32,1211,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-204?tab=data,587081
-06-051-205,06,CSONGRÁD-CSANÁD,06-02,Szeged,,051,Szeged,06-02,06-02,06-02|06-01,06-02,822227,1,06-02,06-02,N,1081,1029,0,43,1029,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-205?tab=data,822227
-06-051-206,06,CSONGRÁD-CSANÁD,06-02,Szeged,,051,Szeged,06-02,06-02,06-02|06-01,06-02,1102097,1,06-02,06-02,N,1166,1118,0,56,1118,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-206?tab=data,1102097
-06-051-207,06,CSONGRÁD-CSANÁD,06-01,Szeged,,051,Szeged,06-01,06-01,06-02|06-01,06-01,4333454,1,06-01,06-01,N,735,721,0,16,721,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-207?tab=data,4333454
-06-051-208,06,CSONGRÁD-CSANÁD,06-01,Szeged,,051,Szeged,06-01,06-01,06-02|06-01,06-01,254295,1,06-01,06-01,N,1275,1224,0,37,1224,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-208?tab=data,254295
-06-051-209,06,CSONGRÁD-CSANÁD,06-01,Szeged,,051,Szeged,06-01,06-01,06-02|06-01,06-01,632713,1,06-01,06-01,N,1192,1142,0,42,1142,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-209?tab=data,632713
-06-051-210,06,CSONGRÁD-CSANÁD,06-01,Szeged,,051,Szeged,06-01,06-01,06-02|06-01,06-01,300634,1,06-01,06-01,N,979,912,0,61,912,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-210?tab=data,300634
-06-051-211,06,CSONGRÁD-CSANÁD,06-02,Szeged,,051,Szeged,06-02,06-02,06-02|06-01,06-01|06-02,92383|109173,0|1,06-02,06-02,N,640,603,0,29,603,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-211?tab=data,201556
-06-051-212,06,CSONGRÁD-CSANÁD,06-01,Szeged,,051,Szeged,06-01,06-01,06-02|06-01,06-01,906290,1,06-01,06-01,N,1068,1003,0,28,1003,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-212?tab=data,906290
-06-051-213,06,CSONGRÁD-CSANÁD,06-01,Szeged,,051,Szeged,06-01,06-01,06-02|06-01,06-01,251272,1,06-01,06-01,N,1179,1128,0,49,1128,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-213?tab=data,251272
-06-051-214,06,CSONGRÁD-CSANÁD,06-01,Szeged,,051,Szeged,06-01,06-01,06-02|06-01,06-01,86858,1,06-01,06-01,N,1178,1132,0,47,1132,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-214?tab=data,86858
-06-051-215,06,CSONGRÁD-CSANÁD,06-01,Szeged,,051,Szeged,06-01,06-01,06-02|06-01,06-01,86137,1,06-01,06-01,N,1218,1180,0,40,1180,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-215?tab=data,86137
-06-051-216,06,CSONGRÁD-CSANÁD,06-01,Szeged,,051,Szeged,06-01,06-01,06-02|06-01,06-01,291145,1,06-01,06-01,N,1266,1189,0,52,1189,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-216?tab=data,291145
-06-051-217,06,CSONGRÁD-CSANÁD,06-01,Szeged,,051,Szeged,06-01,06-01,06-02|06-01,06-01,319472,1,06-01,06-01,N,1099,1036,0,63,1036,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-217?tab=data,319472
-06-051-218,06,CSONGRÁD-CSANÁD,06-02,Szeged,,051,Szeged,06-02,06-01,06-02|06-01,06-01,330676,1,06-01,06-01,N,1154,1096,0,50,1096,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-218?tab=data,330676
-06-051-219,06,CSONGRÁD-CSANÁD,06-02,Szeged,,051,Szeged,06-02,06-01,06-02|06-01,06-01,2179043,1,06-01,06-01,N,1337,1278,0,47,1278,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-219?tab=data,2179043
-06-051-220,06,CSONGRÁD-CSANÁD,06-02,Szeged,,051,Szeged,06-02,06-01,06-02|06-01,06-01,538951,1,06-01,06-01,N,1485,1431,0,54,1431,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-220?tab=data,538951
-06-051-301,06,CSONGRÁD-CSANÁD,06-02,Szeged,,051,Szeged,06-02,06-02,06-02|06-01,06-02,8523129,1,06-02,06-02,N,1209,1188,0,21,1188,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-301?tab=data,8523129
-06-051-302,06,CSONGRÁD-CSANÁD,06-02,Szeged,,051,Szeged,06-02,06-02,06-02|06-01,06-02,1741432,1,06-02,06-02,N,999,943,0,42,943,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-302?tab=data,1741432
-06-051-303,06,CSONGRÁD-CSANÁD,06-02,Szeged,,051,Szeged,06-02,06-02,06-02|06-01,06-02,1063371,1,06-02,06-02,N,929,894,0,26,894,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-303?tab=data,1063371
-06-051-304,06,CSONGRÁD-CSANÁD,06-01,Szeged,,051,Szeged,06-01,06-01,06-02|06-01,06-01,272620,1,06-01,06-01,N,1252,1183,0,61,1183,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-304?tab=data,272620
-06-051-305,06,CSONGRÁD-CSANÁD,06-02,Szeged,,051,Szeged,06-02,06-02,06-02|06-01,06-02,1515852,1,06-02,06-02,N,1364,1326,0,48,1326,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-305?tab=data,1515852
-06-051-306,06,CSONGRÁD-CSANÁD,06-02,Szeged,,051,Szeged,06-02,06-02,06-02|06-01,06-02,546515,1,06-02,06-02,N,1084,1010,0,70,1010,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-306?tab=data,546515
-06-051-307,06,CSONGRÁD-CSANÁD,06-01,Szeged,,051,Szeged,06-01,06-01,06-02|06-01,06-01,1189355,1,06-01,06-01,N,1382,1341,0,28,1341,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-307?tab=data,1189355
-06-051-308,06,CSONGRÁD-CSANÁD,06-01,Szeged,,051,Szeged,06-01,06-01,06-02|06-01,06-01,342929,1,06-01,06-01,N,1159,1120,0,41,1120,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-308?tab=data,342929
-06-051-309,06,CSONGRÁD-CSANÁD,06-01,Szeged,,051,Szeged,06-01,06-01,06-02|06-01,06-01,407742,1,06-01,06-01,N,1189,1119,0,48,1119,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-309?tab=data,407742
-06-051-310,06,CSONGRÁD-CSANÁD,06-01,Szeged,,051,Szeged,06-01,06-01,06-02|06-01,06-01,237074,1,06-01,06-01,N,1000,929,0,59,929,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-310?tab=data,237074
-06-051-311,06,CSONGRÁD-CSANÁD,06-02,Szeged,,051,Szeged,06-02,06-02,06-02|06-01,06-01|06-02,14724|113405,0|1,06-02,06-02,N,1046,994,0,46,994,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-311?tab=data,128129
-06-051-312,06,CSONGRÁD-CSANÁD,06-01,Szeged,,051,Szeged,06-01,06-01,06-02|06-01,06-01,2347167,1,06-01,06-01,N,1182,1134,0,42,1134,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-312?tab=data,2347167
-06-051-313,06,CSONGRÁD-CSANÁD,06-01,Szeged,,051,Szeged,06-01,06-01,06-02|06-01,06-01,114717,1,06-01,06-01,N,1105,1064,0,37,1064,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-313?tab=data,114717
-06-051-314,06,CSONGRÁD-CSANÁD,06-01,Szeged,,051,Szeged,06-01,06-01,06-02|06-01,06-01,478312,1,06-01,06-01,N,1300,1241,0,69,1241,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-314?tab=data,478312
-06-051-315,06,CSONGRÁD-CSANÁD,06-01,Szeged,,051,Szeged,06-01,06-01,06-02|06-01,06-01,82641,1,06-01,06-01,N,1172,1117,0,37,1117,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-315?tab=data,82641
-06-051-316,06,CSONGRÁD-CSANÁD,06-01,Szeged,,051,Szeged,06-01,06-01,06-02|06-01,06-01,254182,1,06-01,06-01,N,1272,1214,0,56,1214,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-316?tab=data,254182
-06-051-317,06,CSONGRÁD-CSANÁD,06-01,Szeged,,051,Szeged,06-01,06-01,06-02|06-01,06-01,295384,1,06-01,06-01,N,1264,1220,0,35,1220,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-317?tab=data,295384
-06-051-318,06,CSONGRÁD-CSANÁD,06-02,Szeged,,051,Szeged,06-02,06-01,06-02|06-01,06-01,664313,1,06-01,06-01,N,1259,1199,0,63,1199,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-318?tab=data,664313
-06-051-319,06,CSONGRÁD-CSANÁD,06-02,Szeged,,051,Szeged,06-02,06-01,06-02|06-01,06-01|06-02,2449620|1658572,1|0,06-01,06-01,N,1236,1181,0,49,1181,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-319?tab=data,4108187
-06-051-320,06,CSONGRÁD-CSANÁD,06-01,Szeged,,051,Szeged,06-01,06-02,06-02|06-01,06-02,1632877,1,06-02,06-02,N,1172,1132,0,31,1132,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-320?tab=data,1632877
-06-051-401,06,CSONGRÁD-CSANÁD,06-02,Szeged,,051,Szeged,06-02,06-02,06-02|06-01,06-02,2112966,1,06-02,06-02,N,1203,1169,0,32,1169,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-401?tab=data,2112966
-06-051-402,06,CSONGRÁD-CSANÁD,06-02,Szeged,,051,Szeged,06-02,06-02,06-02|06-01,06-02,732267,1,06-02,06-02,N,999,951,0,41,951,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-402?tab=data,732267
-06-051-403,06,CSONGRÁD-CSANÁD,06-02,Szeged,,051,Szeged,06-02,06-02,06-02|06-01,06-02,964858,1,06-02,06-02,N,894,859,0,28,859,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-403?tab=data,964858
-06-051-404,06,CSONGRÁD-CSANÁD,06-01,Szeged,,051,Szeged,06-01,06-01,06-02|06-01,06-01|06-02,361811|57511,1|0,06-01,06-01,N,1221,1169,0,43,1169,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-404?tab=data,419323
-06-051-405,06,CSONGRÁD-CSANÁD,06-02,Szeged,,051,Szeged,06-02,06-02,06-02|06-01,06-02,296904,1,06-02,06-02,N,964,926,0,43,926,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-405?tab=data,296904
-06-051-406,06,CSONGRÁD-CSANÁD,06-02,Szeged,,051,Szeged,06-02,06-02,06-02|06-01,06-02,442969,1,06-02,06-02,N,910,850,0,51,850,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-406?tab=data,442969
-06-051-407,06,CSONGRÁD-CSANÁD,06-01,Szeged,,051,Szeged,06-01,06-01,06-02|06-01,06-01,2296713,1,06-01,06-01,N,1223,1181,0,35,1181,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-407?tab=data,2296713
-06-051-408,06,CSONGRÁD-CSANÁD,06-01,Szeged,,051,Szeged,06-01,06-01,06-02|06-01,06-01,222415,1,06-01,06-01,N,1110,1075,0,38,1075,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-408?tab=data,222415
-06-051-409,06,CSONGRÁD-CSANÁD,06-01,Szeged,,051,Szeged,06-01,06-01,06-02|06-01,06-01,151332,1,06-01,06-01,N,1387,1314,0,73,1314,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-409?tab=data,151332
-06-051-410,06,CSONGRÁD-CSANÁD,06-01,Szeged,,051,Szeged,06-01,06-01,06-02|06-01,06-01,275480,1,06-01,06-01,N,1096,1034,0,62,1034,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-410?tab=data,275480
-06-051-411,06,CSONGRÁD-CSANÁD,06-02,Szeged,,051,Szeged,06-02,06-02,06-02|06-01,06-01|06-02,91736|509779,0|1,06-02,06-02,N,869,826,0,40,826,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-411?tab=data,601515
-06-051-412,06,CSONGRÁD-CSANÁD,06-01,Szeged,,051,Szeged,06-01,06-01,06-02|06-01,06-01,188443,1,06-01,06-01,N,1316,1266,0,41,1266,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-412?tab=data,188443
-06-051-413,06,CSONGRÁD-CSANÁD,06-01,Szeged,,051,Szeged,06-01,06-01,06-02|06-01,06-01,41188,1,06-01,06-01,N,1226,1178,0,34,1178,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-413?tab=data,41188
-06-051-414,06,CSONGRÁD-CSANÁD,06-01,Szeged,,051,Szeged,06-01,06-01,06-02|06-01,06-01,701122,1,06-01,06-01,N,1314,1253,0,46,1253,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-414?tab=data,701122
-06-051-415,06,CSONGRÁD-CSANÁD,06-01,Szeged,,051,Szeged,06-01,06-01,06-02|06-01,06-01,172145,1,06-01,06-01,N,1267,1234,0,33,1234,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-415?tab=data,172145
-06-051-416,06,CSONGRÁD-CSANÁD,06-01,Szeged,,051,Szeged,06-01,06-01,06-02|06-01,06-01,364410,1,06-01,06-01,N,1289,1245,0,38,1245,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-416?tab=data,364410
-06-051-417,06,CSONGRÁD-CSANÁD,06-01,Szeged,,051,Szeged,06-01,06-01,06-02|06-01,06-01,175975,1,06-01,06-01,N,1199,1139,0,45,1139,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-417?tab=data,175975
-06-051-418,06,CSONGRÁD-CSANÁD,06-02,Szeged,,051,Szeged,06-02,06-01,06-02|06-01,06-01,1342587,1,06-01,06-01,N,1241,1169,0,61,1169,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-418?tab=data,1342587
-06-051-419,06,CSONGRÁD-CSANÁD,06-02,Szeged,,051,Szeged,06-02,06-01,06-02|06-01,06-01,2098379,1,06-01,06-01,N,1303,1230,0,68,1230,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-419?tab=data,2098379
-06-051-420,06,CSONGRÁD-CSANÁD,06-01,Szeged,,051,Szeged,06-01,06-02,06-02|06-01,06-02,1077801,1,06-02,06-02,N,1091,1036,0,47,1036,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-420?tab=data,1077801
+06-044-001,06,CSONGRÁD-CSANÁD,06-04,Hódmezõvásárhely,,044,Pitvaros,06-04,06-04,06-04,06-04|06-04,2366489|2366489,1|1,06-04,06-04,I,570,557,10,10,567,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-044-001?tab=data,2366489
+06-044-002,06,CSONGRÁD-CSANÁD,06-04,Hódmezõvásárhely,,044,Pitvaros,06-04,06-04,06-04,06-04|06-04,1108948|1108948,1|1,06-04,06-04,N,518,504,0,9,504,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-044-002?tab=data,1108948
+06-045-001,06,CSONGRÁD-CSANÁD,06-02,Szeged,,045,Pusztamérges,06-02,06-02,06-02,06-02|06-02,37348062|37348062,1|1,06-02,06-02,I,898,863,7,27,870,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-045-001?tab=data,37355753
+06-046-001,06,CSONGRÁD-CSANÁD,06-03,Szentes,,046,Pusztaszer,06-03,06-03,06-03,06-03|06-03,1079430|1079430,1|1,06-03,06-03,I,738,731,10,10,741,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-046-001?tab=data,1079430
+06-046-002,06,CSONGRÁD-CSANÁD,06-03,Szentes,,046,Pusztaszer,06-03,06-03,06-03,06-03|06-03,263905|263905,1|1,06-03,06-03,N,424,418,0,3,418,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-046-002?tab=data,263905
+06-047-001,06,CSONGRÁD-CSANÁD,06-02,Szeged,,047,Röszke,06-02,06-02,06-02,06-02|06-02,2807665|2807665,1|1,06-02,06-02,N,1092,1080,0,9,1080,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-047-001?tab=data,2807665
+06-047-002,06,CSONGRÁD-CSANÁD,06-02,Szeged,,047,Röszke,06-02,06-02,06-02,06-02|06-02,2234285|2234285,1|1,06-02,06-02,I,1312,1280,22,23,1302,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-047-002?tab=data,2234285
+06-047-003,06,CSONGRÁD-CSANÁD,06-02,Szeged,,047,Röszke,06-02,06-02,06-02,06-02|06-02,43142838|43142838,1|1,06-02,06-02,N,566,546,0,11,546,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-047-003?tab=data,43154559
+06-048-001,06,CSONGRÁD-CSANÁD,06-02,Szeged,,048,Ruzsa,06-02,06-02,06-02,06-02|06-02,929682|929682,1|1,06-02,06-02,N,1056,1033,0,18,1033,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-048-001?tab=data,929682
+06-048-002,06,CSONGRÁD-CSANÁD,06-02,Szeged,,048,Ruzsa,06-02,06-02,06-02,06-02|06-02,848625|848625,1|1,06-02,06-02,I,956,939,14,19,953,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-048-002?tab=data,848625
+06-049-001,06,CSONGRÁD-CSANÁD,06-03,Szentes,,049,Sándorfalva,06-03,06-03,06-03,06-03|06-03,640165|640165,1|1,06-03,06-03,N,859,844,0,19,844,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-049-001?tab=data,640165
+06-049-002,06,CSONGRÁD-CSANÁD,06-03,Szentes,,049,Sándorfalva,06-03,06-03,06-03,06-03|06-03,908531|908531,1|1,06-03,06-03,N,861,834,0,20,834,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-049-002?tab=data,908531
+06-049-003,06,CSONGRÁD-CSANÁD,06-03,Szentes,,049,Sándorfalva,06-03,06-03,06-03,06-03|06-03,593935|593935,1|1,06-03,06-03,N,677,658,0,11,658,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-049-003?tab=data,593935
+06-049-004,06,CSONGRÁD-CSANÁD,06-03,Szentes,,049,Sándorfalva,06-03,06-03,06-03,06-03|06-03,569470|569470,1|1,06-03,06-03,I,727,716,65,13,781,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-049-004?tab=data,569470
+06-049-005,06,CSONGRÁD-CSANÁD,06-03,Szentes,,049,Sándorfalva,06-03,06-03,06-03,06-03|06-03,2237353|2237353,1|1,06-03,06-03,N,829,805,0,17,805,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-049-005?tab=data,2237353
+06-049-006,06,CSONGRÁD-CSANÁD,06-03,Szentes,,049,Sándorfalva,06-03,06-03,06-03,06-03|06-03,1446007|1446007,1|1,06-03,06-03,N,863,848,0,13,848,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-049-006?tab=data,1446007
+06-049-007,06,CSONGRÁD-CSANÁD,06-03,Szentes,,049,Sándorfalva,06-03,06-03,06-03,06-03|06-03,1142854|1142854,1|1,06-03,06-03,N,804,782,0,16,782,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-049-007?tab=data,1142854
+06-049-008,06,CSONGRÁD-CSANÁD,06-03,Szentes,,049,Sándorfalva,06-03,06-03,06-03,06-03|06-03,800455|800455,1|1,06-03,06-03,N,727,709,0,12,709,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-049-008?tab=data,800455
+06-049-009,06,CSONGRÁD-CSANÁD,06-03,Szentes,,049,Sándorfalva,06-03,06-03,06-03,06-03|06-03,3066807|3066807,1|1,06-03,06-03,N,483,482,0,5,482,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-049-009?tab=data,3066807
+06-050-001,06,CSONGRÁD-CSANÁD,06-03,Szentes,,050,Szatymaz,06-03,06-03,06-03,06-03|06-03,135804|135804,1|1,06-03,06-03,I,1015,993,27,16,1020,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-050-001?tab=data,135804
+06-050-002,06,CSONGRÁD-CSANÁD,06-03,Szentes,,050,Szatymaz,06-03,06-03,06-03,06-03|06-03,1234646|1234646,1|1,06-03,06-03,N,1020,996,0,21,996,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-050-002?tab=data,1234646
+06-050-003,06,CSONGRÁD-CSANÁD,06-03,Szentes,,050,Szatymaz,06-03,06-03,06-03,06-03|06-03,614069|614069,1|1,06-03,06-03,N,1046,1020,0,23,1020,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-050-003?tab=data,614069
+06-050-004,06,CSONGRÁD-CSANÁD,06-03,Szentes,,050,Szatymaz,06-03,06-03,06-03,06-03|06-03,5210410|5210410,1|1,06-03,06-03,N,1118,1094,0,26,1094,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-050-004?tab=data,5210410
+06-051-001,06,CSONGRÁD-CSANÁD,06-02,Szeged,,051,Szeged,06-02,06-02,06-02|06-01,06-02|06-02,2897006|2897006,1|1,06-02,06-02,N,1229,1204,0,22,1204,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-001?tab=data,2897006
+06-051-002,06,CSONGRÁD-CSANÁD,06-02,Szeged,,051,Szeged,06-02,06-02,06-02|06-01,06-01|06-02|06-01|06-02,413992|2748104|413992|2748104,0|1|0|1,06-02,06-02,N,1148,1134,0,14,1134,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-002?tab=data,3162096
+06-051-003,06,CSONGRÁD-CSANÁD,06-02,Szeged,,051,Szeged,06-02,06-02,06-02|06-01,06-02|06-02,6177897|6177897,1|1,06-02,06-02,N,1276,1231,0,42,1231,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-003?tab=data,6177897
+06-051-004,06,CSONGRÁD-CSANÁD,06-01,Szeged,,051,Szeged,06-01,06-01,06-02|06-01,06-01|06-01,61178|61178,1|1,06-01,06-01,N,1215,1192,0,32,1192,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-004?tab=data,61178
+06-051-005,06,CSONGRÁD-CSANÁD,06-02,Szeged,,051,Szeged,06-02,06-02,06-02|06-01,06-02|06-02,804465|804465,1|1,06-02,06-02,N,1024,965,0,48,965,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-005?tab=data,804465
+06-051-006,06,CSONGRÁD-CSANÁD,06-02,Szeged,,051,Szeged,06-02,06-02,06-02|06-01,06-02|06-02,1127881|1127881,1|1,06-02,06-02,N,1335,1266,0,51,1266,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-006?tab=data,1127881
+06-051-007,06,CSONGRÁD-CSANÁD,06-01,Szeged,,051,Szeged,06-01,06-01,06-02|06-01,06-01|06-01,1301280|1301280,1|1,06-01,06-01,N,1421,1380,0,34,1380,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-007?tab=data,1301280
+06-051-008,06,CSONGRÁD-CSANÁD,06-01,Szeged,,051,Szeged,06-01,06-01,06-02|06-01,06-01|06-01,203800|203800,1|1,06-01,06-01,N,1084,1036,0,35,1036,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-008?tab=data,203800
+06-051-009,06,CSONGRÁD-CSANÁD,06-01,Szeged,,051,Szeged,06-01,06-01,06-02|06-01,06-01|06-01,206049|206049,1|1,06-01,06-01,N,1260,1208,0,40,1208,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-009?tab=data,206049
+06-051-010,06,CSONGRÁD-CSANÁD,06-01,Szeged,,051,Szeged,06-01,06-01,06-02|06-01,06-01|06-01,423564|423564,1|1,06-01,06-01,N,1042,983,0,51,983,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-010?tab=data,423564
+06-051-011,06,CSONGRÁD-CSANÁD,06-02,Szeged,,051,Szeged,06-02,06-02,06-02|06-01,06-02|06-02,336975|336975,1|1,06-02,06-02,N,1140,1071,0,62,1071,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-011?tab=data,336975
+06-051-012,06,CSONGRÁD-CSANÁD,06-01,Szeged,,051,Szeged,06-01,06-01,06-02|06-01,06-01|06-01,1841602|1841602,1|1,06-01,06-01,N,1418,1370,0,38,1370,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-012?tab=data,1841602
+06-051-013,06,CSONGRÁD-CSANÁD,06-01,Szeged,,051,Szeged,06-01,06-01,06-02|06-01,06-01|06-01,615682|615682,1|1,06-01,06-01,N,1146,1091,0,42,1091,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-013?tab=data,615682
+06-051-014,06,CSONGRÁD-CSANÁD,06-01,Szeged,,051,Szeged,06-01,06-01,06-02|06-01,06-01|06-01,642583|642583,1|1,06-01,06-01,N,1429,1373,0,62,1373,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-014?tab=data,642583
+06-051-015,06,CSONGRÁD-CSANÁD,06-01,Szeged,,051,Szeged,06-01,06-01,06-02|06-01,06-01|06-01,185347|185347,1|1,06-01,06-01,N,1117,1086,0,19,1086,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-015?tab=data,185347
+06-051-016,06,CSONGRÁD-CSANÁD,06-01,Szeged,,051,Szeged,06-01,06-01,06-02|06-01,06-01|06-01,235969|235969,1|1,06-01,06-01,N,1263,1212,0,52,1212,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-016?tab=data,235969
+06-051-017,06,CSONGRÁD-CSANÁD,06-01,Szeged,,051,Szeged,06-01,06-01,06-02|06-01,06-01|06-01,311158|311158,1|1,06-01,06-01,N,1339,1265,0,58,1265,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-017?tab=data,311158
+06-051-018,06,CSONGRÁD-CSANÁD,06-02,Szeged,,051,Szeged,06-02,06-01,06-02|06-01,06-01|06-01,594243|594243,1|1,06-01,06-01,N,1243,1160,0,63,1160,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-018?tab=data,594243
+06-051-019,06,CSONGRÁD-CSANÁD,06-02,Szeged,,051,Szeged,06-02,06-01,06-02|06-01,06-01|06-02|06-01|06-02,2173763|12040|2173763|12040,1|0|1|0,06-01,06-01,N,1426,1374,0,56,1374,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-019?tab=data,2185802
+06-051-020,06,CSONGRÁD-CSANÁD,06-01,Szeged,,051,Szeged,06-01,06-02,06-02|06-01,06-01|06-02|06-01|06-02,1164|1692928|1164|1692928,0|1|0|1,06-02,06-02,N,1053,1030,0,25,1030,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-020?tab=data,1694092
+06-051-101,06,CSONGRÁD-CSANÁD,06-02,Szeged,,051,Szeged,06-02,06-02,06-02|06-01,06-02|06-02,19240368|19240368,1|1,06-02,06-02,N,1255,1214,0,31,1214,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-101?tab=data,19240368
+06-051-102,06,CSONGRÁD-CSANÁD,06-02,Szeged,,051,Szeged,06-02,06-01,06-02|06-01,06-01|06-02|06-01|06-02,2675595|156723|2675595|156723,1|0|1|0,06-01,06-01,N,1424,1391,0,29,1391,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-102?tab=data,2832320
+06-051-103,06,CSONGRÁD-CSANÁD,06-02,Szeged,,051,Szeged,06-02,06-02,06-02|06-01,06-02|06-02,996962|996962,1|1,06-02,06-02,N,1109,1091,0,25,1091,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-103?tab=data,996962
+06-051-104,06,CSONGRÁD-CSANÁD,06-01,Szeged,,051,Szeged,06-01,06-01,06-02|06-01,06-01|06-02|06-01|06-02,580603|1658|580603|1658,1|0|1|0,06-01,06-01,N,1215,1168,0,36,1168,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-104?tab=data,582261
+06-051-105,06,CSONGRÁD-CSANÁD,06-02,Szeged,,051,Szeged,06-02,06-02,06-02|06-01,06-02|06-02,887170|887170,1|1,06-02,06-02,N,1081,1047,0,26,1047,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-105?tab=data,887170
+06-051-106,06,CSONGRÁD-CSANÁD,06-02,Szeged,,051,Szeged,06-02,06-02,06-02|06-01,06-02|06-02,1592581|1592581,1|1,06-02,06-02,N,1235,1186,0,45,1186,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-106?tab=data,1592581
+06-051-107,06,CSONGRÁD-CSANÁD,06-01,Szeged,,051,Szeged,06-01,06-01,06-02|06-01,06-01|06-01,1891306|1891306,1|1,06-01,06-01,N,1326,1297,0,24,1297,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-107?tab=data,1891306
+06-051-108,06,CSONGRÁD-CSANÁD,06-01,Szeged,,051,Szeged,06-01,06-01,06-02|06-01,06-01|06-01,212449|212449,1|1,06-01,06-01,N,1222,1182,0,29,1182,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-108?tab=data,212449
+06-051-109,06,CSONGRÁD-CSANÁD,06-01,Szeged,,051,Szeged,06-01,06-01,06-02|06-01,06-01|06-01,322601|322601,1|1,06-01,06-01,N,1257,1203,0,43,1203,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-109?tab=data,322601
+06-051-110,06,CSONGRÁD-CSANÁD,06-01,Szeged,,051,Szeged,06-01,06-01,06-02|06-01,06-01|06-01,509490|509490,1|1,06-01,06-01,N,1217,1149,0,58,1149,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-110?tab=data,509490
+06-051-111,06,CSONGRÁD-CSANÁD,06-02,Szeged,,051,Szeged,06-02,06-02,06-02|06-01,06-02|06-02,678520|678520,1|1,06-02,06-02,N,1065,983,0,75,983,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-111?tab=data,678520
+06-051-112,06,CSONGRÁD-CSANÁD,06-01,Szeged,,051,Szeged,06-01,06-01,06-02|06-01,06-01|06-01,947796|947796,1|1,06-01,06-01,N,1440,1391,0,47,1391,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-112?tab=data,947796
+06-051-113,06,CSONGRÁD-CSANÁD,06-01,Szeged,,051,Szeged,06-01,06-01,06-02|06-01,06-01|06-01,208839|208839,1|1,06-01,06-01,N,1239,1189,0,36,1189,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-113?tab=data,208839
+06-051-114,06,CSONGRÁD-CSANÁD,06-01,Szeged,,051,Szeged,06-01,06-01,06-02|06-01,06-01|06-01,214240|214240,1|1,06-01,06-01,N,1237,1185,0,37,1185,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-114?tab=data,214240
+06-051-115,06,CSONGRÁD-CSANÁD,06-01,Szeged,,051,Szeged,06-01,06-01,06-02|06-01,06-01|06-01,78286|78286,1|1,06-01,06-01,N,1164,1126,0,30,1126,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-115?tab=data,78286
+06-051-116,06,CSONGRÁD-CSANÁD,06-01,Szeged,,051,Szeged,06-01,06-01,06-02|06-01,06-01|06-01,346914|346914,1|1,06-01,06-01,N,1363,1294,0,66,1294,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-116?tab=data,346914
+06-051-117,06,CSONGRÁD-CSANÁD,06-01,Szeged,,051,Szeged,06-01,06-01,06-02|06-01,06-01|06-01,251093|251093,1|1,06-01,06-01,N,1216,1160,0,40,1160,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-117?tab=data,251093
+06-051-118,06,CSONGRÁD-CSANÁD,06-02,Szeged,,051,Szeged,06-02,06-01,06-02|06-01,06-01|06-01,115915|115915,1|1,06-01,06-01,N,1209,1148,0,68,1148,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-118?tab=data,115915
+06-051-119,06,CSONGRÁD-CSANÁD,06-02,Szeged,,051,Szeged,06-02,06-02,06-02|06-01,06-01|06-02|06-01|06-02,3077220|1478281|3077220|1478281,1|0|1|0,06-01,06-01,N,1389,1317,0,69,1317,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-119?tab=data,4555501
+06-051-120,06,CSONGRÁD-CSANÁD,06-02,Szeged,,051,Szeged,06-02,06-01,06-02|06-01,06-01|06-01,1136503|1136503,1|1,06-01,06-01,N,1496,1406,0,76,1406,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-120?tab=data,1136503
+06-051-201,06,CSONGRÁD-CSANÁD,06-02,Szeged,,051,Szeged,06-02,06-02,06-02|06-01,06-02|06-02,1510475|1510475,1|1,06-02,06-02,N,1219,1196,0,13,1196,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-201?tab=data,1510475
+06-051-202,06,CSONGRÁD-CSANÁD,06-02,Szeged,,051,Szeged,06-02,06-02,06-02|06-01,06-01|06-02|06-01|06-02,53370|6239193|53370|6239193,0|1|0|1,06-02,06-02,N,1245,1211,0,14,1211,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-202?tab=data,6292614
+06-051-203,06,CSONGRÁD-CSANÁD,06-02,Szeged,,051,Szeged,06-02,06-02,06-02|06-01,06-02|06-02,1479934|1479934,1|1,06-02,06-02,N,1118,1089,0,32,1089,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-203?tab=data,1479934
+06-051-204,06,CSONGRÁD-CSANÁD,06-01,Szeged,,051,Szeged,06-01,06-01,06-02|06-01,06-01|06-01,587081|587081,1|1,06-01,06-01,N,1250,1211,0,32,1211,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-204?tab=data,587081
+06-051-205,06,CSONGRÁD-CSANÁD,06-02,Szeged,,051,Szeged,06-02,06-02,06-02|06-01,06-02|06-02,822227|822227,1|1,06-02,06-02,N,1081,1029,0,43,1029,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-205?tab=data,822227
+06-051-206,06,CSONGRÁD-CSANÁD,06-02,Szeged,,051,Szeged,06-02,06-02,06-02|06-01,06-02|06-02,1102097|1102097,1|1,06-02,06-02,N,1166,1118,0,56,1118,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-206?tab=data,1102097
+06-051-207,06,CSONGRÁD-CSANÁD,06-01,Szeged,,051,Szeged,06-01,06-01,06-02|06-01,06-01|06-01,4333454|4333454,1|1,06-01,06-01,N,735,721,0,16,721,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-207?tab=data,4333454
+06-051-208,06,CSONGRÁD-CSANÁD,06-01,Szeged,,051,Szeged,06-01,06-01,06-02|06-01,06-01|06-01,254295|254295,1|1,06-01,06-01,N,1275,1224,0,37,1224,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-208?tab=data,254295
+06-051-209,06,CSONGRÁD-CSANÁD,06-01,Szeged,,051,Szeged,06-01,06-01,06-02|06-01,06-01|06-01,632713|632713,1|1,06-01,06-01,N,1192,1142,0,42,1142,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-209?tab=data,632713
+06-051-210,06,CSONGRÁD-CSANÁD,06-01,Szeged,,051,Szeged,06-01,06-01,06-02|06-01,06-01|06-01,300634|300634,1|1,06-01,06-01,N,979,912,0,61,912,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-210?tab=data,300634
+06-051-211,06,CSONGRÁD-CSANÁD,06-02,Szeged,,051,Szeged,06-02,06-02,06-02|06-01,06-01|06-02|06-01|06-02,92383|109173|92383|109173,0|1|0|1,06-02,06-02,N,640,603,0,29,603,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-211?tab=data,201556
+06-051-212,06,CSONGRÁD-CSANÁD,06-01,Szeged,,051,Szeged,06-01,06-01,06-02|06-01,06-01|06-01,906290|906290,1|1,06-01,06-01,N,1068,1003,0,28,1003,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-212?tab=data,906290
+06-051-213,06,CSONGRÁD-CSANÁD,06-01,Szeged,,051,Szeged,06-01,06-01,06-02|06-01,06-01|06-01,251272|251272,1|1,06-01,06-01,N,1179,1128,0,49,1128,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-213?tab=data,251272
+06-051-214,06,CSONGRÁD-CSANÁD,06-01,Szeged,,051,Szeged,06-01,06-01,06-02|06-01,06-01|06-01,86858|86858,1|1,06-01,06-01,N,1178,1132,0,47,1132,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-214?tab=data,86858
+06-051-215,06,CSONGRÁD-CSANÁD,06-01,Szeged,,051,Szeged,06-01,06-01,06-02|06-01,06-01|06-01,86137|86137,1|1,06-01,06-01,N,1218,1180,0,40,1180,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-215?tab=data,86137
+06-051-216,06,CSONGRÁD-CSANÁD,06-01,Szeged,,051,Szeged,06-01,06-01,06-02|06-01,06-01|06-01,291145|291145,1|1,06-01,06-01,N,1266,1189,0,52,1189,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-216?tab=data,291145
+06-051-217,06,CSONGRÁD-CSANÁD,06-01,Szeged,,051,Szeged,06-01,06-01,06-02|06-01,06-01|06-01,319472|319472,1|1,06-01,06-01,N,1099,1036,0,63,1036,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-217?tab=data,319472
+06-051-218,06,CSONGRÁD-CSANÁD,06-02,Szeged,,051,Szeged,06-02,06-01,06-02|06-01,06-01|06-01,330676|330676,1|1,06-01,06-01,N,1154,1096,0,50,1096,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-218?tab=data,330676
+06-051-219,06,CSONGRÁD-CSANÁD,06-02,Szeged,,051,Szeged,06-02,06-01,06-02|06-01,06-01|06-01,2179043|2179043,1|1,06-01,06-01,N,1337,1278,0,47,1278,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-219?tab=data,2179043
+06-051-220,06,CSONGRÁD-CSANÁD,06-02,Szeged,,051,Szeged,06-02,06-01,06-02|06-01,06-01|06-01,538951|538951,1|1,06-01,06-01,N,1485,1431,0,54,1431,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-220?tab=data,538951
+06-051-301,06,CSONGRÁD-CSANÁD,06-02,Szeged,,051,Szeged,06-02,06-02,06-02|06-01,06-02|06-02,8523129|8523129,1|1,06-02,06-02,N,1209,1188,0,21,1188,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-301?tab=data,8523129
+06-051-302,06,CSONGRÁD-CSANÁD,06-02,Szeged,,051,Szeged,06-02,06-02,06-02|06-01,06-02|06-02,1741432|1741432,1|1,06-02,06-02,N,999,943,0,42,943,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-302?tab=data,1741432
+06-051-303,06,CSONGRÁD-CSANÁD,06-02,Szeged,,051,Szeged,06-02,06-02,06-02|06-01,06-02|06-02,1063371|1063371,1|1,06-02,06-02,N,929,894,0,26,894,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-303?tab=data,1063371
+06-051-304,06,CSONGRÁD-CSANÁD,06-01,Szeged,,051,Szeged,06-01,06-01,06-02|06-01,06-01|06-01,272620|272620,1|1,06-01,06-01,N,1252,1183,0,61,1183,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-304?tab=data,272620
+06-051-305,06,CSONGRÁD-CSANÁD,06-02,Szeged,,051,Szeged,06-02,06-02,06-02|06-01,06-02|06-02,1515852|1515852,1|1,06-02,06-02,N,1364,1326,0,48,1326,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-305?tab=data,1515852
+06-051-306,06,CSONGRÁD-CSANÁD,06-02,Szeged,,051,Szeged,06-02,06-02,06-02|06-01,06-02|06-02,546515|546515,1|1,06-02,06-02,N,1084,1010,0,70,1010,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-306?tab=data,546515
+06-051-307,06,CSONGRÁD-CSANÁD,06-01,Szeged,,051,Szeged,06-01,06-01,06-02|06-01,06-01|06-01,1189355|1189355,1|1,06-01,06-01,N,1382,1341,0,28,1341,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-307?tab=data,1189355
+06-051-308,06,CSONGRÁD-CSANÁD,06-01,Szeged,,051,Szeged,06-01,06-01,06-02|06-01,06-01|06-01,342929|342929,1|1,06-01,06-01,N,1159,1120,0,41,1120,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-308?tab=data,342929
+06-051-309,06,CSONGRÁD-CSANÁD,06-01,Szeged,,051,Szeged,06-01,06-01,06-02|06-01,06-01|06-01,407742|407742,1|1,06-01,06-01,N,1189,1119,0,48,1119,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-309?tab=data,407742
+06-051-310,06,CSONGRÁD-CSANÁD,06-01,Szeged,,051,Szeged,06-01,06-01,06-02|06-01,06-01|06-01,237074|237074,1|1,06-01,06-01,N,1000,929,0,59,929,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-310?tab=data,237074
+06-051-311,06,CSONGRÁD-CSANÁD,06-02,Szeged,,051,Szeged,06-02,06-02,06-02|06-01,06-01|06-02|06-01|06-02,14724|113405|14724|113405,0|1|0|1,06-02,06-02,N,1046,994,0,46,994,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-311?tab=data,128129
+06-051-312,06,CSONGRÁD-CSANÁD,06-01,Szeged,,051,Szeged,06-01,06-01,06-02|06-01,06-01|06-01,2347167|2347167,1|1,06-01,06-01,N,1182,1134,0,42,1134,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-312?tab=data,2347167
+06-051-313,06,CSONGRÁD-CSANÁD,06-01,Szeged,,051,Szeged,06-01,06-01,06-02|06-01,06-01|06-01,114717|114717,1|1,06-01,06-01,N,1105,1064,0,37,1064,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-313?tab=data,114717
+06-051-314,06,CSONGRÁD-CSANÁD,06-01,Szeged,,051,Szeged,06-01,06-01,06-02|06-01,06-01|06-01,478312|478312,1|1,06-01,06-01,N,1300,1241,0,69,1241,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-314?tab=data,478312
+06-051-315,06,CSONGRÁD-CSANÁD,06-01,Szeged,,051,Szeged,06-01,06-01,06-02|06-01,06-01|06-01,82641|82641,1|1,06-01,06-01,N,1172,1117,0,37,1117,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-315?tab=data,82641
+06-051-316,06,CSONGRÁD-CSANÁD,06-01,Szeged,,051,Szeged,06-01,06-01,06-02|06-01,06-01|06-01,254182|254182,1|1,06-01,06-01,N,1272,1214,0,56,1214,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-316?tab=data,254182
+06-051-317,06,CSONGRÁD-CSANÁD,06-01,Szeged,,051,Szeged,06-01,06-01,06-02|06-01,06-01|06-01,295384|295384,1|1,06-01,06-01,N,1264,1220,0,35,1220,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-317?tab=data,295384
+06-051-318,06,CSONGRÁD-CSANÁD,06-02,Szeged,,051,Szeged,06-02,06-01,06-02|06-01,06-01|06-01,664313|664313,1|1,06-01,06-01,N,1259,1199,0,63,1199,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-318?tab=data,664313
+06-051-319,06,CSONGRÁD-CSANÁD,06-02,Szeged,,051,Szeged,06-02,06-01,06-02|06-01,06-01|06-02|06-01|06-02,2449620|1658572|2449620|1658572,1|0|1|0,06-01,06-01,N,1236,1181,0,49,1181,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-319?tab=data,4108187
+06-051-320,06,CSONGRÁD-CSANÁD,06-01,Szeged,,051,Szeged,06-01,06-02,06-02|06-01,06-02|06-02,1632877|1632877,1|1,06-02,06-02,N,1172,1132,0,31,1132,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-320?tab=data,1632877
+06-051-401,06,CSONGRÁD-CSANÁD,06-02,Szeged,,051,Szeged,06-02,06-02,06-02|06-01,06-02|06-02,2112966|2112966,1|1,06-02,06-02,N,1203,1169,0,32,1169,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-401?tab=data,2112966
+06-051-402,06,CSONGRÁD-CSANÁD,06-02,Szeged,,051,Szeged,06-02,06-02,06-02|06-01,06-02|06-02,732267|732267,1|1,06-02,06-02,N,999,951,0,41,951,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-402?tab=data,732267
+06-051-403,06,CSONGRÁD-CSANÁD,06-02,Szeged,,051,Szeged,06-02,06-02,06-02|06-01,06-02|06-02,964858|964858,1|1,06-02,06-02,N,894,859,0,28,859,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-403?tab=data,964858
+06-051-404,06,CSONGRÁD-CSANÁD,06-01,Szeged,,051,Szeged,06-01,06-01,06-02|06-01,06-01|06-02|06-01|06-02,361811|57511|361811|57511,1|0|1|0,06-01,06-01,N,1221,1169,0,43,1169,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-404?tab=data,419323
+06-051-405,06,CSONGRÁD-CSANÁD,06-02,Szeged,,051,Szeged,06-02,06-02,06-02|06-01,06-02|06-02,296904|296904,1|1,06-02,06-02,N,964,926,0,43,926,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-405?tab=data,296904
+06-051-406,06,CSONGRÁD-CSANÁD,06-02,Szeged,,051,Szeged,06-02,06-02,06-02|06-01,06-02|06-02,442969|442969,1|1,06-02,06-02,N,910,850,0,51,850,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-406?tab=data,442969
+06-051-407,06,CSONGRÁD-CSANÁD,06-01,Szeged,,051,Szeged,06-01,06-01,06-02|06-01,06-01|06-01,2296713|2296713,1|1,06-01,06-01,N,1223,1181,0,35,1181,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-407?tab=data,2296713
+06-051-408,06,CSONGRÁD-CSANÁD,06-01,Szeged,,051,Szeged,06-01,06-01,06-02|06-01,06-01|06-01,222415|222415,1|1,06-01,06-01,N,1110,1075,0,38,1075,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-408?tab=data,222415
+06-051-409,06,CSONGRÁD-CSANÁD,06-01,Szeged,,051,Szeged,06-01,06-01,06-02|06-01,06-01|06-01,151332|151332,1|1,06-01,06-01,N,1387,1314,0,73,1314,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-409?tab=data,151332
+06-051-410,06,CSONGRÁD-CSANÁD,06-01,Szeged,,051,Szeged,06-01,06-01,06-02|06-01,06-01|06-01,275480|275480,1|1,06-01,06-01,N,1096,1034,0,62,1034,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-410?tab=data,275480
+06-051-411,06,CSONGRÁD-CSANÁD,06-02,Szeged,,051,Szeged,06-02,06-02,06-02|06-01,06-01|06-02|06-01|06-02,91736|509779|91736|509779,0|1|0|1,06-02,06-02,N,869,826,0,40,826,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-411?tab=data,601515
+06-051-412,06,CSONGRÁD-CSANÁD,06-01,Szeged,,051,Szeged,06-01,06-01,06-02|06-01,06-01|06-01,188443|188443,1|1,06-01,06-01,N,1316,1266,0,41,1266,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-412?tab=data,188443
+06-051-413,06,CSONGRÁD-CSANÁD,06-01,Szeged,,051,Szeged,06-01,06-01,06-02|06-01,06-01|06-01,41188|41188,1|1,06-01,06-01,N,1226,1178,0,34,1178,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-413?tab=data,41188
+06-051-414,06,CSONGRÁD-CSANÁD,06-01,Szeged,,051,Szeged,06-01,06-01,06-02|06-01,06-01|06-01,701122|701122,1|1,06-01,06-01,N,1314,1253,0,46,1253,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-414?tab=data,701122
+06-051-415,06,CSONGRÁD-CSANÁD,06-01,Szeged,,051,Szeged,06-01,06-01,06-02|06-01,06-01|06-01,172145|172145,1|1,06-01,06-01,N,1267,1234,0,33,1234,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-415?tab=data,172145
+06-051-416,06,CSONGRÁD-CSANÁD,06-01,Szeged,,051,Szeged,06-01,06-01,06-02|06-01,06-01|06-01,364410|364410,1|1,06-01,06-01,N,1289,1245,0,38,1245,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-416?tab=data,364410
+06-051-417,06,CSONGRÁD-CSANÁD,06-01,Szeged,,051,Szeged,06-01,06-01,06-02|06-01,06-01|06-01,175975|175975,1|1,06-01,06-01,N,1199,1139,0,45,1139,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-417?tab=data,175975
+06-051-418,06,CSONGRÁD-CSANÁD,06-02,Szeged,,051,Szeged,06-02,06-01,06-02|06-01,06-01|06-01,1342587|1342587,1|1,06-01,06-01,N,1241,1169,0,61,1169,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-418?tab=data,1342587
+06-051-419,06,CSONGRÁD-CSANÁD,06-02,Szeged,,051,Szeged,06-02,06-01,06-02|06-01,06-01|06-01,2098379|2098379,1|1,06-01,06-01,N,1303,1230,0,68,1230,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-419?tab=data,2098379
+06-051-420,06,CSONGRÁD-CSANÁD,06-01,Szeged,,051,Szeged,06-01,06-02,06-02|06-01,06-02|06-02,1077801|1077801,1|1,06-02,06-02,N,1091,1036,0,47,1036,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-420?tab=data,1077801
 06-051-501,06,CSONGRÁD-CSANÁD,06-02,Szeged,,051,Szeged,06-02,06-02,06-02|06-01,,,,,,,,,,,,,
-06-051-502,06,CSONGRÁD-CSANÁD,06-02,Szeged,,051,Szeged,06-02,06-02,06-02|06-01,,,,,,,,,,,,,
-06-051-503,06,CSONGRÁD-CSANÁD,06-02,Szeged,,051,Szeged,06-02,06-02,06-02|06-01,,,,,,,,,,,,,
-06-051-505,06,CSONGRÁD-CSANÁD,06-02,Szeged,,051,Szeged,06-02,06-02,06-02|06-01,,,,,,,,,,,,,
+06-051-502,06,CSONGRÁD-CSANÁD,06-02,Szeged,,051,Szeged,06-02,06-02,06-02|06-01,06-02,1095560,1,06-02,06-02,N,1028,990,0,40,990,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-502?tab=data,1095560
+06-051-503,06,CSONGRÁD-CSANÁD,06-02,Szeged,,051,Szeged,06-02,06-02,06-02|06-01,06-02,1024246,1,06-02,06-02,N,1181,1149,0,37,1149,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-503?tab=data,1024246
+06-051-505,06,CSONGRÁD-CSANÁD,06-02,Szeged,,051,Szeged,06-02,06-02,06-02|06-01,06-02,309906,1,06-02,06-02,N,1181,1110,0,59,1110,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-505?tab=data,309906
 06-051-507,06,CSONGRÁD-CSANÁD,06-01,Szeged,,051,Szeged,06-01,06-01,06-02|06-01,,,,,,,,,,,,,
-06-051-511,06,CSONGRÁD-CSANÁD,06-02,Szeged,,051,Szeged,06-02,06-02,06-02|06-01,,,,,,,,,,,,,
-06-051-520,06,CSONGRÁD-CSANÁD,06-01,Szeged,,051,Szeged,06-01,06-02,06-02|06-01,,,,,,,,,,,,,
-06-051-603,06,CSONGRÁD-CSANÁD,06-02,Szeged,,051,Szeged,06-02,06-02,06-02|06-01,,,,,,,,,,,,,
-06-051-611,06,CSONGRÁD-CSANÁD,06-02,Szeged,,051,Szeged,06-02,06-02,06-02|06-01,,,,,,,,,,,,,
+06-051-511,06,CSONGRÁD-CSANÁD,06-02,Szeged,,051,Szeged,06-02,06-02,06-02|06-01,06-01|06-02,6127|256870,0|1,06-02,06-02,N,651,614,0,25,614,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-511?tab=data,262997
+06-051-520,06,CSONGRÁD-CSANÁD,06-01,Szeged,,051,Szeged,06-01,06-02,06-02|06-01,06-02,1297581,1,06-02,06-02,N,1109,1082,0,30,1082,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-520?tab=data,1297581
+06-051-603,06,CSONGRÁD-CSANÁD,06-02,Szeged,,051,Szeged,06-02,06-02,06-02|06-01,06-02,720886,1,06-02,06-02,N,938,905,0,30,905,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-603?tab=data,720886
+06-051-611,06,CSONGRÁD-CSANÁD,06-02,Szeged,,051,Szeged,06-02,06-02,06-02|06-01,06-01|06-02,78458|73533,1|0,06-01,06-01,N,732,682,0,44,682,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-051-611?tab=data,151992
 06-051-711,06,CSONGRÁD-CSANÁD,,Szeged,,051,Szeged,,,06-02|06-01,,,,,,,,,,,,,
-06-052-001,06,CSONGRÁD-CSANÁD,06-03,Szentes,,052,Szegvár,06-03,06-03,06-03,06-03,1399416,1,06-03,06-03,N,644,624,0,19,624,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-052-001?tab=data,1399416
-06-052-002,06,CSONGRÁD-CSANÁD,06-03,Szentes,,052,Szegvár,06-03,06-03,06-03,06-03,1742631,1,06-03,06-03,I,627,617,27,14,644,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-052-002?tab=data,1742631
-06-052-003,06,CSONGRÁD-CSANÁD,06-03,Szentes,,052,Szegvár,06-03,06-03,06-03,06-03,1023396,1,06-03,06-03,N,560,536,0,17,536,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-052-003?tab=data,1023396
-06-052-004,06,CSONGRÁD-CSANÁD,06-03,Szentes,,052,Szegvár,06-03,06-03,06-03,06-03,679218,1,06-03,06-03,N,611,599,0,8,599,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-052-004?tab=data,679218
-06-052-005,06,CSONGRÁD-CSANÁD,06-03,Szentes,,052,Szegvár,06-03,06-03,06-03,06-03,1248994,1,06-03,06-03,N,552,532,0,12,532,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-052-005?tab=data,1248994
-06-052-006,06,CSONGRÁD-CSANÁD,06-03,Szentes,,052,Szegvár,06-03,06-03,06-03,06-03,4342957,1,06-03,06-03,N,560,540,0,14,540,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-052-006?tab=data,4342957
-06-053-001,06,CSONGRÁD-CSANÁD,06-03,Szentes,,053,Szentes,06-03,06-03,06-03,06-03,297574,1,06-03,06-03,N,724,688,0,27,688,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-053-001?tab=data,297574
-06-053-002,06,CSONGRÁD-CSANÁD,06-03,Szentes,,053,Szentes,06-03,06-03,06-03,06-03,89882,1,06-03,06-03,N,578,550,0,26,550,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-053-002?tab=data,89882
-06-053-003,06,CSONGRÁD-CSANÁD,06-03,Szentes,,053,Szentes,06-03,06-03,06-03,06-03,211531,1,06-03,06-03,N,687,670,0,12,670,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-053-003?tab=data,211531
-06-053-004,06,CSONGRÁD-CSANÁD,06-03,Szentes,,053,Szentes,06-03,06-03,06-03,06-03,1064072,1,06-03,06-03,N,52,54,0,0,54,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-053-004?tab=data,1064072
-06-053-005,06,CSONGRÁD-CSANÁD,06-03,Szentes,,053,Szentes,06-03,06-03,06-03,06-03,130862,1,06-03,06-03,N,200,200,0,1,200,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-053-005?tab=data,130862
-06-053-006,06,CSONGRÁD-CSANÁD,06-03,Szentes,,053,Szentes,06-03,06-03,06-03,06-03,795755,1,06-03,06-03,N,865,851,0,10,851,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-053-006?tab=data,795755
-06-053-007,06,CSONGRÁD-CSANÁD,06-03,Szentes,,053,Szentes,06-03,06-03,06-03,06-03,716403,1,06-03,06-03,N,1021,1001,0,20,1001,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-053-007?tab=data,716403
-06-053-008,06,CSONGRÁD-CSANÁD,06-03,Szentes,,053,Szentes,06-03,06-03,06-03,06-03,1632365,1,06-03,06-03,N,595,579,0,12,579,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-053-008?tab=data,1632365
-06-053-009,06,CSONGRÁD-CSANÁD,06-03,Szentes,,053,Szentes,06-03,06-03,06-03,06-03,593723,1,06-03,06-03,N,664,640,0,18,640,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-053-009?tab=data,593723
-06-053-010,06,CSONGRÁD-CSANÁD,06-03,Szentes,,053,Szentes,06-03,06-03,06-03,06-03,173663,1,06-03,06-03,N,773,763,0,9,763,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-053-010?tab=data,173663
-06-053-011,06,CSONGRÁD-CSANÁD,06-03,Szentes,,053,Szentes,06-03,06-03,06-03,06-03,1144538,1,06-03,06-03,N,121,121,0,2,121,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-053-011?tab=data,1144538
-06-053-012,06,CSONGRÁD-CSANÁD,06-03,Szentes,,053,Szentes,06-03,06-03,06-03,06-03,195683,1,06-03,06-03,N,149,152,0,3,152,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-053-012?tab=data,195683
-06-053-013,06,CSONGRÁD-CSANÁD,06-03,Szentes,,053,Szentes,06-03,06-03,06-03,06-03,908311,1,06-03,06-03,N,89,89,0,0,89,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-053-013?tab=data,908311
-06-053-014,06,CSONGRÁD-CSANÁD,06-03,Szentes,,053,Szentes,06-03,06-03,06-03,06-03,549656,1,06-03,06-03,N,892,846,0,44,846,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-053-014?tab=data,549656
-06-053-015,06,CSONGRÁD-CSANÁD,06-03,Szentes,,053,Szentes,06-03,06-03,06-03,06-03,1136363,1,06-03,06-03,N,945,909,0,25,909,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-053-015?tab=data,1136363
-06-053-016,06,CSONGRÁD-CSANÁD,06-03,Szentes,,053,Szentes,06-03,06-03,06-03,06-03,440836,1,06-03,06-03,N,678,648,0,30,648,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-053-016?tab=data,440836
-06-053-017,06,CSONGRÁD-CSANÁD,06-03,Szentes,,053,Szentes,06-03,06-03,06-03,06-03,714897,1,06-03,06-03,N,889,847,0,28,847,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-053-017?tab=data,714897
-06-053-018,06,CSONGRÁD-CSANÁD,06-03,Szentes,,053,Szentes,06-03,06-03,06-03,06-03,372561,1,06-03,06-03,N,665,645,0,17,645,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-053-018?tab=data,372561
-06-053-019,06,CSONGRÁD-CSANÁD,06-03,Szentes,,053,Szentes,06-03,06-03,06-03,06-03,357766,1,06-03,06-03,I,574,555,213,19,768,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-053-019?tab=data,357766
-06-053-020,06,CSONGRÁD-CSANÁD,06-03,Szentes,,053,Szentes,06-03,06-03,06-03,06-03,78530,1,06-03,06-03,N,626,594,0,20,594,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-053-020?tab=data,78530
-06-053-021,06,CSONGRÁD-CSANÁD,06-03,Szentes,,053,Szentes,06-03,06-03,06-03,06-03,340066,1,06-03,06-03,N,840,809,0,32,809,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-053-021?tab=data,340066
-06-053-022,06,CSONGRÁD-CSANÁD,06-03,Szentes,,053,Szentes,06-03,06-03,06-03,06-03,331361,1,06-03,06-03,N,821,783,0,24,783,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-053-022?tab=data,331361
-06-053-023,06,CSONGRÁD-CSANÁD,06-03,Szentes,,053,Szentes,06-03,06-03,06-03,06-03,130780,1,06-03,06-03,N,712,694,0,11,694,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-053-023?tab=data,130780
-06-053-024,06,CSONGRÁD-CSANÁD,06-03,Szentes,,053,Szentes,06-03,06-03,06-03,06-03,717628,1,06-03,06-03,N,613,580,0,18,580,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-053-024?tab=data,717628
-06-053-025,06,CSONGRÁD-CSANÁD,06-03,Szentes,,053,Szentes,06-03,06-03,06-03,06-03,623889,1,06-03,06-03,N,929,907,0,11,907,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-053-025?tab=data,623889
-06-053-026,06,CSONGRÁD-CSANÁD,06-03,Szentes,,053,Szentes,06-03,06-03,06-03,06-03,459138,1,06-03,06-03,N,889,863,0,20,863,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-053-026?tab=data,459138
-06-053-027,06,CSONGRÁD-CSANÁD,06-03,Szentes,,053,Szentes,06-03,06-03,06-03,06-03,564229,1,06-03,06-03,N,607,588,0,13,588,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-053-027?tab=data,564229
-06-053-028,06,CSONGRÁD-CSANÁD,06-03,Szentes,,053,Szentes,06-03,06-03,06-03,06-03,83814,1,06-03,06-03,N,788,748,0,30,748,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-053-028?tab=data,83814
-06-053-029,06,CSONGRÁD-CSANÁD,06-03,Szentes,,053,Szentes,06-03,06-03,06-03,06-03,631371,1,06-03,06-03,N,848,824,0,20,824,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-053-029?tab=data,631371
-06-053-030,06,CSONGRÁD-CSANÁD,06-03,Szentes,,053,Szentes,06-03,06-03,06-03,06-03,429244,1,06-03,06-03,N,613,583,0,29,583,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-053-030?tab=data,429244
-06-053-031,06,CSONGRÁD-CSANÁD,06-03,Szentes,,053,Szentes,06-03,06-03,06-03,06-03,451843,1,06-03,06-03,N,154,154,0,2,154,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-053-031?tab=data,451843
-06-053-032,06,CSONGRÁD-CSANÁD,06-03,Szentes,,053,Szentes,06-03,06-03,06-03,06-03,800508,1,06-03,06-03,N,1092,1056,0,21,1056,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-053-032?tab=data,800508
-06-053-033,06,CSONGRÁD-CSANÁD,06-03,Szentes,,053,Szentes,06-03,06-03,06-03,06-03,3127752,1,06-03,06-03,N,691,669,0,21,669,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-053-033?tab=data,3127752
-06-053-034,06,CSONGRÁD-CSANÁD,06-03,Szentes,,053,Szentes,06-03,06-03,06-03,06-03,40772,1,06-03,06-03,N,76,82,0,0,82,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-053-034?tab=data,40772
-06-053-035,06,CSONGRÁD-CSANÁD,06-03,Szentes,,053,Szentes,06-03,06-03,06-03,06-03,161653,1,06-03,06-03,N,156,152,0,4,152,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-053-035?tab=data,161653
-06-054-001,06,CSONGRÁD-CSANÁD,06-04,Hódmezõvásárhely,,054,Székkutas,06-04,06-04,06-04,06-04,719946,1,06-04,06-04,I,870,843,11,19,854,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-054-001?tab=data,719946
-06-054-002,06,CSONGRÁD-CSANÁD,06-04,Hódmezõvásárhely,,054,Székkutas,06-04,06-04,06-04,06-04,952714,1,06-04,06-04,N,881,848,0,25,848,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-054-002?tab=data,952714
-06-055-001,06,CSONGRÁD-CSANÁD,06-01,Szeged,,055,Tiszasziget,06-01,06-02,06-02,06-02,919522,1,06-02,06-02,I,708,687,29,19,716,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-055-001?tab=data,919522
-06-055-002,06,CSONGRÁD-CSANÁD,06-01,Szeged,,055,Tiszasziget,06-01,06-02,06-02,06-02,2648218,1,06-02,06-02,N,801,779,0,17,779,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-055-002?tab=data,2648218
-06-056-001,06,CSONGRÁD-CSANÁD,06-03,Szentes,,056,Tömörkény,06-03,06-03,06-03,06-03,1015443,1,06-03,06-03,I,723,720,8,5,728,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-056-001?tab=data,1015443
-06-056-002,06,CSONGRÁD-CSANÁD,06-03,Szentes,,056,Tömörkény,06-03,06-03,06-03,06-03,18394,1,06-03,06-03,N,673,651,0,12,651,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-056-002?tab=data,18394
-06-057-001,06,CSONGRÁD-CSANÁD,06-01,Szeged,,057,Újszentiván,06-01,06-02,06-02,06-02,1162907,1,06-02,06-02,I,841,804,12,26,816,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-057-001?tab=data,1162907
-06-057-002,06,CSONGRÁD-CSANÁD,06-01,Szeged,,057,Újszentiván,06-01,06-02,06-02,06-02,1738520,1,06-02,06-02,N,760,730,0,29,730,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-057-002?tab=data,1738520
-06-058-001,06,CSONGRÁD-CSANÁD,06-02,Szeged,,058,Üllés,06-02,06-02,06-02,06-02,26506667,1,06-02,06-02,N,847,823,0,12,823,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-058-001?tab=data,26506667
-06-058-002,06,CSONGRÁD-CSANÁD,06-02,Szeged,,058,Üllés,06-02,06-02,06-02,06-02,825839,1,06-02,06-02,N,910,889,0,25,889,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-058-002?tab=data,825839
-06-058-003,06,CSONGRÁD-CSANÁD,06-02,Szeged,,058,Üllés,06-02,06-02,06-02,06-02,781612,1,06-02,06-02,I,845,832,18,16,850,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-058-003?tab=data,781612
-06-059-001,06,CSONGRÁD-CSANÁD,06-02,Szeged,,059,Zákányszék,06-02,06-02,06-02,06-02,1038836,1,06-02,06-02,I,1157,1126,13,23,1139,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-059-001?tab=data,1038836
-06-059-002,06,CSONGRÁD-CSANÁD,06-02,Szeged,,059,Zákányszék,06-02,06-02,06-02,06-02,1165207,1,06-02,06-02,N,1167,1126,0,38,1126,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-059-002?tab=data,1165207
-06-060-001,06,CSONGRÁD-CSANÁD,06-02,Szeged,,060,Zsombó,06-02,06-02,06-02,06-02,10630735,1,06-02,06-02,I,911,877,27,32,904,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-060-001?tab=data,10630735
-06-060-002,06,CSONGRÁD-CSANÁD,06-02,Szeged,,060,Zsombó,06-02,06-02,06-02,06-02,14645535,1,06-02,06-02,N,882,871,0,14,871,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-060-002?tab=data,14645535
-06-060-003,06,CSONGRÁD-CSANÁD,06-02,Szeged,,060,Zsombó,06-02,06-02,06-02,06-02,1772186,1,06-02,06-02,N,1064,1026,0,36,1026,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-060-003?tab=data,1772186
-07-001-001,07,FEJÉR,07-05,Sárbogárd,,001,Aba,07-05,07-05,07-05,07-05,2033073,1,07-05,07-05,I,1089,1071,29,11,1100,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/07-001-001?tab=data,2033073
-07-001-002,07,FEJÉR,07-05,Sárbogárd,,001,Aba,07-05,07-05,07-05,07-05,2138128,1,07-05,07-05,N,1031,1003,0,15,1003,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/07-001-002?tab=data,2138128
-07-001-003,07,FEJÉR,07-05,Sárbogárd,,001,Aba,07-05,07-05,07-05,07-05,2165455,1,07-05,07-05,N,191,188,0,2,188,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/07-001-003?tab=data,2165455
-07-001-004,07,FEJÉR,07-05,Sárbogárd,,001,Aba,07-05,07-05,07-05,07-01|07-05,70284|1150097,0|1,07-05,07-05,N,185,180,0,5,180,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/07-001-004?tab=data,1220381
-07-001-005,07,FEJÉR,07-05,Sárbogárd,,001,Aba,07-05,07-05,07-05,07-05,2096725,1,07-05,07-05,N,1197,1165,0,24,1165,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/07-001-005?tab=data,2096725
-07-002-001,07,FEJÉR,07-04,Dunaújváros,,002,Adony,07-04,07-04,07-04,07-04,1457795,1,07-04,07-04,I,1023,1004,55,24,1059,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/07-002-001?tab=data,1457795
-07-002-002,07,FEJÉR,07-04,Dunaújváros,,002,Adony,07-04,07-04,07-04,07-04,1780959,1,07-04,07-04,N,1219,1190,0,27,1190,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/07-002-002?tab=data,1780959
-07-002-003,07,FEJÉR,07-04,Dunaújváros,,002,Adony,07-04,07-04,07-04,07-04,1441797,1,07-04,07-04,N,1080,1048,0,17,1048,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/07-002-003?tab=data,1441797
-07-003-001,07,FEJÉR,07-05,Sárbogárd,,003,Alap,07-05,07-05,07-05,07-05,1856231,1,07-05,07-05,I,831,815,7,15,822,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/07-003-001?tab=data,1856231
-07-003-002,07,FEJÉR,07-05,Sárbogárd,,003,Alap,07-05,07-05,07-05,07-05,2525701,1,07-05,07-05,N,675,662,0,7,662,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/07-003-002?tab=data,2525701
-07-004-001,07,FEJÉR,07-03,Bicske,,004,Alcsútdoboz,07-03,07-03,07-03,07-03,1459003,1,07-03,07-03,N,503,481,0,19,481,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/07-004-001?tab=data,1459003
-07-004-002,07,FEJÉR,07-03,Bicske,,004,Alcsútdoboz,07-03,07-03,07-03,07-03,4682745,1,07-03,07-03,I,689,669,27,22,696,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/07-004-002?tab=data,4682745
-07-005-001,07,FEJÉR,07-05,Sárbogárd,,005,Alsószentiván,07-05,07-05,07-05,07-05,60964723,1,07-05,07-05,I,478,468,4,5,472,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/07-005-001?tab=data,61059237
-07-006-001,07,FEJÉR,07-02,Székesfehérvár,,006,Bakonycsernye,07-02,07-02,07-02,07-02,209605,1,07-02,07-02,I,785,764,20,16,784,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/07-006-001?tab=data,209605
-07-006-002,07,FEJÉR,07-02,Székesfehérvár,,006,Bakonycsernye,07-02,07-02,07-02,07-02,2098757,1,07-02,07-02,N,884,861,0,19,861,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/07-006-002?tab=data,2098757
-07-006-003,07,FEJÉR,07-02,Székesfehérvár,,006,Bakonycsernye,07-02,07-02,07-02,07-02,804482,1,07-02,07-02,N,860,837,0,13,837,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/07-006-003?tab=data,804482
-07-007-001,07,FEJÉR,07-02,Székesfehérvár,,007,Bakonykúti,07-02,07-02,07-02,07-02,19300380,1,07-02,07-02,I,133,124,8,8,132,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/07-007-001?tab=data,19306939
-07-008-001,07,FEJÉR,07-02,Székesfehérvár,,008,Balinka,07-02,07-02,07-02,07-02,2297792,1,07-02,07-02,I,385,366,9,14,375,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/07-008-001?tab=data,2297792
-07-008-002,07,FEJÉR,07-02,Székesfehérvár,,008,Balinka,07-02,07-02,07-02,07-02,197226,1,07-02,07-02,N,391,377,0,8,377,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/07-008-002?tab=data,197226
-07-009-001,07,FEJÉR,07-05,Sárbogárd,,009,Baracs,07-05,07-05,07-05,07-05,9302100,1,07-05,07-05,N,742,718,0,15,718,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/07-009-001?tab=data,9302100
-07-009-002,07,FEJÉR,07-05,Sárbogárd,,009,Baracs,07-05,07-05,07-05,07-05,2221495,1,07-05,07-05,I,672,655,23,18,678,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/07-009-002?tab=data,2221495
-07-009-003,07,FEJÉR,07-05,Sárbogárd,,009,Baracs,07-05,07-05,07-05,07-05,886447,1,07-05,07-05,N,831,806,0,19,806,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/07-009-003?tab=data,886447
-07-009-004,07,FEJÉR,07-05,Sárbogárd,,009,Baracs,07-05,07-05,07-05,07-05,16961328,1,07-05,07-05,N,742,730,0,19,730,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/07-009-004?tab=data,16961328
-07-010-001,07,FEJÉR,07-03,Bicske,,010,Baracska,07-03,07-03,07-03,07-03,1488301,1,07-03,07-03,N,1225,1196,0,20,1196,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/07-010-001?tab=data,1488301
-07-010-002,07,FEJÉR,07-03,Bicske,,010,Baracska,07-03,07-03,07-03,07-03,1010667,1,07-03,07-03,I,968,947,102,17,1049,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/07-010-002?tab=data,1010667
-07-010-003,07,FEJÉR,07-03,Bicske,,010,Baracska,07-03,07-03,07-03,07-03,535944,1,07-03,07-03,N,113,115,0,3,115,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/07-010-003?tab=data,535944
-07-011-001,07,FEJÉR,07-03,Bicske,,011,Beloiannisz,07-03,07-04,07-04,07-04,7033420,1,07-04,07-04,I,888,870,9,15,879,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/07-011-001?tab=data,7033420
-07-012-001,07,FEJÉR,07-03,Bicske,,012,Besnyõ,07-03,07-04,07-04,07-04,2366459,1,07-04,07-04,I,697,685,33,6,718,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/07-012-001?tab=data,2366459
-07-012-002,07,FEJÉR,07-03,Bicske,,012,Besnyõ,07-03,07-04,07-04,07-04,1245022,1,07-04,07-04,N,786,777,0,10,777,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/07-012-002?tab=data,1245022
-07-013-001,07,FEJÉR,07-03,Bicske,,013,Bicske,07-03,07-03,07-03,07-03,2364831,1,07-03,07-03,N,1148,1108,0,25,1108,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/07-013-001?tab=data,2364831
-07-013-002,07,FEJÉR,07-03,Bicske,,013,Bicske,07-03,07-03,07-03,07-03,1045076,1,07-03,07-03,N,1216,1173,0,34,1173,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/07-013-002?tab=data,1045076
-07-013-003,07,FEJÉR,07-03,Bicske,,013,Bicske,07-03,07-03,07-03,07-03,1088785,1,07-03,07-03,N,1131,1090,0,31,1090,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/07-013-003?tab=data,1088785
-07-013-004,07,FEJÉR,07-03,Bicske,,013,Bicske,07-03,07-03,07-03,07-03,6601253,1,07-03,07-03,I,1214,1186,130,31,1316,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/07-013-004?tab=data,6601253
-07-013-005,07,FEJÉR,07-03,Bicske,,013,Bicske,07-03,07-03,07-03,07-03,1211040,1,07-03,07-03,N,1024,985,0,32,985,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/07-013-005?tab=data,1211040
-07-013-006,07,FEJÉR,07-03,Bicske,,013,Bicske,07-03,07-03,07-03,07-03,1628609,1,07-03,07-03,N,1118,1073,0,33,1073,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/07-013-006?tab=data,1628609
-07-013-007,07,FEJÉR,07-03,Bicske,,013,Bicske,07-03,07-03,07-03,07-03,577520,1,07-03,07-03,N,1145,1130,0,14,1130,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/07-013-007?tab=data,577520
-07-013-008,07,FEJÉR,07-03,Bicske,,013,Bicske,07-03,07-03,07-03,07-03,4289904,1,07-03,07-03,N,1183,1156,0,26,1156,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/07-013-008?tab=data,4289904
-07-014-001,07,FEJÉR,07-02,Székesfehérvár,,014,Bodajk,07-02,07-02,07-02,07-02,484404,1,07-02,07-02,I,755,734,27,14,761,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/07-014-001?tab=data,484404
-07-014-002,07,FEJÉR,07-02,Székesfehérvár,,014,Bodajk,07-02,07-02,07-02,07-02,1209616,1,07-02,07-02,N,764,734,0,22,734,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/07-014-002?tab=data,1209616
-07-014-003,07,FEJÉR,07-02,Székesfehérvár,,014,Bodajk,07-02,07-02,07-02,07-02,1093200,1,07-02,07-02,N,730,717,0,14,717,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/07-014-003?tab=data,1093200
-07-014-004,07,FEJÉR,07-02,Székesfehérvár,,014,Bodajk,07-02,07-02,07-02,07-02,906115,1,07-02,07-02,N,964,944,0,20,944,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/07-014-004?tab=data,906115
-07-015-001,07,FEJÉR,07-03,Bicske,,015,Bodmér,07-03,07-03,07-03,07-03,11208867,1,07-03,07-03,I,211,205,4,8,209,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/07-015-001?tab=data,11208867
-07-016-001,07,FEJÉR,07-05,Sárbogárd,,016,Cece,07-05,07-05,07-05,07-05,1740698,1,07-05,07-05,N,730,719,0,14,719,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/07-016-001?tab=data,1740698
-07-016-002,07,FEJÉR,07-05,Sárbogárd,,016,Cece,07-05,07-05,07-05,07-05,14880613,1,07-05,07-05,I,640,617,24,16,641,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/07-016-002?tab=data,14880613
-07-016-003,07,FEJÉR,07-05,Sárbogárd,,016,Cece,07-05,07-05,07-05,07-05,2591854,1,07-05,07-05,N,703,689,0,9,689,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/07-016-003?tab=data,2591854
-07-017-001,07,FEJÉR,07-03,Bicske,,017,Csabdi,07-03,07-03,07-03,07-03,1376161,1,07-03,07-03,I,830,810,21,21,831,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/07-017-001?tab=data,1376161
-07-017-002,07,FEJÉR,07-03,Bicske,,017,Csabdi,07-03,07-03,07-03,07-03,222204,1,07-03,07-03,N,171,170,0,5,170,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/07-017-002?tab=data,222204
-07-018-001,07,FEJÉR,07-02,Székesfehérvár,,018,Csákberény,07-02,07-02,07-02,07-02|07-03,63920154|423796,1|0,07-02,07-02,I,962,929,12,30,941,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/07-018-001?tab=data,64343951
-07-019-001,07,FEJÉR,07-03,Bicske,,019,Csákvár,07-03,07-03,07-03,07-03,973307,1,07-03,07-03,N,942,921,0,14,921,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/07-019-001?tab=data,973307
-07-019-002,07,FEJÉR,07-03,Bicske,,019,Csákvár,07-03,07-03,07-03,07-03,1932635,1,07-03,07-03,I,718,694,109,14,803,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/07-019-002?tab=data,1932635
-07-019-003,07,FEJÉR,07-03,Bicske,,019,Csákvár,07-03,07-03,07-03,07-03,616085,1,07-03,07-03,N,937,913,0,23,913,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/07-019-003?tab=data,616085
-07-019-004,07,FEJÉR,07-03,Bicske,,019,Csákvár,07-03,07-03,07-03,07-03,528679,1,07-03,07-03,N,990,968,0,19,968,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/07-019-004?tab=data,528679
-07-019-005,07,FEJÉR,07-03,Bicske,,019,Csákvár,07-03,07-03,07-03,07-03,824824,1,07-03,07-03,N,825,804,0,23,804,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/07-019-005?tab=data,824824
-07-020-001,07,FEJÉR,07-02,Székesfehérvár,,020,Csókakõ,07-02,07-02,07-02,07-02,17020726,1,07-02,07-02,I,1252,1219,50,30,1269,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/07-020-001?tab=data,17020726
-07-021-001,07,FEJÉR,07-02,Székesfehérvár,,021,Csór,07-02,07-02,07-02,07-02,510917,1,07-02,07-02,I,841,817,16,20,833,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/07-021-001?tab=data,510917
-07-021-002,07,FEJÉR,07-02,Székesfehérvár,,021,Csór,07-02,07-02,07-02,07-02,367523,1,07-02,07-02,N,706,695,0,12,695,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/07-021-002?tab=data,367523
-07-022-001,07,FEJÉR,07-05,Sárbogárd,,022,Csõsz,07-05,07-05,07-05,07-01|07-05,17325|26356328,0|1,07-05,07-05,I,806,785,5,14,790,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/07-022-001?tab=data,26373587
-07-023-001,07,FEJÉR,07-05,Sárbogárd,,023,Dég,07-05,07-05,07-05,07-05,7360463,1,07-05,07-05,N,839,820,0,14,820,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/07-023-001?tab=data,7360463
-07-023-002,07,FEJÉR,07-05,Sárbogárd,,023,Dég,07-05,07-05,07-05,07-05,1646664,1,07-05,07-05,I,892,858,16,28,874,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/07-023-002?tab=data,1646664
-07-024-001,07,FEJÉR,07-04,Dunaújváros,,024,Dunaújváros,07-04,07-04,07-04,07-04,3435426,1,07-04,07-04,N,902,859,0,25,859,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/07-024-001?tab=data,3435426
-07-024-002,07,FEJÉR,07-04,Dunaújváros,,024,Dunaújváros,07-04,07-04,07-04,07-04,227580,1,07-04,07-04,N,871,835,0,19,835,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/07-024-002?tab=data,227580
-07-024-003,07,FEJÉR,07-04,Dunaújváros,,024,Dunaújváros,07-04,07-04,07-04,07-04,120142,1,07-04,07-04,N,473,452,0,16,452,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/07-024-003?tab=data,120142
-07-024-004,07,FEJÉR,07-04,Dunaújváros,,024,Dunaújváros,07-04,07-04,07-04,07-04,66425,1,07-04,07-04,N,723,695,0,18,695,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/07-024-004?tab=data,66425
-07-024-005,07,FEJÉR,07-04,Dunaújváros,,024,Dunaújváros,07-04,07-04,07-04,07-04,59153,1,07-04,07-04,N,885,859,0,18,859,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/07-024-005?tab=data,59153
+06-052-001,06,CSONGRÁD-CSANÁD,06-03,Szentes,,052,Szegvár,06-03,06-03,06-03,06-03|06-03,1399416|1399416,1|1,06-03,06-03,N,644,624,0,19,624,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-052-001?tab=data,1399416
+06-052-002,06,CSONGRÁD-CSANÁD,06-03,Szentes,,052,Szegvár,06-03,06-03,06-03,06-03|06-03,1742631|1742631,1|1,06-03,06-03,I,627,617,27,14,644,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-052-002?tab=data,1742631
+06-052-003,06,CSONGRÁD-CSANÁD,06-03,Szentes,,052,Szegvár,06-03,06-03,06-03,06-03|06-03,1023396|1023396,1|1,06-03,06-03,N,560,536,0,17,536,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-052-003?tab=data,1023396
+06-052-004,06,CSONGRÁD-CSANÁD,06-03,Szentes,,052,Szegvár,06-03,06-03,06-03,06-03|06-03,679218|679218,1|1,06-03,06-03,N,611,599,0,8,599,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-052-004?tab=data,679218
+06-052-005,06,CSONGRÁD-CSANÁD,06-03,Szentes,,052,Szegvár,06-03,06-03,06-03,06-03|06-03,1248994|1248994,1|1,06-03,06-03,N,552,532,0,12,532,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-052-005?tab=data,1248994
+06-052-006,06,CSONGRÁD-CSANÁD,06-03,Szentes,,052,Szegvár,06-03,06-03,06-03,06-03|06-03,4342957|4342957,1|1,06-03,06-03,N,560,540,0,14,540,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-052-006?tab=data,4342957
+06-053-001,06,CSONGRÁD-CSANÁD,06-03,Szentes,,053,Szentes,06-03,06-03,06-03,06-03|06-03,297574|297574,1|1,06-03,06-03,N,724,688,0,27,688,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-053-001?tab=data,297574
+06-053-002,06,CSONGRÁD-CSANÁD,06-03,Szentes,,053,Szentes,06-03,06-03,06-03,06-03|06-03,89882|89882,1|1,06-03,06-03,N,578,550,0,26,550,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-053-002?tab=data,89882
+06-053-003,06,CSONGRÁD-CSANÁD,06-03,Szentes,,053,Szentes,06-03,06-03,06-03,06-03|06-03,211531|211531,1|1,06-03,06-03,N,687,670,0,12,670,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-053-003?tab=data,211531
+06-053-004,06,CSONGRÁD-CSANÁD,06-03,Szentes,,053,Szentes,06-03,06-03,06-03,06-03|06-03,1064072|1064072,1|1,06-03,06-03,N,52,54,0,0,54,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-053-004?tab=data,1064072
+06-053-005,06,CSONGRÁD-CSANÁD,06-03,Szentes,,053,Szentes,06-03,06-03,06-03,06-03|06-03,130862|130862,1|1,06-03,06-03,N,200,200,0,1,200,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-053-005?tab=data,130862
+06-053-006,06,CSONGRÁD-CSANÁD,06-03,Szentes,,053,Szentes,06-03,06-03,06-03,06-03|06-03,795755|795755,1|1,06-03,06-03,N,865,851,0,10,851,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-053-006?tab=data,795755
+06-053-007,06,CSONGRÁD-CSANÁD,06-03,Szentes,,053,Szentes,06-03,06-03,06-03,06-03|06-03,716403|716403,1|1,06-03,06-03,N,1021,1001,0,20,1001,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-053-007?tab=data,716403
+06-053-008,06,CSONGRÁD-CSANÁD,06-03,Szentes,,053,Szentes,06-03,06-03,06-03,06-03|06-03,1632365|1632365,1|1,06-03,06-03,N,595,579,0,12,579,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-053-008?tab=data,1632365
+06-053-009,06,CSONGRÁD-CSANÁD,06-03,Szentes,,053,Szentes,06-03,06-03,06-03,06-03|06-03,593723|593723,1|1,06-03,06-03,N,664,640,0,18,640,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-053-009?tab=data,593723
+06-053-010,06,CSONGRÁD-CSANÁD,06-03,Szentes,,053,Szentes,06-03,06-03,06-03,06-03|06-03,173663|173663,1|1,06-03,06-03,N,773,763,0,9,763,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-053-010?tab=data,173663
+06-053-011,06,CSONGRÁD-CSANÁD,06-03,Szentes,,053,Szentes,06-03,06-03,06-03,06-03|06-03,1144538|1144538,1|1,06-03,06-03,N,121,121,0,2,121,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-053-011?tab=data,1144538
+06-053-012,06,CSONGRÁD-CSANÁD,06-03,Szentes,,053,Szentes,06-03,06-03,06-03,06-03|06-03,195683|195683,1|1,06-03,06-03,N,149,152,0,3,152,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-053-012?tab=data,195683
+06-053-013,06,CSONGRÁD-CSANÁD,06-03,Szentes,,053,Szentes,06-03,06-03,06-03,06-03|06-03,908311|908311,1|1,06-03,06-03,N,89,89,0,0,89,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-053-013?tab=data,908311
+06-053-014,06,CSONGRÁD-CSANÁD,06-03,Szentes,,053,Szentes,06-03,06-03,06-03,06-03|06-03,549656|549656,1|1,06-03,06-03,N,892,846,0,44,846,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-053-014?tab=data,549656
+06-053-015,06,CSONGRÁD-CSANÁD,06-03,Szentes,,053,Szentes,06-03,06-03,06-03,06-03|06-03,1136363|1136363,1|1,06-03,06-03,N,945,909,0,25,909,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-053-015?tab=data,1136363
+06-053-016,06,CSONGRÁD-CSANÁD,06-03,Szentes,,053,Szentes,06-03,06-03,06-03,06-03|06-03,440836|440836,1|1,06-03,06-03,N,678,648,0,30,648,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-053-016?tab=data,440836
+06-053-017,06,CSONGRÁD-CSANÁD,06-03,Szentes,,053,Szentes,06-03,06-03,06-03,06-03|06-03,714897|714897,1|1,06-03,06-03,N,889,847,0,28,847,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-053-017?tab=data,714897
+06-053-018,06,CSONGRÁD-CSANÁD,06-03,Szentes,,053,Szentes,06-03,06-03,06-03,06-03|06-03,372561|372561,1|1,06-03,06-03,N,665,645,0,17,645,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-053-018?tab=data,372561
+06-053-019,06,CSONGRÁD-CSANÁD,06-03,Szentes,,053,Szentes,06-03,06-03,06-03,06-03|06-03,357766|357766,1|1,06-03,06-03,I,574,555,213,19,768,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-053-019?tab=data,357766
+06-053-020,06,CSONGRÁD-CSANÁD,06-03,Szentes,,053,Szentes,06-03,06-03,06-03,06-03|06-03,78530|78530,1|1,06-03,06-03,N,626,594,0,20,594,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-053-020?tab=data,78530
+06-053-021,06,CSONGRÁD-CSANÁD,06-03,Szentes,,053,Szentes,06-03,06-03,06-03,06-03|06-03,340066|340066,1|1,06-03,06-03,N,840,809,0,32,809,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-053-021?tab=data,340066
+06-053-022,06,CSONGRÁD-CSANÁD,06-03,Szentes,,053,Szentes,06-03,06-03,06-03,06-03|06-03,331361|331361,1|1,06-03,06-03,N,821,783,0,24,783,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-053-022?tab=data,331361
+06-053-023,06,CSONGRÁD-CSANÁD,06-03,Szentes,,053,Szentes,06-03,06-03,06-03,06-03|06-03,130780|130780,1|1,06-03,06-03,N,712,694,0,11,694,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-053-023?tab=data,130780
+06-053-024,06,CSONGRÁD-CSANÁD,06-03,Szentes,,053,Szentes,06-03,06-03,06-03,06-03|06-03,717628|717628,1|1,06-03,06-03,N,613,580,0,18,580,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-053-024?tab=data,717628
+06-053-025,06,CSONGRÁD-CSANÁD,06-03,Szentes,,053,Szentes,06-03,06-03,06-03,06-03|06-03,623889|623889,1|1,06-03,06-03,N,929,907,0,11,907,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-053-025?tab=data,623889
+06-053-026,06,CSONGRÁD-CSANÁD,06-03,Szentes,,053,Szentes,06-03,06-03,06-03,06-03|06-03,459138|459138,1|1,06-03,06-03,N,889,863,0,20,863,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-053-026?tab=data,459138
+06-053-027,06,CSONGRÁD-CSANÁD,06-03,Szentes,,053,Szentes,06-03,06-03,06-03,06-03|06-03,564229|564229,1|1,06-03,06-03,N,607,588,0,13,588,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-053-027?tab=data,564229
+06-053-028,06,CSONGRÁD-CSANÁD,06-03,Szentes,,053,Szentes,06-03,06-03,06-03,06-03|06-03,83814|83814,1|1,06-03,06-03,N,788,748,0,30,748,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-053-028?tab=data,83814
+06-053-029,06,CSONGRÁD-CSANÁD,06-03,Szentes,,053,Szentes,06-03,06-03,06-03,06-03|06-03,631371|631371,1|1,06-03,06-03,N,848,824,0,20,824,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-053-029?tab=data,631371
+06-053-030,06,CSONGRÁD-CSANÁD,06-03,Szentes,,053,Szentes,06-03,06-03,06-03,06-03|06-03,429244|429244,1|1,06-03,06-03,N,613,583,0,29,583,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-053-030?tab=data,429244
+06-053-031,06,CSONGRÁD-CSANÁD,06-03,Szentes,,053,Szentes,06-03,06-03,06-03,06-03|06-03,451843|451843,1|1,06-03,06-03,N,154,154,0,2,154,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-053-031?tab=data,451843
+06-053-032,06,CSONGRÁD-CSANÁD,06-03,Szentes,,053,Szentes,06-03,06-03,06-03,06-03|06-03,800508|800508,1|1,06-03,06-03,N,1092,1056,0,21,1056,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-053-032?tab=data,800508
+06-053-033,06,CSONGRÁD-CSANÁD,06-03,Szentes,,053,Szentes,06-03,06-03,06-03,06-03|06-03,3127752|3127752,1|1,06-03,06-03,N,691,669,0,21,669,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-053-033?tab=data,3127752
+06-053-034,06,CSONGRÁD-CSANÁD,06-03,Szentes,,053,Szentes,06-03,06-03,06-03,06-03|06-03,40772|40772,1|1,06-03,06-03,N,76,82,0,0,82,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-053-034?tab=data,40772
+06-053-035,06,CSONGRÁD-CSANÁD,06-03,Szentes,,053,Szentes,06-03,06-03,06-03,06-03|06-03,161653|161653,1|1,06-03,06-03,N,156,152,0,4,152,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-053-035?tab=data,161653
+06-054-001,06,CSONGRÁD-CSANÁD,06-04,Hódmezõvásárhely,,054,Székkutas,06-04,06-04,06-04,06-04|06-04,719946|719946,1|1,06-04,06-04,I,870,843,11,19,854,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-054-001?tab=data,719946
+06-054-002,06,CSONGRÁD-CSANÁD,06-04,Hódmezõvásárhely,,054,Székkutas,06-04,06-04,06-04,06-04|06-04,952714|952714,1|1,06-04,06-04,N,881,848,0,25,848,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-054-002?tab=data,952714
+06-055-001,06,CSONGRÁD-CSANÁD,06-01,Szeged,,055,Tiszasziget,06-01,06-02,06-02,06-02|06-02,919522|919522,1|1,06-02,06-02,I,708,687,29,19,716,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-055-001?tab=data,919522
+06-055-002,06,CSONGRÁD-CSANÁD,06-01,Szeged,,055,Tiszasziget,06-01,06-02,06-02,06-02|06-02,2648218|2648218,1|1,06-02,06-02,N,801,779,0,17,779,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-055-002?tab=data,2648218
+06-056-001,06,CSONGRÁD-CSANÁD,06-03,Szentes,,056,Tömörkény,06-03,06-03,06-03,06-03|06-03,1015443|1015443,1|1,06-03,06-03,I,723,720,8,5,728,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-056-001?tab=data,1015443
+06-056-002,06,CSONGRÁD-CSANÁD,06-03,Szentes,,056,Tömörkény,06-03,06-03,06-03,06-03|06-03,18394|18394,1|1,06-03,06-03,N,673,651,0,12,651,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-056-002?tab=data,18394
+06-057-001,06,CSONGRÁD-CSANÁD,06-01,Szeged,,057,Újszentiván,06-01,06-02,06-02,06-02|06-02,1162907|1162907,1|1,06-02,06-02,I,841,804,12,26,816,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-057-001?tab=data,1162907
+06-057-002,06,CSONGRÁD-CSANÁD,06-01,Szeged,,057,Újszentiván,06-01,06-02,06-02,06-02|06-02,1738520|1738520,1|1,06-02,06-02,N,760,730,0,29,730,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-057-002?tab=data,1738520
+06-058-001,06,CSONGRÁD-CSANÁD,06-02,Szeged,,058,Üllés,06-02,06-02,06-02,06-02|06-02,26506667|26506667,1|1,06-02,06-02,N,847,823,0,12,823,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-058-001?tab=data,26506667
+06-058-002,06,CSONGRÁD-CSANÁD,06-02,Szeged,,058,Üllés,06-02,06-02,06-02,06-02|06-02,825839|825839,1|1,06-02,06-02,N,910,889,0,25,889,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-058-002?tab=data,825839
+06-058-003,06,CSONGRÁD-CSANÁD,06-02,Szeged,,058,Üllés,06-02,06-02,06-02,06-02|06-02,781612|781612,1|1,06-02,06-02,I,845,832,18,16,850,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-058-003?tab=data,781612
+06-059-001,06,CSONGRÁD-CSANÁD,06-02,Szeged,,059,Zákányszék,06-02,06-02,06-02,06-02|06-02,1038836|1038836,1|1,06-02,06-02,I,1157,1126,13,23,1139,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-059-001?tab=data,1038836
+06-059-002,06,CSONGRÁD-CSANÁD,06-02,Szeged,,059,Zákányszék,06-02,06-02,06-02,06-02|06-02,1165207|1165207,1|1,06-02,06-02,N,1167,1126,0,38,1126,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-059-002?tab=data,1165207
+06-060-001,06,CSONGRÁD-CSANÁD,06-02,Szeged,,060,Zsombó,06-02,06-02,06-02,06-02|06-02,10630735|10630735,1|1,06-02,06-02,I,911,877,27,32,904,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-060-001?tab=data,10630735
+06-060-002,06,CSONGRÁD-CSANÁD,06-02,Szeged,,060,Zsombó,06-02,06-02,06-02,06-02|06-02,14645535|14645535,1|1,06-02,06-02,N,882,871,0,14,871,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-060-002?tab=data,14645535
+06-060-003,06,CSONGRÁD-CSANÁD,06-02,Szeged,,060,Zsombó,06-02,06-02,06-02,06-02|06-02,1772186|1772186,1|1,06-02,06-02,N,1064,1026,0,36,1026,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/06-060-003?tab=data,1772186
+07-001-001,07,FEJÉR,07-05,Sárbogárd,,001,Aba,07-05,07-05,07-05,07-05|07-05,2033073|2033073,1|1,07-05,07-05,I,1089,1071,29,11,1100,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/07-001-001?tab=data,2033073
+07-001-002,07,FEJÉR,07-05,Sárbogárd,,001,Aba,07-05,07-05,07-05,07-05|07-05,2138128|2138128,1|1,07-05,07-05,N,1031,1003,0,15,1003,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/07-001-002?tab=data,2138128
+07-001-003,07,FEJÉR,07-05,Sárbogárd,,001,Aba,07-05,07-05,07-05,07-05|07-05,2165455|2165455,1|1,07-05,07-05,N,191,188,0,2,188,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/07-001-003?tab=data,2165455
+07-001-004,07,FEJÉR,07-05,Sárbogárd,,001,Aba,07-05,07-05,07-05,07-01|07-05|07-01|07-05,70284|1150097|70284|1150097,0|1|0|1,07-05,07-05,N,185,180,0,5,180,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/07-001-004?tab=data,1220381
+07-001-005,07,FEJÉR,07-05,Sárbogárd,,001,Aba,07-05,07-05,07-05,07-05|07-05,2096725|2096725,1|1,07-05,07-05,N,1197,1165,0,24,1165,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/07-001-005?tab=data,2096725
+07-002-001,07,FEJÉR,07-04,Dunaújváros,,002,Adony,07-04,07-04,07-04,07-04|07-04,1457795|1457795,1|1,07-04,07-04,I,1023,1004,55,24,1059,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/07-002-001?tab=data,1457795
+07-002-002,07,FEJÉR,07-04,Dunaújváros,,002,Adony,07-04,07-04,07-04,07-04|07-04,1780959|1780959,1|1,07-04,07-04,N,1219,1190,0,27,1190,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/07-002-002?tab=data,1780959
+07-002-003,07,FEJÉR,07-04,Dunaújváros,,002,Adony,07-04,07-04,07-04,07-04|07-04,1441797|1441797,1|1,07-04,07-04,N,1080,1048,0,17,1048,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/07-002-003?tab=data,1441797
+07-003-001,07,FEJÉR,07-05,Sárbogárd,,003,Alap,07-05,07-05,07-05,07-05|07-05,1856231|1856231,1|1,07-05,07-05,I,831,815,7,15,822,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/07-003-001?tab=data,1856231
+07-003-002,07,FEJÉR,07-05,Sárbogárd,,003,Alap,07-05,07-05,07-05,07-05|07-05,2525701|2525701,1|1,07-05,07-05,N,675,662,0,7,662,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/07-003-002?tab=data,2525701
+07-004-001,07,FEJÉR,07-03,Bicske,,004,Alcsútdoboz,07-03,07-03,07-03,07-03|07-03,1459003|1459003,1|1,07-03,07-03,N,503,481,0,19,481,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/07-004-001?tab=data,1459003
+07-004-002,07,FEJÉR,07-03,Bicske,,004,Alcsútdoboz,07-03,07-03,07-03,07-03|07-03,4682745|4682745,1|1,07-03,07-03,I,689,669,27,22,696,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/07-004-002?tab=data,4682745
+07-005-001,07,FEJÉR,07-05,Sárbogárd,,005,Alsószentiván,07-05,07-05,07-05,07-05|07-05,60964723|60964723,1|1,07-05,07-05,I,478,468,4,5,472,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/07-005-001?tab=data,61059237
+07-006-001,07,FEJÉR,07-02,Székesfehérvár,,006,Bakonycsernye,07-02,07-02,07-02,07-02|07-02,209605|209605,1|1,07-02,07-02,I,785,764,20,16,784,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/07-006-001?tab=data,209605
+07-006-002,07,FEJÉR,07-02,Székesfehérvár,,006,Bakonycsernye,07-02,07-02,07-02,07-02|07-02,2098757|2098757,1|1,07-02,07-02,N,884,861,0,19,861,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/07-006-002?tab=data,2098757
+07-006-003,07,FEJÉR,07-02,Székesfehérvár,,006,Bakonycsernye,07-02,07-02,07-02,07-02|07-02,804482|804482,1|1,07-02,07-02,N,860,837,0,13,837,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/07-006-003?tab=data,804482
+07-007-001,07,FEJÉR,07-02,Székesfehérvár,,007,Bakonykúti,07-02,07-02,07-02,07-02|07-02,19300380|19300380,1|1,07-02,07-02,I,133,124,8,8,132,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/07-007-001?tab=data,19306939
+07-008-001,07,FEJÉR,07-02,Székesfehérvár,,008,Balinka,07-02,07-02,07-02,07-02|07-02,2297792|2297792,1|1,07-02,07-02,I,385,366,9,14,375,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/07-008-001?tab=data,2297792
+07-008-002,07,FEJÉR,07-02,Székesfehérvár,,008,Balinka,07-02,07-02,07-02,07-02|07-02,197226|197226,1|1,07-02,07-02,N,391,377,0,8,377,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/07-008-002?tab=data,197226
+07-009-001,07,FEJÉR,07-05,Sárbogárd,,009,Baracs,07-05,07-05,07-05,07-05|07-05,9302100|9302100,1|1,07-05,07-05,N,742,718,0,15,718,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/07-009-001?tab=data,9302100
+07-009-002,07,FEJÉR,07-05,Sárbogárd,,009,Baracs,07-05,07-05,07-05,07-05|07-05,2221495|2221495,1|1,07-05,07-05,I,672,655,23,18,678,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/07-009-002?tab=data,2221495
+07-009-003,07,FEJÉR,07-05,Sárbogárd,,009,Baracs,07-05,07-05,07-05,07-05|07-05,886447|886447,1|1,07-05,07-05,N,831,806,0,19,806,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/07-009-003?tab=data,886447
+07-009-004,07,FEJÉR,07-05,Sárbogárd,,009,Baracs,07-05,07-05,07-05,07-05|07-05,16961328|16961328,1|1,07-05,07-05,N,742,730,0,19,730,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/07-009-004?tab=data,16961328
+07-010-001,07,FEJÉR,07-03,Bicske,,010,Baracska,07-03,07-03,07-03,07-03|07-03,1488301|1488301,1|1,07-03,07-03,N,1225,1196,0,20,1196,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/07-010-001?tab=data,1488301
+07-010-002,07,FEJÉR,07-03,Bicske,,010,Baracska,07-03,07-03,07-03,07-03|07-03,1010667|1010667,1|1,07-03,07-03,I,968,947,102,17,1049,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/07-010-002?tab=data,1010667
+07-010-003,07,FEJÉR,07-03,Bicske,,010,Baracska,07-03,07-03,07-03,07-03|07-03,535944|535944,1|1,07-03,07-03,N,113,115,0,3,115,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/07-010-003?tab=data,535944
+07-011-001,07,FEJÉR,07-03,Bicske,,011,Beloiannisz,07-03,07-04,07-04,07-04|07-04,7033420|7033420,1|1,07-04,07-04,I,888,870,9,15,879,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/07-011-001?tab=data,7033420
+07-012-001,07,FEJÉR,07-03,Bicske,,012,Besnyõ,07-03,07-04,07-04,07-04|07-04,2366459|2366459,1|1,07-04,07-04,I,697,685,33,6,718,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/07-012-001?tab=data,2366459
+07-012-002,07,FEJÉR,07-03,Bicske,,012,Besnyõ,07-03,07-04,07-04,07-04|07-04,1245022|1245022,1|1,07-04,07-04,N,786,777,0,10,777,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/07-012-002?tab=data,1245022
+07-013-001,07,FEJÉR,07-03,Bicske,,013,Bicske,07-03,07-03,07-03,07-03|07-03,2364831|2364831,1|1,07-03,07-03,N,1148,1108,0,25,1108,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/07-013-001?tab=data,2364831
+07-013-002,07,FEJÉR,07-03,Bicske,,013,Bicske,07-03,07-03,07-03,07-03|07-03,1045076|1045076,1|1,07-03,07-03,N,1216,1173,0,34,1173,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/07-013-002?tab=data,1045076
+07-013-003,07,FEJÉR,07-03,Bicske,,013,Bicske,07-03,07-03,07-03,07-03|07-03,1088785|1088785,1|1,07-03,07-03,N,1131,1090,0,31,1090,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/07-013-003?tab=data,1088785
+07-013-004,07,FEJÉR,07-03,Bicske,,013,Bicske,07-03,07-03,07-03,07-03|07-03,6601253|6601253,1|1,07-03,07-03,I,1214,1186,130,31,1316,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/07-013-004?tab=data,6601253
+07-013-005,07,FEJÉR,07-03,Bicske,,013,Bicske,07-03,07-03,07-03,07-03|07-03,1211040|1211040,1|1,07-03,07-03,N,1024,985,0,32,985,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/07-013-005?tab=data,1211040
+07-013-006,07,FEJÉR,07-03,Bicske,,013,Bicske,07-03,07-03,07-03,07-03|07-03,1628609|1628609,1|1,07-03,07-03,N,1118,1073,0,33,1073,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/07-013-006?tab=data,1628609
+07-013-007,07,FEJÉR,07-03,Bicske,,013,Bicske,07-03,07-03,07-03,07-03|07-03,577520|577520,1|1,07-03,07-03,N,1145,1130,0,14,1130,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/07-013-007?tab=data,577520
+07-013-008,07,FEJÉR,07-03,Bicske,,013,Bicske,07-03,07-03,07-03,07-03|07-03,4289904|4289904,1|1,07-03,07-03,N,1183,1156,0,26,1156,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/07-013-008?tab=data,4289904
+07-014-001,07,FEJÉR,07-02,Székesfehérvár,,014,Bodajk,07-02,07-02,07-02,07-02|07-02,484404|484404,1|1,07-02,07-02,I,755,734,27,14,761,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/07-014-001?tab=data,484404
+07-014-002,07,FEJÉR,07-02,Székesfehérvár,,014,Bodajk,07-02,07-02,07-02,07-02|07-02,1209616|1209616,1|1,07-02,07-02,N,764,734,0,22,734,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/07-014-002?tab=data,1209616
+07-014-003,07,FEJÉR,07-02,Székesfehérvár,,014,Bodajk,07-02,07-02,07-02,07-02|07-02,1093200|1093200,1|1,07-02,07-02,N,730,717,0,14,717,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/07-014-003?tab=data,1093200
+07-014-004,07,FEJÉR,07-02,Székesfehérvár,,014,Bodajk,07-02,07-02,07-02,07-02|07-02,906115|906115,1|1,07-02,07-02,N,964,944,0,20,944,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/07-014-004?tab=data,906115
+07-015-001,07,FEJÉR,07-03,Bicske,,015,Bodmér,07-03,07-03,07-03,07-03|07-03,11208867|11208867,1|1,07-03,07-03,I,211,205,4,8,209,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/07-015-001?tab=data,11208867
+07-016-001,07,FEJÉR,07-05,Sárbogárd,,016,Cece,07-05,07-05,07-05,07-05|07-05,1740698|1740698,1|1,07-05,07-05,N,730,719,0,14,719,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/07-016-001?tab=data,1740698
+07-016-002,07,FEJÉR,07-05,Sárbogárd,,016,Cece,07-05,07-05,07-05,07-05|07-05,14880613|14880613,1|1,07-05,07-05,I,640,617,24,16,641,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/07-016-002?tab=data,14880613
+07-016-003,07,FEJÉR,07-05,Sárbogárd,,016,Cece,07-05,07-05,07-05,07-05|07-05,2591854|2591854,1|1,07-05,07-05,N,703,689,0,9,689,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/07-016-003?tab=data,2591854
+07-017-001,07,FEJÉR,07-03,Bicske,,017,Csabdi,07-03,07-03,07-03,07-03|07-03,1376161|1376161,1|1,07-03,07-03,I,830,810,21,21,831,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/07-017-001?tab=data,1376161
+07-017-002,07,FEJÉR,07-03,Bicske,,017,Csabdi,07-03,07-03,07-03,07-03|07-03,222204|222204,1|1,07-03,07-03,N,171,170,0,5,170,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/07-017-002?tab=data,222204
+07-018-001,07,FEJÉR,07-02,Székesfehérvár,,018,Csákberény,07-02,07-02,07-02,07-02|07-03|07-02|07-03,63920154|423796|63920154|423796,1|0|1|0,07-02,07-02,I,962,929,12,30,941,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/07-018-001?tab=data,64343951
+07-019-001,07,FEJÉR,07-03,Bicske,,019,Csákvár,07-03,07-03,07-03,07-03|07-03,973307|973307,1|1,07-03,07-03,N,942,921,0,14,921,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/07-019-001?tab=data,973307
+07-019-002,07,FEJÉR,07-03,Bicske,,019,Csákvár,07-03,07-03,07-03,07-03|07-03,1932635|1932635,1|1,07-03,07-03,I,718,694,109,14,803,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/07-019-002?tab=data,1932635
+07-019-003,07,FEJÉR,07-03,Bicske,,019,Csákvár,07-03,07-03,07-03,07-03|07-03,616085|616085,1|1,07-03,07-03,N,937,913,0,23,913,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/07-019-003?tab=data,616085
+07-019-004,07,FEJÉR,07-03,Bicske,,019,Csákvár,07-03,07-03,07-03,07-03|07-03,528679|528679,1|1,07-03,07-03,N,990,968,0,19,968,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/07-019-004?tab=data,528679
+07-019-005,07,FEJÉR,07-03,Bicske,,019,Csákvár,07-03,07-03,07-03,07-03|07-03,824824|824824,1|1,07-03,07-03,N,825,804,0,23,804,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/07-019-005?tab=data,824824
+07-020-001,07,FEJÉR,07-02,Székesfehérvár,,020,Csókakõ,07-02,07-02,07-02,07-02|07-02,17020726|17020726,1|1,07-02,07-02,I,1252,1219,50,30,1269,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/07-020-001?tab=data,17020726
+07-021-001,07,FEJÉR,07-02,Székesfehérvár,,021,Csór,07-02,07-02,07-02,07-02|07-02,510917|510917,1|1,07-02,07-02,I,841,817,16,20,833,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/07-021-001?tab=data,510917
+07-021-002,07,FEJÉR,07-02,Székesfehérvár,,021,Csór,07-02,07-02,07-02,07-02|07-02,367523|367523,1|1,07-02,07-02,N,706,695,0,12,695,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/07-021-002?tab=data,367523
+07-022-001,07,FEJÉR,07-05,Sárbogárd,,022,Csõsz,07-05,07-05,07-05,07-01|07-05|07-01|07-05,17325|26356328|17325|26356328,0|1|0|1,07-05,07-05,I,806,785,5,14,790,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/07-022-001?tab=data,26373587
+07-023-001,07,FEJÉR,07-05,Sárbogárd,,023,Dég,07-05,07-05,07-05,07-05|07-05,7360463|7360463,1|1,07-05,07-05,N,839,820,0,14,820,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/07-023-001?tab=data,7360463
+07-023-002,07,FEJÉR,07-05,Sárbogárd,,023,Dég,07-05,07-05,07-05,07-05|07-05,1646664|1646664,1|1,07-05,07-05,I,892,858,16,28,874,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/07-023-002?tab=data,1646664
+07-024-001,07,FEJÉR,07-04,Dunaújváros,,024,Dunaújváros,07-04,07-04,07-04,07-04|07-04,3435426|3435426,1|1,07-04,07-04,N,902,859,0,25,859,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/07-024-001?tab=data,3435426
+07-024-002,07,FEJÉR,07-04,Dunaújváros,,024,Dunaújváros,07-04,07-04,07-04,07-04|07-04,227580|227580,1|1,07-04,07-04,N,871,835,0,19,835,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/07-024-002?tab=data,227580
+07-024-003,07,FEJÉR,07-04,Dunaújváros,,024,Dunaújváros,07-04,07-04,07-04,07-04|07-04,120142|120142,1|1,07-04,07-04,N,473,452,0,16,452,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/07-024-003?tab=data,120142
+07-024-004,07,FEJÉR,07-04,Dunaújváros,,024,Dunaújváros,07-04,07-04,07-04,07-04|07-04,66425|66425,1|1,07-04,07-04,N,723,695,0,18,695,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/07-024-004?tab=data,66425
+07-024-005,07,FEJÉR,07-04,Dunaújváros,,024,Dunaújváros,07-04,07-04,07-04,07-04|07-04,59153|59153,1|1,07-04,07-04,N,885,859,0,18,859,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/07-024-005?tab=data,59153
 07-024-006,07,FEJÉR,07-04,Dunaújváros,,024,Dunaújváros,07-04,07-04,07-04,07-04,393,1,07-04,07-04,N,517,487,0,22,487,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/07-024-006?tab=data,393
 07-024-007,07,FEJÉR,07-04,Dunaújváros,,024,Dunaújváros,07-04,07-04,07-04,07-04,77559,1,07-04,07-04,N,607,589,0,15,589,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/07-024-007?tab=data,77559
 07-024-008,07,FEJÉR,07-04,Dunaújváros,,024,Dunaújváros,07-04,07-04,07-04,07-04,21158,1,07-04,07-04,N,543,535,0,11,535,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/07-024-008?tab=data,21158
@@ -4986,160 +4986,160 @@ SZAVAZOKOR,MEGYEKOD,MEGYE,OEVK,SZEKHELY,SZH_KER,TELEPULES_SORSZAM,TELEPULES,OEVK
 09-012-003,09,HAJDÚ-BIHAR,09-04,Berettyóújfalu,,012,Biharnagybajom,09-04,09-04,09-04,09-04,968940,1,09-04,09-04,N,700,679,0,14,679,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-012-003?tab=data,968940
 09-013-001,09,HAJDÚ-BIHAR,09-04,Berettyóújfalu,,013,Bihartorda,09-04,09-04,09-04,09-04,35333677,1,09-04,09-04,I,757,743,2,13,745,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-013-001?tab=data,35333677
 09-014-001,09,HAJDÚ-BIHAR,09-03,Debrecen,,014,Bocskaikert,09-03,09-03,09-03,09-03,1448748,1,09-03,09-03,I,998,971,21,28,992,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-014-001?tab=data,1448748
-09-014-002,09,HAJDÚ-BIHAR,09-03,Debrecen,,014,Bocskaikert,09-03,09-03,09-03,09-01|09-03,333|5501978,0|1,09-03,09-03,N,1014,990,0,23,990,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-014-002?tab=data,5502301
-09-014-003,09,HAJDÚ-BIHAR,09-03,Debrecen,,014,Bocskaikert,09-03,09-03,09-03,09-03,1299465,1,09-03,09-03,N,1053,1034,0,20,1034,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-014-003?tab=data,1299465
-09-015-001,09,HAJDÚ-BIHAR,09-04,Berettyóújfalu,,015,Bojt,09-04,09-04,09-04,09-04,42524017,1,09-04,09-04,I,433,430,2,3,432,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-015-001?tab=data,42524017
-09-016-001,09,HAJDÚ-BIHAR,09-04,Berettyóújfalu,,016,Csökmõ,09-04,09-04,09-04,09-04,1356657,1,09-04,09-04,I,738,711,6,16,717,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-016-001?tab=data,1356657
-09-016-002,09,HAJDÚ-BIHAR,09-04,Berettyóújfalu,,016,Csökmõ,09-04,09-04,09-04,09-04,1677295,1,09-04,09-04,N,704,690,0,4,690,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-016-002?tab=data,1677295
-09-016-003,09,HAJDÚ-BIHAR,09-04,Berettyóújfalu,,016,Csökmõ,09-04,09-04,09-04,09-04,373484,1,09-04,09-04,N,33,38,0,1,38,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-016-003?tab=data,373484
-09-017-001,09,HAJDÚ-BIHAR,09-04,Berettyóújfalu,,017,Darvas,09-04,09-04,09-04,09-04,66527858,1,09-04,09-04,I,454,438,3,11,441,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-017-001?tab=data,66547077
-09-018-001,09,HAJDÚ-BIHAR,,Debrecen,,018,Debrecen,,,09-03|09-02|09-01,09-02,2133,1,09-02,09-02,I,0,0,2838,0,2838,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-018-001?tab=data,2133
-09-018-011,09,HAJDÚ-BIHAR,09-03,Debrecen,,018,Debrecen,09-03,09-03,09-03|09-02|09-01,,,,,,,,,,,,,
-09-018-012,09,HAJDÚ-BIHAR,09-03,Debrecen,,018,Debrecen,09-03,09-03,09-03|09-02|09-01,,,,,,,,,,,,,
-09-018-013,09,HAJDÚ-BIHAR,09-03,Debrecen,,018,Debrecen,09-03,09-03,09-03|09-02|09-01,,,,,,,,,,,,,
-09-018-014,09,HAJDÚ-BIHAR,09-03,Debrecen,,018,Debrecen,09-03,09-03,09-03|09-02|09-01,,,,,,,,,,,,,
-09-018-015,09,HAJDÚ-BIHAR,09-03,Debrecen,,018,Debrecen,09-03,09-03,09-03|09-02|09-01,,,,,,,,,,,,,
-09-018-016,09,HAJDÚ-BIHAR,09-03,Debrecen,,018,Debrecen,09-03,09-03,09-03|09-02|09-01,,,,,,,,,,,,,
-09-018-021,09,HAJDÚ-BIHAR,09-03,Debrecen,,018,Debrecen,09-03,09-03,09-03|09-02|09-01,,,,,,,,,,,,,
-09-018-022,09,HAJDÚ-BIHAR,09-03,Debrecen,,018,Debrecen,09-03,09-03,09-03|09-02|09-01,,,,,,,,,,,,,
-09-018-023,09,HAJDÚ-BIHAR,09-03,Debrecen,,018,Debrecen,09-03,09-03,09-03|09-02|09-01,,,,,,,,,,,,,
-09-018-024,09,HAJDÚ-BIHAR,09-03,Debrecen,,018,Debrecen,09-03,09-03,09-03|09-02|09-01,,,,,,,,,,,,,
-09-018-025,09,HAJDÚ-BIHAR,09-03,Debrecen,,018,Debrecen,09-03,09-03,09-03|09-02|09-01,,,,,,,,,,,,,
-09-018-031,09,HAJDÚ-BIHAR,09-03,Debrecen,,018,Debrecen,09-03,09-03,09-03|09-02|09-01,,,,,,,,,,,,,
-09-018-032,09,HAJDÚ-BIHAR,09-03,Debrecen,,018,Debrecen,09-03,09-03,09-03|09-02|09-01,,,,,,,,,,,,,
-09-018-033,09,HAJDÚ-BIHAR,09-03,Debrecen,,018,Debrecen,09-03,09-03,09-03|09-02|09-01,,,,,,,,,,,,,
-09-018-034,09,HAJDÚ-BIHAR,09-03,Debrecen,,018,Debrecen,09-03,09-03,09-03|09-02|09-01,,,,,,,,,,,,,
-09-018-035,09,HAJDÚ-BIHAR,09-03,Debrecen,,018,Debrecen,09-03,09-03,09-03|09-02|09-01,,,,,,,,,,,,,
-09-018-041,09,HAJDÚ-BIHAR,09-02,Debrecen,,018,Debrecen,09-02,09-02,09-03|09-02|09-01,,,,,,,,,,,,,
-09-018-042,09,HAJDÚ-BIHAR,09-02,Debrecen,,018,Debrecen,09-02,09-02,09-03|09-02|09-01,,,,,,,,,,,,,
-09-018-043,09,HAJDÚ-BIHAR,09-02,Debrecen,,018,Debrecen,09-02,09-02,09-03|09-02|09-01,,,,,,,,,,,,,
-09-018-044,09,HAJDÚ-BIHAR,09-02,Debrecen,,018,Debrecen,09-02,09-02,09-03|09-02|09-01,,,,,,,,,,,,,
-09-018-045,09,HAJDÚ-BIHAR,09-02,Debrecen,,018,Debrecen,09-02,09-02,09-03|09-02|09-01,,,,,,,,,,,,,
-09-018-046,09,HAJDÚ-BIHAR,09-02,Debrecen,,018,Debrecen,09-02,09-02,09-03|09-02|09-01,,,,,,,,,,,,,
-09-018-051,09,HAJDÚ-BIHAR,09-02,Debrecen,,018,Debrecen,09-02,09-02,09-03|09-02|09-01,,,,,,,,,,,,,
-09-018-052,09,HAJDÚ-BIHAR,09-02,Debrecen,,018,Debrecen,09-02,09-02,09-03|09-02|09-01,,,,,,,,,,,,,
-09-018-053,09,HAJDÚ-BIHAR,09-02,Debrecen,,018,Debrecen,09-02,09-02,09-03|09-02|09-01,,,,,,,,,,,,,
-09-018-054,09,HAJDÚ-BIHAR,09-02,Debrecen,,018,Debrecen,09-02,09-02,09-03|09-02|09-01,,,,,,,,,,,,,
-09-018-055,09,HAJDÚ-BIHAR,09-02,Debrecen,,018,Debrecen,09-02,09-02,09-03|09-02|09-01,,,,,,,,,,,,,
-09-018-061,09,HAJDÚ-BIHAR,09-02,Debrecen,,018,Debrecen,09-02,09-02,09-03|09-02|09-01,,,,,,,,,,,,,
-09-018-062,09,HAJDÚ-BIHAR,09-02,Debrecen,,018,Debrecen,09-02,09-02,09-03|09-02|09-01,,,,,,,,,,,,,
-09-018-063,09,HAJDÚ-BIHAR,09-02,Debrecen,,018,Debrecen,09-02,09-02,09-03|09-02|09-01,,,,,,,,,,,,,
-09-018-064,09,HAJDÚ-BIHAR,09-02,Debrecen,,018,Debrecen,09-02,09-02,09-03|09-02|09-01,,,,,,,,,,,,,
-09-018-065,09,HAJDÚ-BIHAR,09-02,Debrecen,,018,Debrecen,09-02,09-02,09-03|09-02|09-01,,,,,,,,,,,,,
-09-018-066,09,HAJDÚ-BIHAR,09-02,Debrecen,,018,Debrecen,09-02,09-02,09-03|09-02|09-01,,,,,,,,,,,,,
-09-018-067,09,HAJDÚ-BIHAR,09-02,Debrecen,,018,Debrecen,09-02,09-02,09-03|09-02|09-01,,,,,,,,,,,,,
-09-018-071,09,HAJDÚ-BIHAR,09-02,Debrecen,,018,Debrecen,09-02,09-02,09-03|09-02|09-01,,,,,,,,,,,,,
-09-018-072,09,HAJDÚ-BIHAR,09-02,Debrecen,,018,Debrecen,09-02,09-02,09-03|09-02|09-01,,,,,,,,,,,,,
-09-018-073,09,HAJDÚ-BIHAR,09-02,Debrecen,,018,Debrecen,09-02,09-02,09-03|09-02|09-01,,,,,,,,,,,,,
-09-018-074,09,HAJDÚ-BIHAR,09-02,Debrecen,,018,Debrecen,09-02,09-02,09-03|09-02|09-01,,,,,,,,,,,,,
-09-018-075,09,HAJDÚ-BIHAR,09-02,Debrecen,,018,Debrecen,09-02,09-02,09-03|09-02|09-01,,,,,,,,,,,,,
-09-018-076,09,HAJDÚ-BIHAR,09-02,Debrecen,,018,Debrecen,09-02,09-02,09-03|09-02|09-01,,,,,,,,,,,,,
-09-018-081,09,HAJDÚ-BIHAR,09-02,Debrecen,,018,Debrecen,09-02,09-02,09-03|09-02|09-01,,,,,,,,,,,,,
-09-018-082,09,HAJDÚ-BIHAR,09-02,Debrecen,,018,Debrecen,09-02,09-02,09-03|09-02|09-01,,,,,,,,,,,,,
-09-018-083,09,HAJDÚ-BIHAR,09-02,Debrecen,,018,Debrecen,09-02,09-02,09-03|09-02|09-01,,,,,,,,,,,,,
-09-018-084,09,HAJDÚ-BIHAR,09-02,Debrecen,,018,Debrecen,09-02,09-02,09-03|09-02|09-01,,,,,,,,,,,,,
-09-018-085,09,HAJDÚ-BIHAR,09-02,Debrecen,,018,Debrecen,09-02,09-02,09-03|09-02|09-01,,,,,,,,,,,,,
-09-018-086,09,HAJDÚ-BIHAR,09-02,Debrecen,,018,Debrecen,09-02,09-02,09-03|09-02|09-01,,,,,,,,,,,,,
-09-018-091,09,HAJDÚ-BIHAR,09-02,Debrecen,,018,Debrecen,09-02,09-02,09-03|09-02|09-01,,,,,,,,,,,,,
-09-018-092,09,HAJDÚ-BIHAR,09-02,Debrecen,,018,Debrecen,09-02,09-02,09-03|09-02|09-01,,,,,,,,,,,,,
-09-018-093,09,HAJDÚ-BIHAR,09-02,Debrecen,,018,Debrecen,09-02,09-02,09-03|09-02|09-01,,,,,,,,,,,,,
-09-018-094,09,HAJDÚ-BIHAR,09-02,Debrecen,,018,Debrecen,09-02,09-02,09-03|09-02|09-01,,,,,,,,,,,,,
-09-018-095,09,HAJDÚ-BIHAR,09-02,Debrecen,,018,Debrecen,09-02,09-02,09-03|09-02|09-01,,,,,,,,,,,,,
-09-018-101,09,HAJDÚ-BIHAR,09-02,Debrecen,,018,Debrecen,09-02,09-02,09-03|09-02|09-01,,,,,,,,,,,,,
-09-018-102,09,HAJDÚ-BIHAR,09-02,Debrecen,,018,Debrecen,09-02,09-02,09-03|09-02|09-01,,,,,,,,,,,,,
-09-018-103,09,HAJDÚ-BIHAR,09-02,Debrecen,,018,Debrecen,09-02,09-02,09-03|09-02|09-01,,,,,,,,,,,,,
-09-018-104,09,HAJDÚ-BIHAR,09-02,Debrecen,,018,Debrecen,09-02,09-02,09-03|09-02|09-01,,,,,,,,,,,,,
-09-018-105,09,HAJDÚ-BIHAR,09-02,Debrecen,,018,Debrecen,09-02,09-02,09-03|09-02|09-01,,,,,,,,,,,,,
-09-018-106,09,HAJDÚ-BIHAR,09-02,Debrecen,,018,Debrecen,09-02,09-02,09-03|09-02|09-01,,,,,,,,,,,,,
-09-018-111,09,HAJDÚ-BIHAR,09-02,Debrecen,,018,Debrecen,09-02,09-02,09-03|09-02|09-01,,,,,,,,,,,,,
-09-018-112,09,HAJDÚ-BIHAR,09-02,Debrecen,,018,Debrecen,09-02,09-02,09-03|09-02|09-01,,,,,,,,,,,,,
-09-018-113,09,HAJDÚ-BIHAR,09-02,Debrecen,,018,Debrecen,09-02,09-02,09-03|09-02|09-01,,,,,,,,,,,,,
-09-018-114,09,HAJDÚ-BIHAR,09-02,Debrecen,,018,Debrecen,09-02,09-02,09-03|09-02|09-01,,,,,,,,,,,,,
-09-018-115,09,HAJDÚ-BIHAR,09-02,Debrecen,,018,Debrecen,09-02,09-02,09-03|09-02|09-01,,,,,,,,,,,,,
-09-018-116,09,HAJDÚ-BIHAR,09-02,Debrecen,,018,Debrecen,09-02,09-02,09-03|09-02|09-01,,,,,,,,,,,,,
-09-018-117,09,HAJDÚ-BIHAR,09-02,Debrecen,,018,Debrecen,09-02,09-02,09-03|09-02|09-01,,,,,,,,,,,,,
-09-018-121,09,HAJDÚ-BIHAR,09-02,Debrecen,,018,Debrecen,09-02,09-02,09-03|09-02|09-01,,,,,,,,,,,,,
-09-018-122,09,HAJDÚ-BIHAR,09-02,Debrecen,,018,Debrecen,09-02,09-02,09-03|09-02|09-01,,,,,,,,,,,,,
-09-018-123,09,HAJDÚ-BIHAR,09-02,Debrecen,,018,Debrecen,09-02,09-02,09-03|09-02|09-01,,,,,,,,,,,,,
-09-018-124,09,HAJDÚ-BIHAR,09-02,Debrecen,,018,Debrecen,09-02,09-02,09-03|09-02|09-01,,,,,,,,,,,,,
-09-018-125,09,HAJDÚ-BIHAR,09-02,Debrecen,,018,Debrecen,09-02,09-02,09-03|09-02|09-01,,,,,,,,,,,,,
-09-018-126,09,HAJDÚ-BIHAR,09-02,Debrecen,,018,Debrecen,09-02,09-02,09-03|09-02|09-01,,,,,,,,,,,,,
-09-018-127,09,HAJDÚ-BIHAR,09-02,Debrecen,,018,Debrecen,09-02,09-02,09-03|09-02|09-01,,,,,,,,,,,,,
-09-018-131,09,HAJDÚ-BIHAR,09-02,Debrecen,,018,Debrecen,09-02,09-02,09-03|09-02|09-01,,,,,,,,,,,,,
-09-018-132,09,HAJDÚ-BIHAR,09-02,Debrecen,,018,Debrecen,09-02,09-02,09-03|09-02|09-01,,,,,,,,,,,,,
+09-014-002,09,HAJDÚ-BIHAR,09-03,Debrecen,,014,Bocskaikert,09-03,09-03,09-03,09-01|09-03|09-03,333|5501978|5501978,0|1|1,09-03,09-03,N,1014,990,0,23,990,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-014-002?tab=data,5502301
+09-014-003,09,HAJDÚ-BIHAR,09-03,Debrecen,,014,Bocskaikert,09-03,09-03,09-03,09-03|09-03,1299465|1299465,1|1,09-03,09-03,N,1053,1034,0,20,1034,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-014-003?tab=data,1299465
+09-015-001,09,HAJDÚ-BIHAR,09-04,Berettyóújfalu,,015,Bojt,09-04,09-04,09-04,09-04|09-04,42524017|42524017,1|1,09-04,09-04,I,433,430,2,3,432,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-015-001?tab=data,42524017
+09-016-001,09,HAJDÚ-BIHAR,09-04,Berettyóújfalu,,016,Csökmõ,09-04,09-04,09-04,09-04|09-04,1356657|1356657,1|1,09-04,09-04,I,738,711,6,16,717,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-016-001?tab=data,1356657
+09-016-002,09,HAJDÚ-BIHAR,09-04,Berettyóújfalu,,016,Csökmõ,09-04,09-04,09-04,09-04|09-04,1677295|1677295,1|1,09-04,09-04,N,704,690,0,4,690,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-016-002?tab=data,1677295
+09-016-003,09,HAJDÚ-BIHAR,09-04,Berettyóújfalu,,016,Csökmõ,09-04,09-04,09-04,09-04|09-04,373484|373484,1|1,09-04,09-04,N,33,38,0,1,38,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-016-003?tab=data,373484
+09-017-001,09,HAJDÚ-BIHAR,09-04,Berettyóújfalu,,017,Darvas,09-04,09-04,09-04,09-04|09-04,66527858|66527858,1|1,09-04,09-04,I,454,438,3,11,441,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-017-001?tab=data,66547077
+09-018-001,09,HAJDÚ-BIHAR,,Debrecen,,018,Debrecen,,,09-03|09-02|09-01,09-02|09-02,2133|2133,1|1,09-02,09-02,I,0,0,2838,0,2838,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-018-001?tab=data,2133
+09-018-011,09,HAJDÚ-BIHAR,09-03,Debrecen,,018,Debrecen,09-03,09-03,09-03|09-02|09-01,09-01|09-02|09-03,331759|11586315|60049895,0|0|1,09-03,09-03,N,703,688,0,13,688,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-018-011?tab=data,71967754
+09-018-012,09,HAJDÚ-BIHAR,09-03,Debrecen,,018,Debrecen,09-03,09-03,09-03|09-02|09-01,09-03,2523272,1,09-03,09-03,N,1401,1363,0,32,1363,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-018-012?tab=data,2523272
+09-018-013,09,HAJDÚ-BIHAR,09-03,Debrecen,,018,Debrecen,09-03,09-03,09-03|09-02|09-01,09-02|09-03,2402348|45879697,0|1,09-03,09-03,N,1499,1496,0,18,1496,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-018-013?tab=data,48282557
+09-018-014,09,HAJDÚ-BIHAR,09-03,Debrecen,,018,Debrecen,09-03,09-03,09-03|09-02|09-01,09-03,2224876,1,09-03,09-03,N,1323,1295,0,30,1295,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-018-014?tab=data,2224876
+09-018-015,09,HAJDÚ-BIHAR,09-03,Debrecen,,018,Debrecen,09-03,09-03,09-03|09-02|09-01,09-02|09-03,2679088|20426292,0|1,09-03,09-03,N,1300,1280,0,21,1280,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-018-015?tab=data,23105381
+09-018-016,09,HAJDÚ-BIHAR,09-03,Debrecen,,018,Debrecen,09-03,09-03,09-03|09-02|09-01,09-03,211316,1,09-03,09-03,N,669,625,0,34,625,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-018-016?tab=data,211316
+09-018-021,09,HAJDÚ-BIHAR,09-03,Debrecen,,018,Debrecen,09-03,09-03,09-03|09-02|09-01,09-03,1150872,1,09-03,09-03,N,1399,1341,0,56,1341,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-018-021?tab=data,1150872
+09-018-022,09,HAJDÚ-BIHAR,09-03,Debrecen,,018,Debrecen,09-03,09-03,09-03|09-02|09-01,09-03,1190169,1,09-03,09-03,N,1394,1357,0,19,1357,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-018-022?tab=data,1190169
+09-018-023,09,HAJDÚ-BIHAR,09-03,Debrecen,,018,Debrecen,09-03,09-03,09-03|09-02|09-01,09-03,906485,1,09-03,09-03,N,1355,1307,0,48,1307,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-018-023?tab=data,906485
+09-018-024,09,HAJDÚ-BIHAR,09-03,Debrecen,,018,Debrecen,09-03,09-03,09-03|09-02|09-01,09-03,1144591,1,09-03,09-03,N,1302,1268,0,28,1268,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-018-024?tab=data,1144591
+09-018-025,09,HAJDÚ-BIHAR,09-03,Debrecen,,018,Debrecen,09-03,09-03,09-03|09-02|09-01,09-03,1296034,1,09-03,09-03,N,1269,1228,0,39,1228,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-018-025?tab=data,1296034
+09-018-031,09,HAJDÚ-BIHAR,09-03,Debrecen,,018,Debrecen,09-03,09-03,09-03|09-02|09-01,09-02|09-03,153066|672500,0|1,09-03,09-03,N,1264,1225,0,39,1225,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-018-031?tab=data,825566
+09-018-032,09,HAJDÚ-BIHAR,09-03,Debrecen,,018,Debrecen,09-03,09-03,09-03|09-02|09-01,09-02|09-03,330114|859327,0|1,09-03,09-03,N,1316,1272,0,45,1272,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-018-032?tab=data,1189441
+09-018-033,09,HAJDÚ-BIHAR,09-03,Debrecen,,018,Debrecen,09-03,09-03,09-03|09-02|09-01,09-02|09-03,37670|1287384,0|1,09-03,09-03,N,1094,1035,0,37,1035,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-018-033?tab=data,1325055
+09-018-034,09,HAJDÚ-BIHAR,09-03,Debrecen,,018,Debrecen,09-03,09-03,09-03|09-02|09-01,09-02|09-03,295495|1034471,0|1,09-03,09-03,N,1034,982,0,38,982,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-018-034?tab=data,1329966
+09-018-035,09,HAJDÚ-BIHAR,09-03,Debrecen,,018,Debrecen,09-03,09-03,09-03|09-02|09-01,09-03,1500119,1,09-03,09-03,N,1359,1293,0,50,1293,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-018-035?tab=data,1500119
+09-018-041,09,HAJDÚ-BIHAR,09-02,Debrecen,,018,Debrecen,09-02,09-02,09-03|09-02|09-01,09-01|09-02|09-03,29|298039|4356,0|1|0,09-02,09-02,N,1314,1235,0,48,1235,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-018-041?tab=data,302424
+09-018-042,09,HAJDÚ-BIHAR,09-02,Debrecen,,018,Debrecen,09-02,09-02,09-03|09-02|09-01,09-01|09-02,3734|160503,0|1,09-02,09-02,N,1207,1132,0,64,1132,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-018-042?tab=data,164237
+09-018-043,09,HAJDÚ-BIHAR,09-02,Debrecen,,018,Debrecen,09-02,09-02,09-03|09-02|09-01,09-02,207909,1,09-02,09-02,N,1092,1053,0,34,1053,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-018-043?tab=data,207909
+09-018-044,09,HAJDÚ-BIHAR,09-02,Debrecen,,018,Debrecen,09-02,09-02,09-03|09-02|09-01,09-02|09-03,109343|2045,1|0,09-02,09-02,N,821,795,0,19,795,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-018-044?tab=data,111389
+09-018-045,09,HAJDÚ-BIHAR,09-02,Debrecen,,018,Debrecen,09-02,09-02,09-03|09-02|09-01,09-02,33197,1,09-02,09-02,N,988,951,0,28,951,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-018-045?tab=data,33197
+09-018-046,09,HAJDÚ-BIHAR,09-02,Debrecen,,018,Debrecen,09-02,09-02,09-03|09-02|09-01,09-01|09-02,815|288168,0|1,09-02,09-02,N,1315,1246,0,58,1246,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-018-046?tab=data,288983
+09-018-051,09,HAJDÚ-BIHAR,09-02,Debrecen,,018,Debrecen,09-02,09-02,09-03|09-02|09-01,09-01|09-02,3264|251152,0|1,09-02,09-02,N,1257,1194,0,45,1194,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-018-051?tab=data,254416
+09-018-052,09,HAJDÚ-BIHAR,09-02,Debrecen,,018,Debrecen,09-02,09-02,09-03|09-02|09-01,09-01|09-02,9008|766974,0|1,09-02,09-02,N,1319,1248,0,63,1248,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-018-052?tab=data,775982
+09-018-053,09,HAJDÚ-BIHAR,09-02,Debrecen,,018,Debrecen,09-02,09-02,09-03|09-02|09-01,09-02,267753,1,09-02,09-02,N,1383,1302,0,65,1302,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-018-053?tab=data,267753
+09-018-054,09,HAJDÚ-BIHAR,09-02,Debrecen,,018,Debrecen,09-02,09-02,09-03|09-02|09-01,09-02,553389,1,09-02,09-02,N,1311,1248,0,33,1248,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-018-054?tab=data,553389
+09-018-055,09,HAJDÚ-BIHAR,09-02,Debrecen,,018,Debrecen,09-02,09-02,09-03|09-02|09-01,09-02,277903,1,09-02,09-02,N,1256,1221,0,26,1221,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-018-055?tab=data,277903
+09-018-061,09,HAJDÚ-BIHAR,09-02,Debrecen,,018,Debrecen,09-02,09-02,09-03|09-02|09-01,09-01|09-02|09-03,13612|59363987|16719751,0|1|0,09-02,09-02,N,850,827,0,20,827,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-018-061?tab=data,76097209
+09-018-062,09,HAJDÚ-BIHAR,09-02,Debrecen,,018,Debrecen,09-02,09-02,09-03|09-02|09-01,09-02|09-03,13007161|2003541,1|0,09-02,09-02,N,1483,1463,0,18,1463,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-018-062?tab=data,15010580
+09-018-063,09,HAJDÚ-BIHAR,09-02,Debrecen,,018,Debrecen,09-02,09-02,09-03|09-02|09-01,09-02|09-03,1322467|48122,1|0,09-02,09-02,N,1451,1417,0,33,1417,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-018-063?tab=data,1370590
+09-018-064,09,HAJDÚ-BIHAR,09-02,Debrecen,,018,Debrecen,09-02,09-02,09-03|09-02|09-01,09-02,4861963,1,09-02,09-02,N,557,538,0,9,538,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-018-064?tab=data,4861963
+09-018-065,09,HAJDÚ-BIHAR,09-02,Debrecen,,018,Debrecen,09-02,09-02,09-03|09-02|09-01,09-02,1059990,1,09-02,09-02,N,1278,1210,0,54,1210,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-018-065?tab=data,1059990
+09-018-066,09,HAJDÚ-BIHAR,09-02,Debrecen,,018,Debrecen,09-02,09-02,09-03|09-02|09-01,09-02,846236,1,09-02,09-02,N,903,876,0,26,876,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-018-066?tab=data,846236
+09-018-067,09,HAJDÚ-BIHAR,09-02,Debrecen,,018,Debrecen,09-02,09-02,09-03|09-02|09-01,09-02,2981291,1,09-02,09-02,N,831,814,0,11,814,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-018-067?tab=data,2981291
+09-018-071,09,HAJDÚ-BIHAR,09-02,Debrecen,,018,Debrecen,09-02,09-02,09-03|09-02|09-01,09-02,57200905,1,09-02,09-02,N,902,869,0,19,869,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-018-071?tab=data,57200905
+09-018-072,09,HAJDÚ-BIHAR,09-02,Debrecen,,018,Debrecen,09-02,09-02,09-03|09-02|09-01,09-02,10574027,1,09-02,09-02,N,1494,1469,0,19,1469,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-018-072?tab=data,10574027
+09-018-073,09,HAJDÚ-BIHAR,09-02,Debrecen,,018,Debrecen,09-02,09-02,09-03|09-02|09-01,09-02,4419959,1,09-02,09-02,N,1437,1408,0,46,1408,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-018-073?tab=data,4419959
+09-018-074,09,HAJDÚ-BIHAR,09-02,Debrecen,,018,Debrecen,09-02,09-02,09-03|09-02|09-01,09-02,2327374,1,09-02,09-02,N,1480,1429,0,37,1429,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-018-074?tab=data,2327374
+09-018-075,09,HAJDÚ-BIHAR,09-02,Debrecen,,018,Debrecen,09-02,09-02,09-03|09-02|09-01,09-02|09-03,2797108|168879,1|0,09-02,09-02,N,1024,988,0,28,988,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-018-075?tab=data,2965988
+09-018-076,09,HAJDÚ-BIHAR,09-02,Debrecen,,018,Debrecen,09-02,09-02,09-03|09-02|09-01,09-02,852443,1,09-02,09-02,N,1267,1218,0,36,1218,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-018-076?tab=data,852443
+09-018-081,09,HAJDÚ-BIHAR,09-02,Debrecen,,018,Debrecen,09-02,09-02,09-03|09-02|09-01,09-01|09-02|09-03|09-05|09-06,95852735|76212622|2657519|188994512|52578269,0|0|0|1|0,09-05,09-05,N,1198,1176,0,15,1176,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-018-081?tab=data,467348822
+09-018-082,09,HAJDÚ-BIHAR,09-02,Debrecen,,018,Debrecen,09-02,09-02,09-03|09-02|09-01,09-02,3374111,1,09-02,09-02,N,1455,1434,0,28,1434,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-018-082?tab=data,3374111
+09-018-083,09,HAJDÚ-BIHAR,09-02,Debrecen,,018,Debrecen,09-02,09-02,09-03|09-02|09-01,09-02,1720399,1,09-02,09-02,N,1307,1272,0,21,1272,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-018-083?tab=data,1720399
+09-018-084,09,HAJDÚ-BIHAR,09-02,Debrecen,,018,Debrecen,09-02,09-02,09-03|09-02|09-01,09-02,1689591,1,09-02,09-02,N,1305,1276,0,26,1276,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-018-084?tab=data,1689591
+09-018-085,09,HAJDÚ-BIHAR,09-02,Debrecen,,018,Debrecen,09-02,09-02,09-03|09-02|09-01,09-02,1099419,1,09-02,09-02,N,910,882,0,22,882,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-018-085?tab=data,1099419
+09-018-086,09,HAJDÚ-BIHAR,09-02,Debrecen,,018,Debrecen,09-02,09-02,09-03|09-02|09-01,09-02,3994166,1,09-02,09-02,N,872,843,0,27,843,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-018-086?tab=data,3994166
+09-018-091,09,HAJDÚ-BIHAR,09-02,Debrecen,,018,Debrecen,09-02,09-02,09-03|09-02|09-01,09-02,14465643,1,09-02,09-02,N,1390,1369,0,24,1369,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-018-091?tab=data,14465643
+09-018-092,09,HAJDÚ-BIHAR,09-02,Debrecen,,018,Debrecen,09-02,09-02,09-03|09-02|09-01,09-02,9603014,1,09-02,09-02,N,1464,1448,0,25,1448,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-018-092?tab=data,9603014
+09-018-093,09,HAJDÚ-BIHAR,09-02,Debrecen,,018,Debrecen,09-02,09-02,09-03|09-02|09-01,09-02,12974546,1,09-02,09-02,N,1451,1388,0,51,1388,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-018-093?tab=data,12974546
+09-018-094,09,HAJDÚ-BIHAR,09-02,Debrecen,,018,Debrecen,09-02,09-02,09-03|09-02|09-01,09-02,24427571,1,09-02,09-02,N,1437,1426,0,26,1426,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-018-094?tab=data,24427571
+09-018-095,09,HAJDÚ-BIHAR,09-02,Debrecen,,018,Debrecen,09-02,09-02,09-03|09-02|09-01,09-02|09-03,3076539|507498,1|0,09-02,09-02,N,1484,1432,0,35,1432,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-018-095?tab=data,3583975
+09-018-101,09,HAJDÚ-BIHAR,09-02,Debrecen,,018,Debrecen,09-02,09-02,09-03|09-02|09-01,09-02,1708862,1,09-02,09-02,N,1437,1385,0,42,1385,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-018-101?tab=data,1708862
+09-018-102,09,HAJDÚ-BIHAR,09-02,Debrecen,,018,Debrecen,09-02,09-02,09-03|09-02|09-01,09-02,582002,1,09-02,09-02,N,1229,1198,0,24,1198,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-018-102?tab=data,582002
+09-018-103,09,HAJDÚ-BIHAR,09-02,Debrecen,,018,Debrecen,09-02,09-02,09-03|09-02|09-01,09-02,2510471,1,09-02,09-02,N,1399,1385,0,24,1385,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-018-103?tab=data,2510471
+09-018-104,09,HAJDÚ-BIHAR,09-02,Debrecen,,018,Debrecen,09-02,09-02,09-03|09-02|09-01,09-02,3387982,1,09-02,09-02,N,1026,990,0,24,990,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-018-104?tab=data,3387982
+09-018-105,09,HAJDÚ-BIHAR,09-02,Debrecen,,018,Debrecen,09-02,09-02,09-03|09-02|09-01,09-02,478738,1,09-02,09-02,N,1516,1452,0,71,1452,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-018-105?tab=data,478738
+09-018-106,09,HAJDÚ-BIHAR,09-02,Debrecen,,018,Debrecen,09-02,09-02,09-03|09-02|09-01,09-02,624230,1,09-02,09-02,N,1479,1424,0,51,1424,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-018-106?tab=data,624230
+09-018-111,09,HAJDÚ-BIHAR,09-02,Debrecen,,018,Debrecen,09-02,09-02,09-03|09-02|09-01,09-01|09-02,5383|498684,0|1,09-02,09-02,N,1308,1230,0,68,1230,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-018-111?tab=data,504067
+09-018-112,09,HAJDÚ-BIHAR,09-02,Debrecen,,018,Debrecen,09-02,09-02,09-03|09-02|09-01,09-02,356264,1,09-02,09-02,N,1322,1268,0,50,1268,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-018-112?tab=data,356264
+09-018-113,09,HAJDÚ-BIHAR,09-02,Debrecen,,018,Debrecen,09-02,09-02,09-03|09-02|09-01,09-02,710563,1,09-02,09-02,N,1216,1158,0,49,1158,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-018-113?tab=data,710563
+09-018-114,09,HAJDÚ-BIHAR,09-02,Debrecen,,018,Debrecen,09-02,09-02,09-03|09-02|09-01,09-02,527641,1,09-02,09-02,N,1127,1057,0,63,1057,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-018-114?tab=data,527641
+09-018-115,09,HAJDÚ-BIHAR,09-02,Debrecen,,018,Debrecen,09-02,09-02,09-03|09-02|09-01,09-02,6814791,1,09-02,09-02,N,1128,1068,0,54,1068,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-018-115?tab=data,6814791
+09-018-116,09,HAJDÚ-BIHAR,09-02,Debrecen,,018,Debrecen,09-02,09-02,09-03|09-02|09-01,09-02,225987,1,09-02,09-02,N,718,691,0,28,691,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-018-116?tab=data,225987
+09-018-117,09,HAJDÚ-BIHAR,09-02,Debrecen,,018,Debrecen,09-02,09-02,09-03|09-02|09-01,09-02,68507,1,09-02,09-02,N,855,815,0,37,815,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-018-117?tab=data,68507
+09-018-121,09,HAJDÚ-BIHAR,09-02,Debrecen,,018,Debrecen,09-02,09-02,09-03|09-02|09-01,09-02,97360,1,09-02,09-02,N,1053,1018,0,30,1018,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-018-121?tab=data,97360
+09-018-122,09,HAJDÚ-BIHAR,09-02,Debrecen,,018,Debrecen,09-02,09-02,09-03|09-02|09-01,09-01|09-02,672482|699847,0|1,09-02,09-02,N,923,879,0,33,879,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-018-122?tab=data,1372332
+09-018-123,09,HAJDÚ-BIHAR,09-02,Debrecen,,018,Debrecen,09-02,09-02,09-03|09-02|09-01,09-02,121489,1,09-02,09-02,N,1155,1116,0,28,1116,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-018-123?tab=data,121489
+09-018-124,09,HAJDÚ-BIHAR,09-02,Debrecen,,018,Debrecen,09-02,09-02,09-03|09-02|09-01,09-02,529644,1,09-02,09-02,N,1107,1054,0,46,1054,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-018-124?tab=data,529644
+09-018-125,09,HAJDÚ-BIHAR,09-02,Debrecen,,018,Debrecen,09-02,09-02,09-03|09-02|09-01,09-02,35452,1,09-02,09-02,N,1162,1121,0,47,1121,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-018-125?tab=data,35452
+09-018-126,09,HAJDÚ-BIHAR,09-02,Debrecen,,018,Debrecen,09-02,09-02,09-03|09-02|09-01,09-02,276555,1,09-02,09-02,N,1019,967,0,36,967,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-018-126?tab=data,276555
+09-018-127,09,HAJDÚ-BIHAR,09-02,Debrecen,,018,Debrecen,09-02,09-02,09-03|09-02|09-01,09-02,78767,1,09-02,09-02,N,1083,1059,0,39,1059,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-018-127?tab=data,78767
+09-018-131,09,HAJDÚ-BIHAR,09-02,Debrecen,,018,Debrecen,09-02,09-02,09-03|09-02|09-01,09-02,53847,1,09-02,09-02,N,1176,1134,0,43,1134,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-018-131?tab=data,53847
+09-018-132,09,HAJDÚ-BIHAR,09-02,Debrecen,,018,Debrecen,09-02,09-02,09-03|09-02|09-01,09-02,43184,1,09-02,09-02,N,1140,1095,0,30,1095,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-018-132?tab=data,43184
 09-018-133,09,HAJDÚ-BIHAR,09-02,Debrecen,,018,Debrecen,09-02,09-02,09-03|09-02|09-01,,,,,,,,,,,,,
-09-018-134,09,HAJDÚ-BIHAR,09-02,Debrecen,,018,Debrecen,09-02,09-02,09-03|09-02|09-01,,,,,,,,,,,,,
-09-018-135,09,HAJDÚ-BIHAR,09-02,Debrecen,,018,Debrecen,09-02,09-02,09-03|09-02|09-01,,,,,,,,,,,,,
-09-018-136,09,HAJDÚ-BIHAR,09-02,Debrecen,,018,Debrecen,09-02,09-02,09-03|09-02|09-01,,,,,,,,,,,,,
-09-018-141,09,HAJDÚ-BIHAR,09-01,Debrecen,,018,Debrecen,09-01,09-01,09-03|09-02|09-01,,,,,,,,,,,,,
-09-018-142,09,HAJDÚ-BIHAR,09-01,Debrecen,,018,Debrecen,09-01,09-01,09-03|09-02|09-01,,,,,,,,,,,,,
-09-018-143,09,HAJDÚ-BIHAR,09-01,Debrecen,,018,Debrecen,09-01,09-01,09-03|09-02|09-01,,,,,,,,,,,,,
-09-018-144,09,HAJDÚ-BIHAR,09-01,Debrecen,,018,Debrecen,09-01,09-01,09-03|09-02|09-01,,,,,,,,,,,,,
-09-018-145,09,HAJDÚ-BIHAR,09-01,Debrecen,,018,Debrecen,09-01,09-01,09-03|09-02|09-01,,,,,,,,,,,,,
-09-018-151,09,HAJDÚ-BIHAR,09-01,Debrecen,,018,Debrecen,09-01,09-01,09-03|09-02|09-01,,,,,,,,,,,,,
-09-018-152,09,HAJDÚ-BIHAR,09-01,Debrecen,,018,Debrecen,09-01,09-01,09-03|09-02|09-01,,,,,,,,,,,,,
-09-018-153,09,HAJDÚ-BIHAR,09-01,Debrecen,,018,Debrecen,09-01,09-01,09-03|09-02|09-01,,,,,,,,,,,,,
-09-018-154,09,HAJDÚ-BIHAR,09-01,Debrecen,,018,Debrecen,09-01,09-01,09-03|09-02|09-01,,,,,,,,,,,,,
-09-018-155,09,HAJDÚ-BIHAR,09-01,Debrecen,,018,Debrecen,09-01,09-01,09-03|09-02|09-01,,,,,,,,,,,,,
-09-018-156,09,HAJDÚ-BIHAR,09-01,Debrecen,,018,Debrecen,09-01,09-01,09-03|09-02|09-01,,,,,,,,,,,,,
-09-018-161,09,HAJDÚ-BIHAR,09-01,Debrecen,,018,Debrecen,09-01,09-01,09-03|09-02|09-01,,,,,,,,,,,,,
-09-018-162,09,HAJDÚ-BIHAR,09-01,Debrecen,,018,Debrecen,09-01,09-01,09-03|09-02|09-01,,,,,,,,,,,,,
-09-018-163,09,HAJDÚ-BIHAR,09-01,Debrecen,,018,Debrecen,09-01,09-01,09-03|09-02|09-01,,,,,,,,,,,,,
-09-018-164,09,HAJDÚ-BIHAR,09-01,Debrecen,,018,Debrecen,09-01,09-01,09-03|09-02|09-01,,,,,,,,,,,,,
-09-018-165,09,HAJDÚ-BIHAR,09-01,Debrecen,,018,Debrecen,09-01,09-01,09-03|09-02|09-01,,,,,,,,,,,,,
-09-018-171,09,HAJDÚ-BIHAR,09-01,Debrecen,,018,Debrecen,09-01,09-01,09-03|09-02|09-01,,,,,,,,,,,,,
-09-018-172,09,HAJDÚ-BIHAR,09-01,Debrecen,,018,Debrecen,09-01,09-01,09-03|09-02|09-01,,,,,,,,,,,,,
-09-018-173,09,HAJDÚ-BIHAR,09-01,Debrecen,,018,Debrecen,09-01,09-01,09-03|09-02|09-01,,,,,,,,,,,,,
-09-018-174,09,HAJDÚ-BIHAR,09-01,Debrecen,,018,Debrecen,09-01,09-01,09-03|09-02|09-01,,,,,,,,,,,,,
-09-018-175,09,HAJDÚ-BIHAR,09-01,Debrecen,,018,Debrecen,09-01,09-01,09-03|09-02|09-01,,,,,,,,,,,,,
-09-018-176,09,HAJDÚ-BIHAR,09-01,Debrecen,,018,Debrecen,09-01,09-01,09-03|09-02|09-01,,,,,,,,,,,,,
-09-018-181,09,HAJDÚ-BIHAR,09-01,Debrecen,,018,Debrecen,09-01,09-01,09-03|09-02|09-01,,,,,,,,,,,,,
-09-018-182,09,HAJDÚ-BIHAR,09-01,Debrecen,,018,Debrecen,09-01,09-01,09-03|09-02|09-01,,,,,,,,,,,,,
-09-018-183,09,HAJDÚ-BIHAR,09-01,Debrecen,,018,Debrecen,09-01,09-01,09-03|09-02|09-01,,,,,,,,,,,,,
-09-018-184,09,HAJDÚ-BIHAR,09-01,Debrecen,,018,Debrecen,09-01,09-01,09-03|09-02|09-01,,,,,,,,,,,,,
-09-018-185,09,HAJDÚ-BIHAR,09-01,Debrecen,,018,Debrecen,09-01,09-01,09-03|09-02|09-01,,,,,,,,,,,,,
-09-018-186,09,HAJDÚ-BIHAR,09-01,Debrecen,,018,Debrecen,09-01,09-01,09-03|09-02|09-01,,,,,,,,,,,,,
-09-018-187,09,HAJDÚ-BIHAR,09-01,Debrecen,,018,Debrecen,09-01,09-01,09-03|09-02|09-01,,,,,,,,,,,,,
-09-018-188,09,HAJDÚ-BIHAR,09-01,Debrecen,,018,Debrecen,09-01,09-01,09-03|09-02|09-01,,,,,,,,,,,,,
-09-018-191,09,HAJDÚ-BIHAR,09-01,Debrecen,,018,Debrecen,09-01,09-01,09-03|09-02|09-01,,,,,,,,,,,,,
-09-018-192,09,HAJDÚ-BIHAR,09-01,Debrecen,,018,Debrecen,09-01,09-01,09-03|09-02|09-01,,,,,,,,,,,,,
-09-018-193,09,HAJDÚ-BIHAR,09-01,Debrecen,,018,Debrecen,09-01,09-01,09-03|09-02|09-01,,,,,,,,,,,,,
-09-018-194,09,HAJDÚ-BIHAR,09-01,Debrecen,,018,Debrecen,09-01,09-01,09-03|09-02|09-01,,,,,,,,,,,,,
-09-018-195,09,HAJDÚ-BIHAR,09-01,Debrecen,,018,Debrecen,09-01,09-01,09-03|09-02|09-01,,,,,,,,,,,,,
-09-018-196,09,HAJDÚ-BIHAR,09-01,Debrecen,,018,Debrecen,09-01,09-01,09-03|09-02|09-01,,,,,,,,,,,,,
-09-018-201,09,HAJDÚ-BIHAR,09-01,Debrecen,,018,Debrecen,09-01,09-01,09-03|09-02|09-01,,,,,,,,,,,,,
-09-018-202,09,HAJDÚ-BIHAR,09-01,Debrecen,,018,Debrecen,09-01,09-01,09-03|09-02|09-01,,,,,,,,,,,,,
-09-018-203,09,HAJDÚ-BIHAR,09-01,Debrecen,,018,Debrecen,09-01,09-01,09-03|09-02|09-01,,,,,,,,,,,,,
-09-018-204,09,HAJDÚ-BIHAR,09-01,Debrecen,,018,Debrecen,09-01,09-01,09-03|09-02|09-01,,,,,,,,,,,,,
-09-018-205,09,HAJDÚ-BIHAR,09-01,Debrecen,,018,Debrecen,09-01,09-01,09-03|09-02|09-01,,,,,,,,,,,,,
-09-018-211,09,HAJDÚ-BIHAR,09-01,Debrecen,,018,Debrecen,09-01,09-01,09-03|09-02|09-01,,,,,,,,,,,,,
-09-018-212,09,HAJDÚ-BIHAR,09-01,Debrecen,,018,Debrecen,09-01,09-01,09-03|09-02|09-01,,,,,,,,,,,,,
-09-018-213,09,HAJDÚ-BIHAR,09-01,Debrecen,,018,Debrecen,09-01,09-01,09-03|09-02|09-01,,,,,,,,,,,,,
-09-018-214,09,HAJDÚ-BIHAR,09-01,Debrecen,,018,Debrecen,09-01,09-01,09-03|09-02|09-01,,,,,,,,,,,,,
-09-018-215,09,HAJDÚ-BIHAR,09-01,Debrecen,,018,Debrecen,09-01,09-01,09-03|09-02|09-01,,,,,,,,,,,,,
-09-018-216,09,HAJDÚ-BIHAR,09-01,Debrecen,,018,Debrecen,09-01,09-01,09-03|09-02|09-01,,,,,,,,,,,,,
-09-018-217,09,HAJDÚ-BIHAR,09-01,Debrecen,,018,Debrecen,09-01,09-01,09-03|09-02|09-01,,,,,,,,,,,,,
-09-018-218,09,HAJDÚ-BIHAR,09-01,Debrecen,,018,Debrecen,09-01,09-01,09-03|09-02|09-01,,,,,,,,,,,,,
-09-018-221,09,HAJDÚ-BIHAR,09-01,Debrecen,,018,Debrecen,09-01,09-01,09-03|09-02|09-01,,,,,,,,,,,,,
-09-018-222,09,HAJDÚ-BIHAR,09-01,Debrecen,,018,Debrecen,09-01,09-01,09-03|09-02|09-01,,,,,,,,,,,,,
-09-018-223,09,HAJDÚ-BIHAR,09-01,Debrecen,,018,Debrecen,09-01,09-01,09-03|09-02|09-01,,,,,,,,,,,,,
-09-018-224,09,HAJDÚ-BIHAR,09-01,Debrecen,,018,Debrecen,09-01,09-01,09-03|09-02|09-01,,,,,,,,,,,,,
-09-018-225,09,HAJDÚ-BIHAR,09-01,Debrecen,,018,Debrecen,09-01,09-01,09-03|09-02|09-01,,,,,,,,,,,,,
-09-018-231,09,HAJDÚ-BIHAR,09-01,Debrecen,,018,Debrecen,09-01,09-01,09-03|09-02|09-01,,,,,,,,,,,,,
-09-018-232,09,HAJDÚ-BIHAR,09-01,Debrecen,,018,Debrecen,09-01,09-01,09-03|09-02|09-01,,,,,,,,,,,,,
-09-018-233,09,HAJDÚ-BIHAR,09-01,Debrecen,,018,Debrecen,09-01,09-01,09-03|09-02|09-01,,,,,,,,,,,,,
-09-018-234,09,HAJDÚ-BIHAR,09-01,Debrecen,,018,Debrecen,09-01,09-01,09-03|09-02|09-01,,,,,,,,,,,,,
-09-018-235,09,HAJDÚ-BIHAR,09-01,Debrecen,,018,Debrecen,09-01,09-01,09-03|09-02|09-01,,,,,,,,,,,,,
-09-018-236,09,HAJDÚ-BIHAR,09-01,Debrecen,,018,Debrecen,09-01,09-01,09-03|09-02|09-01,,,,,,,,,,,,,
-09-019-001,09,HAJDÚ-BIHAR,09-04,Berettyóújfalu,,019,Derecske,09-04,09-04,09-04,09-04,1162760,1,09-04,09-04,N,945,937,0,12,937,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-019-001?tab=data,1162760
-09-019-002,09,HAJDÚ-BIHAR,09-04,Berettyóújfalu,,019,Derecske,09-04,09-04,09-04,09-04,807030,1,09-04,09-04,N,930,913,0,13,913,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-019-002?tab=data,807030
-09-019-003,09,HAJDÚ-BIHAR,09-04,Berettyóújfalu,,019,Derecske,09-04,09-04,09-04,09-04,710737,1,09-04,09-04,I,896,867,48,16,915,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-019-003?tab=data,710737
-09-019-004,09,HAJDÚ-BIHAR,09-04,Berettyóújfalu,,019,Derecske,09-04,09-04,09-04,09-04,3197502,1,09-04,09-04,N,917,898,0,14,898,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-019-004?tab=data,3197502
-09-019-005,09,HAJDÚ-BIHAR,09-04,Berettyóújfalu,,019,Derecske,09-04,09-04,09-04,09-04,884334,1,09-04,09-04,N,897,876,0,16,876,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-019-005?tab=data,884334
-09-019-006,09,HAJDÚ-BIHAR,09-04,Berettyóújfalu,,019,Derecske,09-04,09-04,09-04,09-04,750736,1,09-04,09-04,N,970,951,0,15,951,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-019-006?tab=data,750736
-09-019-007,09,HAJDÚ-BIHAR,09-04,Berettyóújfalu,,019,Derecske,09-04,09-04,09-04,09-04,701988,1,09-04,09-04,N,864,844,0,17,844,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-019-007?tab=data,701988
-09-019-008,09,HAJDÚ-BIHAR,09-04,Berettyóújfalu,,019,Derecske,09-04,09-04,09-04,09-04,406197,1,09-04,09-04,N,387,384,0,2,384,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-019-008?tab=data,406197
-09-020-001,09,HAJDÚ-BIHAR,09-05,Hajdúszoboszló,,020,Ebes,09-05,09-05,09-05,09-05,13494877,1,09-05,09-05,I,966,943,35,23,978,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-020-001?tab=data,13494877
+09-018-134,09,HAJDÚ-BIHAR,09-02,Debrecen,,018,Debrecen,09-02,09-02,09-03|09-02|09-01,09-01|09-02,92|59617,0|1,09-02,09-02,N,1167,1133,0,37,1133,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-018-134?tab=data,59709
+09-018-135,09,HAJDÚ-BIHAR,09-02,Debrecen,,018,Debrecen,09-02,09-02,09-03|09-02|09-01,09-02,73571,1,09-02,09-02,N,1151,1108,0,38,1108,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-018-135?tab=data,73571
+09-018-136,09,HAJDÚ-BIHAR,09-02,Debrecen,,018,Debrecen,09-02,09-02,09-03|09-02|09-01,09-02,23857,1,09-02,09-02,N,954,910,0,34,910,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-018-136?tab=data,23857
+09-018-141,09,HAJDÚ-BIHAR,09-01,Debrecen,,018,Debrecen,09-01,09-01,09-03|09-02|09-01,09-01|09-02,40530852|14779,1|0,09-01,09-01,N,1409,1376,0,24,1376,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-018-141?tab=data,40545633
+09-018-142,09,HAJDÚ-BIHAR,09-01,Debrecen,,018,Debrecen,09-01,09-01,09-03|09-02|09-01,09-01|09-02,6054209|1046711,1|0,09-01,09-01,N,1489,1461,0,42,1461,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-018-142?tab=data,7100929
+09-018-143,09,HAJDÚ-BIHAR,09-01,Debrecen,,018,Debrecen,09-01,09-01,09-03|09-02|09-01,09-01|09-02|09-03,2426680|855509|238145,1|0|0,09-01,09-01,N,1500,1474,0,25,1474,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-018-143?tab=data,3520416
+09-018-144,09,HAJDÚ-BIHAR,09-01,Debrecen,,018,Debrecen,09-01,09-01,09-03|09-02|09-01,09-01,849215,1,09-01,09-01,N,1146,1117,0,19,1117,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-018-144?tab=data,849215
+09-018-145,09,HAJDÚ-BIHAR,09-01,Debrecen,,018,Debrecen,09-01,09-01,09-03|09-02|09-01,09-01|09-02,1106226|179,1|0,09-01,09-01,N,1422,1364,0,57,1364,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-018-145?tab=data,1106405
+09-018-151,09,HAJDÚ-BIHAR,09-01,Debrecen,,018,Debrecen,09-01,09-01,09-03|09-02|09-01,09-01,703018,1,09-01,09-01,N,880,852,0,27,852,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-018-151?tab=data,703018
+09-018-152,09,HAJDÚ-BIHAR,09-01,Debrecen,,018,Debrecen,09-01,09-01,09-03|09-02|09-01,09-01,626394,1,09-01,09-01,N,1093,1052,0,34,1052,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-018-152?tab=data,626394
+09-018-153,09,HAJDÚ-BIHAR,09-01,Debrecen,,018,Debrecen,09-01,09-01,09-03|09-02|09-01,09-01|09-02,639329|639,1|0,09-01,09-01,N,869,829,0,32,829,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-018-153?tab=data,639968
+09-018-154,09,HAJDÚ-BIHAR,09-01,Debrecen,,018,Debrecen,09-01,09-01,09-03|09-02|09-01,09-01,902929,1,09-01,09-01,N,1165,1129,0,30,1129,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-018-154?tab=data,902929
+09-018-155,09,HAJDÚ-BIHAR,09-01,Debrecen,,018,Debrecen,09-01,09-01,09-03|09-02|09-01,09-01,157756,1,09-01,09-01,N,1180,1121,0,45,1121,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-018-155?tab=data,157756
+09-018-156,09,HAJDÚ-BIHAR,09-01,Debrecen,,018,Debrecen,09-01,09-01,09-03|09-02|09-01,09-01,25126,1,09-01,09-01,N,1001,962,0,26,962,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-018-156?tab=data,25126
+09-018-161,09,HAJDÚ-BIHAR,09-01,Debrecen,,018,Debrecen,09-01,09-01,09-03|09-02|09-01,09-01,594698,1,09-01,09-01,N,1113,1064,0,39,1064,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-018-161?tab=data,594698
+09-018-162,09,HAJDÚ-BIHAR,09-01,Debrecen,,018,Debrecen,09-01,09-01,09-03|09-02|09-01,09-01|09-02,362068|97544,1|0,09-01,09-01,N,1125,1062,0,44,1062,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-018-162?tab=data,459612
+09-018-163,09,HAJDÚ-BIHAR,09-01,Debrecen,,018,Debrecen,09-01,09-01,09-03|09-02|09-01,09-01|09-02,2748454|32003,1|0,09-01,09-01,N,1335,1248,0,73,1248,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-018-163?tab=data,2780457
+09-018-164,09,HAJDÚ-BIHAR,09-01,Debrecen,,018,Debrecen,09-01,09-01,09-03|09-02|09-01,09-01,183351,1,09-01,09-01,N,1160,1104,0,55,1104,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-018-164?tab=data,183351
+09-018-165,09,HAJDÚ-BIHAR,09-01,Debrecen,,018,Debrecen,09-01,09-01,09-03|09-02|09-01,09-01,80918,1,09-01,09-01,N,1279,1190,0,70,1190,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-018-165?tab=data,80918
+09-018-171,09,HAJDÚ-BIHAR,09-01,Debrecen,,018,Debrecen,09-01,09-01,09-03|09-02|09-01,09-01|09-02,790734|103437,1|0,09-01,09-01,N,1278,1240,0,64,1240,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-018-171?tab=data,894171
+09-018-172,09,HAJDÚ-BIHAR,09-01,Debrecen,,018,Debrecen,09-01,09-01,09-03|09-02|09-01,09-01|09-02,286481|85,1|0,09-01,09-01,N,1399,1343,0,51,1343,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-018-172?tab=data,286566
+09-018-173,09,HAJDÚ-BIHAR,09-01,Debrecen,,018,Debrecen,09-01,09-01,09-03|09-02|09-01,09-01|09-03,473903|1553,1|0,09-01,09-01,N,1306,1253,0,52,1253,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-018-173?tab=data,475456
+09-018-174,09,HAJDÚ-BIHAR,09-01,Debrecen,,018,Debrecen,09-01,09-01,09-03|09-02|09-01,09-01,203167,1,09-01,09-01,N,751,712,0,36,712,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-018-174?tab=data,203167
+09-018-175,09,HAJDÚ-BIHAR,09-01,Debrecen,,018,Debrecen,09-01,09-01,09-03|09-02|09-01,09-01|09-03,496635|44147,1|0,09-01,09-01,N,1088,1033,0,55,1033,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-018-175?tab=data,540782
+09-018-176,09,HAJDÚ-BIHAR,09-01,Debrecen,,018,Debrecen,09-01,09-01,09-03|09-02|09-01,09-01|09-02|09-03,125247|9|27722,1|0|0,09-01,09-01,N,736,719,0,23,719,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-018-176?tab=data,152977
+09-018-181,09,HAJDÚ-BIHAR,09-01,Debrecen,,018,Debrecen,09-01,09-01,09-03|09-02|09-01,09-01,3393847,1,09-01,09-01,N,687,679,0,10,679,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-018-181?tab=data,3393847
+09-018-182,09,HAJDÚ-BIHAR,09-01,Debrecen,,018,Debrecen,09-01,09-01,09-03|09-02|09-01,09-01,1728547,1,09-01,09-01,N,1166,1100,0,47,1100,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-018-182?tab=data,1728547
+09-018-183,09,HAJDÚ-BIHAR,09-01,Debrecen,,018,Debrecen,09-01,09-01,09-03|09-02|09-01,09-01,522431,1,09-01,09-01,N,1154,1074,0,65,1074,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-018-183?tab=data,522431
+09-018-184,09,HAJDÚ-BIHAR,09-01,Debrecen,,018,Debrecen,09-01,09-01,09-03|09-02|09-01,09-01,1217625,1,09-01,09-01,N,453,435,0,20,435,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-018-184?tab=data,1217625
+09-018-185,09,HAJDÚ-BIHAR,09-01,Debrecen,,018,Debrecen,09-01,09-01,09-03|09-02|09-01,09-01,1969287,1,09-01,09-01,N,834,807,0,28,807,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-018-185?tab=data,1969287
+09-018-186,09,HAJDÚ-BIHAR,09-01,Debrecen,,018,Debrecen,09-01,09-01,09-03|09-02|09-01,09-01,7541526,1,09-01,09-01,N,1274,1241,0,40,1241,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-018-186?tab=data,7541526
+09-018-187,09,HAJDÚ-BIHAR,09-01,Debrecen,,018,Debrecen,09-01,09-01,09-03|09-02|09-01,09-01,1204340,1,09-01,09-01,N,966,930,0,27,930,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-018-187?tab=data,1204340
+09-018-188,09,HAJDÚ-BIHAR,09-01,Debrecen,,018,Debrecen,09-01,09-01,09-03|09-02|09-01,09-01|09-03,39441|5841,1|0,09-01,09-01,N,741,712,0,20,712,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-018-188?tab=data,45281
+09-018-191,09,HAJDÚ-BIHAR,09-01,Debrecen,,018,Debrecen,09-01,09-01,09-03|09-02|09-01,09-01,44723,1,09-01,09-01,N,871,831,0,31,831,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-018-191?tab=data,44723
+09-018-192,09,HAJDÚ-BIHAR,09-01,Debrecen,,018,Debrecen,09-01,09-01,09-03|09-02|09-01,09-01,406706,1,09-01,09-01,N,1113,1078,0,36,1078,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-018-192?tab=data,406706
+09-018-193,09,HAJDÚ-BIHAR,09-01,Debrecen,,018,Debrecen,09-01,09-01,09-03|09-02|09-01,09-01|09-02,238902|773,1|0,09-01,09-01,N,1259,1190,0,57,1190,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-018-193?tab=data,239675
+09-018-194,09,HAJDÚ-BIHAR,09-01,Debrecen,,018,Debrecen,09-01,09-01,09-03|09-02|09-01,09-01,882940,1,09-01,09-01,N,1250,1182,0,62,1182,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-018-194?tab=data,882940
+09-018-195,09,HAJDÚ-BIHAR,09-01,Debrecen,,018,Debrecen,09-01,09-01,09-03|09-02|09-01,09-01,379496,1,09-01,09-01,N,790,746,0,33,746,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-018-195?tab=data,379496
+09-018-196,09,HAJDÚ-BIHAR,09-01,Debrecen,,018,Debrecen,09-01,09-01,09-03|09-02|09-01,09-01|09-02,1265872|142468,1|0,09-01,09-01,N,1190,1116,0,65,1116,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-018-196?tab=data,1408345
+09-018-201,09,HAJDÚ-BIHAR,09-01,Debrecen,,018,Debrecen,09-01,09-01,09-03|09-02|09-01,09-01,42120,1,09-01,09-01,N,1018,986,0,35,986,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-018-201?tab=data,42120
+09-018-202,09,HAJDÚ-BIHAR,09-01,Debrecen,,018,Debrecen,09-01,09-01,09-03|09-02|09-01,09-01,155882,1,09-01,09-01,N,1329,1275,0,45,1275,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-018-202?tab=data,155882
+09-018-203,09,HAJDÚ-BIHAR,09-01,Debrecen,,018,Debrecen,09-01,09-01,09-03|09-02|09-01,09-01,134958,1,09-01,09-01,N,1225,1177,0,44,1177,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-018-203?tab=data,134958
+09-018-204,09,HAJDÚ-BIHAR,09-01,Debrecen,,018,Debrecen,09-01,09-01,09-03|09-02|09-01,09-01,244588,1,09-01,09-01,N,1163,1118,0,44,1118,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-018-204?tab=data,244588
+09-018-205,09,HAJDÚ-BIHAR,09-01,Debrecen,,018,Debrecen,09-01,09-01,09-03|09-02|09-01,09-01,49385,1,09-01,09-01,N,1083,1038,0,40,1038,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-018-205?tab=data,49385
+09-018-211,09,HAJDÚ-BIHAR,09-01,Debrecen,,018,Debrecen,09-01,09-01,09-03|09-02|09-01,09-01,502222,1,09-01,09-01,N,580,566,0,7,566,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-018-211?tab=data,502222
+09-018-212,09,HAJDÚ-BIHAR,09-01,Debrecen,,018,Debrecen,09-01,09-01,09-03|09-02|09-01,09-01,3780052,1,09-01,09-01,N,755,732,0,19,732,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-018-212?tab=data,3780052
+09-018-213,09,HAJDÚ-BIHAR,09-01,Debrecen,,018,Debrecen,09-01,09-01,09-03|09-02|09-01,09-01,346119,1,09-01,09-01,N,396,384,0,11,384,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-018-213?tab=data,346119
+09-018-214,09,HAJDÚ-BIHAR,09-01,Debrecen,,018,Debrecen,09-01,09-01,09-03|09-02|09-01,09-01,8484908,1,09-01,09-01,N,1290,1253,0,37,1253,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-018-214?tab=data,8484908
+09-018-215,09,HAJDÚ-BIHAR,09-01,Debrecen,,018,Debrecen,09-01,09-01,09-03|09-02|09-01,09-01,549945,1,09-01,09-01,N,865,830,0,39,830,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-018-215?tab=data,549945
+09-018-216,09,HAJDÚ-BIHAR,09-01,Debrecen,,018,Debrecen,09-01,09-01,09-03|09-02|09-01,09-01,1193152,1,09-01,09-01,N,1194,1130,0,51,1130,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-018-216?tab=data,1193152
+09-018-217,09,HAJDÚ-BIHAR,09-01,Debrecen,,018,Debrecen,09-01,09-01,09-03|09-02|09-01,09-01,489267,1,09-01,09-01,N,1404,1328,0,67,1328,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-018-217?tab=data,489267
+09-018-218,09,HAJDÚ-BIHAR,09-01,Debrecen,,018,Debrecen,09-01,09-01,09-03|09-02|09-01,09-01,544232,1,09-01,09-01,N,1323,1258,0,57,1258,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-018-218?tab=data,544232
+09-018-221,09,HAJDÚ-BIHAR,09-01,Debrecen,,018,Debrecen,09-01,09-01,09-03|09-02|09-01,09-01,41443,1,09-01,09-01,N,1158,1118,0,35,1118,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-018-221?tab=data,41443
+09-018-222,09,HAJDÚ-BIHAR,09-01,Debrecen,,018,Debrecen,09-01,09-01,09-03|09-02|09-01,09-01,125691,1,09-01,09-01,N,1101,1042,0,38,1042,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-018-222?tab=data,125691
+09-018-223,09,HAJDÚ-BIHAR,09-01,Debrecen,,018,Debrecen,09-01,09-01,09-03|09-02|09-01,09-01,42653,1,09-01,09-01,N,1225,1158,0,58,1158,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-018-223?tab=data,42653
+09-018-224,09,HAJDÚ-BIHAR,09-01,Debrecen,,018,Debrecen,09-01,09-01,09-03|09-02|09-01,09-01,471104,1,09-01,09-01,N,1023,972,0,44,972,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-018-224?tab=data,471104
+09-018-225,09,HAJDÚ-BIHAR,09-01,Debrecen,,018,Debrecen,09-01,09-01,09-03|09-02|09-01,09-01,819571,1,09-01,09-01,N,1019,963,0,44,963,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-018-225?tab=data,819571
+09-018-231,09,HAJDÚ-BIHAR,09-01,Debrecen,,018,Debrecen,09-01,09-01,09-03|09-02|09-01,09-01,648260,1,09-01,09-01,N,1303,1270,0,29,1270,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-018-231?tab=data,648260
+09-018-232,09,HAJDÚ-BIHAR,09-01,Debrecen,,018,Debrecen,09-01,09-01,09-03|09-02|09-01,09-01,1845805,1,09-01,09-01,N,1490,1425,0,57,1425,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-018-232?tab=data,1845805
+09-018-233,09,HAJDÚ-BIHAR,09-01,Debrecen,,018,Debrecen,09-01,09-01,09-03|09-02|09-01,09-01,1557495,1,09-01,09-01,N,1406,1366,0,26,1366,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-018-233?tab=data,1557495
+09-018-234,09,HAJDÚ-BIHAR,09-01,Debrecen,,018,Debrecen,09-01,09-01,09-03|09-02|09-01,09-01,1310448,1,09-01,09-01,N,1239,1194,0,44,1194,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-018-234?tab=data,1310448
+09-018-235,09,HAJDÚ-BIHAR,09-01,Debrecen,,018,Debrecen,09-01,09-01,09-03|09-02|09-01,09-01,959787,1,09-01,09-01,N,1418,1368,0,54,1368,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-018-235?tab=data,959787
+09-018-236,09,HAJDÚ-BIHAR,09-01,Debrecen,,018,Debrecen,09-01,09-01,09-03|09-02|09-01,09-01|09-02,4116001|21198,1|0,09-01,09-01,N,1144,1115,0,20,1115,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-018-236?tab=data,4137139
+09-019-001,09,HAJDÚ-BIHAR,09-04,Berettyóújfalu,,019,Derecske,09-04,09-04,09-04,09-04|09-04,1162760|1162760,1|1,09-04,09-04,N,945,937,0,12,937,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-019-001?tab=data,1162760
+09-019-002,09,HAJDÚ-BIHAR,09-04,Berettyóújfalu,,019,Derecske,09-04,09-04,09-04,09-04|09-04,807030|807030,1|1,09-04,09-04,N,930,913,0,13,913,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-019-002?tab=data,807030
+09-019-003,09,HAJDÚ-BIHAR,09-04,Berettyóújfalu,,019,Derecske,09-04,09-04,09-04,09-04|09-04,710737|710737,1|1,09-04,09-04,I,896,867,48,16,915,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-019-003?tab=data,710737
+09-019-004,09,HAJDÚ-BIHAR,09-04,Berettyóújfalu,,019,Derecske,09-04,09-04,09-04,09-04|09-04,3197502|3197502,1|1,09-04,09-04,N,917,898,0,14,898,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-019-004?tab=data,3197502
+09-019-005,09,HAJDÚ-BIHAR,09-04,Berettyóújfalu,,019,Derecske,09-04,09-04,09-04,09-04|09-04,884334|884334,1|1,09-04,09-04,N,897,876,0,16,876,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-019-005?tab=data,884334
+09-019-006,09,HAJDÚ-BIHAR,09-04,Berettyóújfalu,,019,Derecske,09-04,09-04,09-04,09-04|09-04,750736|750736,1|1,09-04,09-04,N,970,951,0,15,951,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-019-006?tab=data,750736
+09-019-007,09,HAJDÚ-BIHAR,09-04,Berettyóújfalu,,019,Derecske,09-04,09-04,09-04,09-04|09-04,701988|701988,1|1,09-04,09-04,N,864,844,0,17,844,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-019-007?tab=data,701988
+09-019-008,09,HAJDÚ-BIHAR,09-04,Berettyóújfalu,,019,Derecske,09-04,09-04,09-04,09-04|09-04,406197|406197,1|1,09-04,09-04,N,387,384,0,2,384,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-019-008?tab=data,406197
+09-020-001,09,HAJDÚ-BIHAR,09-05,Hajdúszoboszló,,020,Ebes,09-05,09-05,09-05,09-05|09-05,13494877|13494877,1|1,09-05,09-05,I,966,943,35,23,978,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-020-001?tab=data,13494877
 09-020-002,09,HAJDÚ-BIHAR,09-05,Hajdúszoboszló,,020,Ebes,09-05,09-05,09-05,09-01|09-05,2|29879858,0|1,09-05,09-05,N,884,866,0,18,866,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-020-002?tab=data,29879860
 09-020-003,09,HAJDÚ-BIHAR,09-05,Hajdúszoboszló,,020,Ebes,09-05,09-05,09-05,09-05,1271392,1,09-05,09-05,N,1087,1041,0,35,1041,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-020-003?tab=data,1271392
 09-020-004,09,HAJDÚ-BIHAR,09-05,Hajdúszoboszló,,020,Ebes,09-05,09-05,09-05,09-05,1012981,1,09-05,09-05,N,875,864,0,9,864,https://vtr.valasztas.hu/ogy2022/szavazohelyisegek/09-020-004?tab=data,1012981
