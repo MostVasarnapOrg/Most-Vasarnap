@@ -1,0 +1,125 @@
+{
+  "PvOnHeader" : {
+    "generated" : "2026-02-11T05:00:00.048850653+01:00",
+    "val_dat" : "2026-04-12T00:00:00+02:00",
+    "vl_id" : 467,
+    "nvv_id" : 542
+  },
+  "data" : {
+    "maz" : "07",
+    "taz" : "108",
+    "korzethatarok" : [ {
+      "szavkor" : "002",
+      "kt_nev" : "Akácfa",
+      "kt_jelleg" : "utca",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "001",
+      "kt_nev" : "Berzsenyi Dániel",
+      "kt_jelleg" : "utca",
+      "int_tip" : "3",
+      "kezd_hsz" : "000002",
+      "zaro_hsz" : "000056"
+    }, {
+      "szavkor" : "001",
+      "kt_nev" : "Berzsenyi Dániel",
+      "kt_jelleg" : "utca",
+      "int_tip" : "4",
+      "kezd_hsz" : "000003",
+      "zaro_hsz" : "000025"
+    }, {
+      "szavkor" : "002",
+      "kt_nev" : "Berzsenyi Dániel",
+      "kt_jelleg" : "utca",
+      "int_tip" : "4",
+      "kezd_hsz" : "000025/A",
+      "zaro_hsz" : "999999",
+      "zaro_ep" : "9999",
+      "zaro_lh" : "9999"
+    }, {
+      "szavkor" : "002",
+      "kt_nev" : "Berzsenyi Dániel",
+      "kt_jelleg" : "utca",
+      "int_tip" : "3",
+      "kezd_hsz" : "000058",
+      "zaro_hsz" : "999998",
+      "zaro_ep" : "9999",
+      "zaro_lh" : "9999"
+    }, {
+      "szavkor" : "001",
+      "kt_nev" : "Dániel",
+      "kt_jelleg" : "utca",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "001",
+      "kt_nev" : "Daru",
+      "kt_jelleg" : "sor",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "002",
+      "kt_nev" : "Durda",
+      "kt_jelleg" : "utca",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "001",
+      "kt_nev" : "Falupark",
+      "kt_jelleg" : "utca",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "002",
+      "kt_nev" : "Fehérvári",
+      "kt_jelleg" : "utca",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "001",
+      "kt_nev" : "Fő",
+      "kt_jelleg" : "utca",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "002",
+      "kt_nev" : "Hunyadi",
+      "kt_jelleg" : "utca",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "002",
+      "kt_nev" : "Jókai",
+      "kt_jelleg" : "utca",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "001",
+      "kt_nev" : "Katalinhegy",
+      "kt_jelleg" : "tanya",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "002",
+      "kt_nev" : "Pázmándi",
+      "kt_jelleg" : "út",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "002",
+      "kt_nev" : "Piripócsi",
+      "kt_jelleg" : "utca",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "002",
+      "kt_nev" : "Templomosi",
+      "kt_jelleg" : "út",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "002",
+      "kt_nev" : "Újtelep",
+      "kt_jelleg" : "utca",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "001",
+      "kt_nev" : "Virághegy",
+      "kt_jelleg" : "tanya",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "002",
+      "kt_nev" : "Vörösmarty",
+      "kt_jelleg" : "utca",
+      "int_tip" : "2"
+    } ]
+  }
+}

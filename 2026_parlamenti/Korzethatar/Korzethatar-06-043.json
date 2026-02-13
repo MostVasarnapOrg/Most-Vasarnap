@@ -1,0 +1,149 @@
+{
+  "PvOnHeader" : {
+    "generated" : "2026-02-11T05:00:00.048850653+01:00",
+    "val_dat" : "2026-04-12T00:00:00+02:00",
+    "vl_id" : 467,
+    "nvv_id" : 542
+  },
+  "data" : {
+    "maz" : "06",
+    "taz" : "043",
+    "korzethatarok" : [ {
+      "szavkor" : "001",
+      "kt_nev" : "Alkotmány",
+      "kt_jelleg" : "utca",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "001",
+      "kt_nev" : "Béke",
+      "kt_jelleg" : "utca",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "001",
+      "kt_nev" : "Fenyves",
+      "kt_jelleg" : "utca",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "001",
+      "kt_nev" : "Fő",
+      "kt_jelleg" : "utca",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "001",
+      "kt_nev" : "Kossuth Lajos",
+      "kt_jelleg" : "utca",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "001",
+      "kt_nev" : "Magyar László",
+      "kt_jelleg" : "utca",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "001",
+      "kt_nev" : "Pacsirta",
+      "kt_jelleg" : "utca",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "001",
+      "kt_nev" : "Petőfi",
+      "kt_jelleg" : "utca",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "001",
+      "kt_nev" : "Ruzsai",
+      "kt_jelleg" : "utca",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "001",
+      "kt_nev" : "Szabadság",
+      "kt_jelleg" : "utca",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "001",
+      "kt_nev" : "Tanya",
+      "int_tip" : "5",
+      "kezd_hsz" : "000001",
+      "zaro_hsz" : "000117"
+    }, {
+      "szavkor" : "002",
+      "kt_nev" : "Tanya",
+      "int_tip" : "5",
+      "kezd_hsz" : "000118",
+      "zaro_hsz" : "000125"
+    }, {
+      "szavkor" : "001",
+      "kt_nev" : "Tanya",
+      "int_tip" : "5",
+      "kezd_hsz" : "000127",
+      "zaro_hsz" : "000157"
+    }, {
+      "szavkor" : "002",
+      "kt_nev" : "Tanya",
+      "int_tip" : "5",
+      "kezd_hsz" : "000158",
+      "zaro_hsz" : "000171"
+    }, {
+      "szavkor" : "001",
+      "kt_nev" : "Tanya",
+      "int_tip" : "5",
+      "kezd_hsz" : "000172",
+      "zaro_hsz" : "000177/0001"
+    }, {
+      "szavkor" : "002",
+      "kt_nev" : "Tanya",
+      "int_tip" : "5",
+      "kezd_hsz" : "000178",
+      "zaro_hsz" : "000285"
+    }, {
+      "szavkor" : "001",
+      "kt_nev" : "Tanya",
+      "int_tip" : "5",
+      "kezd_hsz" : "000287/0001",
+      "zaro_hsz" : "000313"
+    }, {
+      "szavkor" : "002",
+      "kt_nev" : "Tanya",
+      "int_tip" : "5",
+      "kezd_hsz" : "000315",
+      "zaro_hsz" : "000322"
+    }, {
+      "szavkor" : "001",
+      "kt_nev" : "Tanya",
+      "int_tip" : "5",
+      "kezd_hsz" : "000325",
+      "zaro_hsz" : "000329"
+    }, {
+      "szavkor" : "002",
+      "kt_nev" : "Tanya",
+      "int_tip" : "5",
+      "kezd_hsz" : "000336",
+      "zaro_hsz" : "001367"
+    }, {
+      "szavkor" : "001",
+      "kt_nev" : "Tanya",
+      "int_tip" : "5",
+      "kezd_hsz" : "001368",
+      "zaro_hsz" : "001368"
+    }, {
+      "szavkor" : "002",
+      "kt_nev" : "Tanya",
+      "int_tip" : "5",
+      "kezd_hsz" : "001369/0001",
+      "zaro_hsz" : "001395"
+    }, {
+      "szavkor" : "001",
+      "kt_nev" : "Tanya",
+      "int_tip" : "5",
+      "kezd_hsz" : "001396",
+      "zaro_hsz" : "001396"
+    }, {
+      "szavkor" : "002",
+      "kt_nev" : "Tanya",
+      "int_tip" : "5",
+      "kezd_hsz" : "001397",
+      "zaro_hsz" : "999999",
+      "zaro_ep" : "9999",
+      "zaro_lh" : "9999"
+    } ]
+  }
+}

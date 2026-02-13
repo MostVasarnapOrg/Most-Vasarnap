@@ -1,0 +1,32 @@
+{
+  "PvOnHeader" : {
+    "generated" : "2026-02-11T05:00:00.048850653+01:00",
+    "val_dat" : "2026-04-12T00:00:00+02:00",
+    "vl_id" : 467,
+    "nvv_id" : 542
+  },
+  "data" : {
+    "maz" : "02",
+    "taz" : "132",
+    "korzethatarok" : [ {
+      "szavkor" : "001",
+      "kt_nev" : "Kossuth",
+      "kt_jelleg" : "utca",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "002",
+      "kt_nev" : "Mailáthpuszta",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "001",
+      "kt_nev" : "Szabadság",
+      "kt_jelleg" : "utca",
+      "int_tip" : "2"
+    }, {
+      "szavkor" : "001",
+      "kt_nev" : "Széchenyi István",
+      "kt_jelleg" : "utca",
+      "int_tip" : "2"
+    } ]
+  }
+}
